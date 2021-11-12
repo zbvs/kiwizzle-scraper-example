@@ -1,0 +1,393 @@
+{
+  "data": {
+    "allLever": {
+      "teams": [
+        "BUSINESS",
+        "DATA",
+        "DESIGN",
+        "ENGINEERING",
+        "MANAGEMENT",
+        "PM",
+        "QA/CS/OPS",
+        "STRATEGY",
+        "TALENT POOL"
+      ],
+      "nodes": [
+        {
+          "categories": {
+            "team": "DESIGN",
+            "location": "Seoul",
+            "department": "2021 상시채용",
+            "commitment": "Full-time"
+          },
+          "id": "cf6cbdc7-088f-5d62-8177-a187cdc42b28",
+          "text": "3D Character Artist",
+          "lever_id": "6b897edd-3fee-4296-96fa-023691aa623d"
+        },
+        {
+          "categories": {
+            "team": "ENGINEERING",
+            "location": "Seoul",
+            "department": "2021 상시채용",
+            "commitment": "Full-time"
+          },
+          "id": "e22c01d1-aeca-5f3e-86e2-b9e555adc53b",
+          "text": "Android Software Engineer(Enterprise)",
+          "lever_id": "75f2901c-94bf-46f8-a03b-9908d3433bde"
+        },
+        {
+          "categories": {
+            "team": "ENGINEERING",
+            "location": "Seoul",
+            "department": "2021 상시채용",
+            "commitment": "Full-time"
+          },
+          "id": "f85176a8-d37b-5d1b-8fef-31f1a0ff1856",
+          "text": "AR App Engineer",
+          "lever_id": "a0bfe715-2a2a-4cbf-96c2-e643ef1797e5"
+        },
+        {
+          "categories": {
+            "team": "BUSINESS",
+            "location": "Seoul",
+            "department": "2021 상시채용",
+            "commitment": "Full-time"
+          },
+          "id": "51bfa5c0-1b04-50b2-9d83-5302d87a1c93",
+          "text": "Business Development Manager(Hakuna/Taiwan)",
+          "lever_id": "bc24c1ef-9117-4121-8297-195bbc032c3e"
+        },
+        {
+          "categories": {
+            "team": "BUSINESS",
+            "location": "Seoul",
+            "department": "2021 상시채용",
+            "commitment": "Full-time"
+          },
+          "id": "1dee367b-9df3-529c-865b-776558b228fd",
+          "text": "Business Development Manager(Hakuna/US)",
+          "lever_id": "f28098cc-b88d-4d8e-bdfb-abab95af4b1f"
+        },
+        {
+          "categories": {
+            "team": "BUSINESS",
+            "location": "Seoul",
+            "department": "2021 상시채용",
+            "commitment": "Full-time"
+          },
+          "id": "7f576d36-6cea-55f7-a429-8b6a0d60827c",
+          "text": "Content Operations Manager(Live Streaming)",
+          "lever_id": "fe5f3c39-a2a9-447d-a7cb-20858a73801b"
+        },
+        {
+          "categories": {
+            "team": "STRATEGY",
+            "location": "Seoul",
+            "department": "2021 상시채용",
+            "commitment": "Full-time"
+          },
+          "id": "7545ead8-30e6-556a-a24f-32c5679ed269",
+          "text": "Corporate Strategy Manager",
+          "lever_id": "4601cf6b-3870-41a5-88aa-f998d4dcb0f3"
+        },
+        {
+          "categories": {
+            "team": "QA/CS/OPS",
+            "location": "Seoul",
+            "department": "2021 상시채용",
+            "commitment": "Full-time"
+          },
+          "id": "da0d81a8-6f82-59f7-8f6f-7638e38b5a93",
+          "text": "Customer Service Manager(Arabic)",
+          "lever_id": "0c9138f1-a25f-4fff-9590-28edd865292c"
+        },
+        {
+          "categories": {
+            "team": "DATA",
+            "location": "Seoul",
+            "department": "2021 상시채용",
+            "commitment": "Full-time"
+          },
+          "id": "6848df55-1ef9-53be-859b-661d5718cbd1",
+          "text": "Data Analytics Team Lead",
+          "lever_id": "fc1d05ae-8253-4d67-9392-87ec36e8773a"
+        },
+        {
+          "categories": {
+            "team": "ENGINEERING",
+            "location": "Seoul",
+            "department": "2021 상시채용",
+            "commitment": "Full-time"
+          },
+          "id": "9ad30ca0-0db2-5efd-b511-e6e4111ee995",
+          "text": "DevOps Engineer",
+          "lever_id": "71550a4f-87fd-4524-b258-b24c37503eb9"
+        },
+        {
+          "categories": {
+            "team": "MANAGEMENT",
+            "location": "Seoul",
+            "department": "2021 상시채용",
+            "commitment": "Full-time"
+          },
+          "id": "22d5a322-409e-59c5-96cd-6d498a54c398",
+          "text": "FP&A Lead",
+          "lever_id": "1b7ed211-f781-4978-998b-9d7f9f2edca9"
+        },
+        {
+          "categories": {
+            "team": "BUSINESS",
+            "location": "Seoul",
+            "department": "2021 상시채용",
+            "commitment": "Full-time"
+          },
+          "id": "d254d5ee-e53c-5aec-b3f3-0c7fe3a3ac3b",
+          "text": "Global Business Development Lead(Team Lead+)",
+          "lever_id": "ba9eb541-a81f-465b-a27a-67678f1b989c"
+        },
+        {
+          "categories": {
+            "team": "BUSINESS",
+            "location": "Seoul",
+            "department": "2021 상시채용",
+            "commitment": "Full-time"
+          },
+          "id": "50596f3d-17f8-5622-ab5c-3abfae35dc3d",
+          "text": "Host Management Manager(Live Streaming/Arabic)",
+          "lever_id": "8dfe02a0-e392-47ee-97c7-b8f7e9520ccf"
+        },
+        {
+          "categories": {
+            "team": "BUSINESS",
+            "location": "Seoul",
+            "department": "2021 상시채용",
+            "commitment": "Full-time"
+          },
+          "id": "f9eb87fe-4efd-5312-aeaa-cc6247dbc8e1",
+          "text": "Host Management Manager(Live Streaming/English)",
+          "lever_id": "d1b3ad43-e67d-4cb8-a1e7-a58e77559ec7"
+        },
+        {
+          "categories": {
+            "team": "MANAGEMENT",
+            "location": "Seoul",
+            "department": "2021 상시채용",
+            "commitment": "Full-time"
+          },
+          "id": "2ff42fe8-dbd3-5c48-a682-75203fd0c5b8",
+          "text": "HR Generalist(Learning and Development specialized)",
+          "lever_id": "7577ea27-84fd-417a-b704-b1776f50bc19"
+        },
+        {
+          "categories": {
+            "team": "TALENT POOL",
+            "location": "Seoul",
+            "department": "TALENT POOL",
+            "commitment": null
+          },
+          "id": "b6c3bbad-bf72-56ca-bdd6-4372891df185",
+          "text": "HYPER-POOL(외부추천 접수)",
+          "lever_id": "0b9f7c2d-de8a-4c65-88ec-7ce802530979"
+        },
+        {
+          "categories": {
+            "team": "ENGINEERING",
+            "location": "Seoul",
+            "department": "2021 상시채용",
+            "commitment": "Full-time"
+          },
+          "id": "93f3d766-0051-5e07-9790-0c5651983f96",
+          "text": "iOS Software Engineer(Azar)",
+          "lever_id": "6ac1c884-9d4b-4dae-a1e2-b871ccf0fe89"
+        },
+        {
+          "categories": {
+            "team": "ENGINEERING",
+            "location": "Seoul",
+            "department": "2021 상시채용",
+            "commitment": "Full-time"
+          },
+          "id": "3f1fc7a9-8972-5556-95e0-7e3b3b86c3a8",
+          "text": "iOS Software Engineer(Enterprise)",
+          "lever_id": "7c455e43-4d15-429e-b5c5-10cf804cf58c"
+        },
+        {
+          "categories": {
+            "team": "ENGINEERING",
+            "location": "Seoul",
+            "department": "2021 상시채용",
+            "commitment": "Full-time"
+          },
+          "id": "a45b8d00-890c-5ebb-aed9-c4def81fa65a",
+          "text": "Java Backend Software Engineer(Enterprise)",
+          "lever_id": "69e0a3ae-d801-406c-ace9-e019c7b3e090"
+        },
+        {
+          "categories": {
+            "team": "ENGINEERING",
+            "location": "Seoul",
+            "department": "2021 상시채용",
+            "commitment": "Full-time"
+          },
+          "id": "7cb3dfa2-3a2f-590b-a635-bbdfb74a0348",
+          "text": "Machine Learning Engineer",
+          "lever_id": "00a77e48-dab5-42f5-bc30-cd97655391a7"
+        },
+        {
+          "categories": {
+            "team": "ENGINEERING",
+            "location": "Seoul",
+            "department": "2021 상시채용",
+            "commitment": "Full-time"
+          },
+          "id": "df767cad-ae27-500e-b63f-12acf763091e",
+          "text": "Machine Learning Software Engineer",
+          "lever_id": "d43045bb-1da8-4289-bd0a-435096b6619d"
+        },
+        {
+          "categories": {
+            "team": "ENGINEERING",
+            "location": "Seoul",
+            "department": "2021 상시채용",
+            "commitment": "Full-time"
+          },
+          "id": "907eacb1-7e21-5683-81ab-913586fc213c",
+          "text": "Media Server Engineer",
+          "lever_id": "1e99b776-ad93-42f0-877e-310afb58dd28"
+        },
+        {
+          "categories": {
+            "team": "QA/CS/OPS",
+            "location": "Seoul",
+            "department": "2021 상시채용",
+            "commitment": "Full-time"
+          },
+          "id": "75251ebc-d00a-53e3-820f-f176cbd4f45d",
+          "text": "Operation Specialist",
+          "lever_id": "95982a41-84ee-4775-8314-b0cbbd79f802"
+        },
+        {
+          "categories": {
+            "team": "PM",
+            "location": "Seoul",
+            "department": "2021 상시채용",
+            "commitment": "Full-time"
+          },
+          "id": "30ab0f6f-6b29-545e-82da-8e3aad9acc49",
+          "text": "Product Manager(Azar)",
+          "lever_id": "9c43227c-59b7-4467-b1bc-eec5fc43b791"
+        },
+        {
+          "categories": {
+            "team": "PM",
+            "location": "Seoul",
+            "department": "2021 상시채용",
+            "commitment": "Full-time"
+          },
+          "id": "78e50e43-a458-5bce-99c3-17e460685ac5",
+          "text": "Product Manager(Hakuna)",
+          "lever_id": "b4376135-c611-41f8-8a21-9a81528f8f76"
+        },
+        {
+          "categories": {
+            "team": "ENGINEERING",
+            "location": "Seoul",
+            "department": "2021 상시채용",
+            "commitment": "Full-time"
+          },
+          "id": "67b90cd4-cd56-52fc-9c5e-a3670b57df05",
+          "text": "Security Engineer",
+          "lever_id": "a40ec9e5-e5ed-464b-b4b8-2fc88f3b4525"
+        },
+        {
+          "categories": {
+            "team": "MANAGEMENT",
+            "location": "Seoul",
+            "department": "2021 상시채용",
+            "commitment": "Full-time"
+          },
+          "id": "0f54afa1-a957-53e5-b089-de9bb23a6e25",
+          "text": "Senior Accounting Manager",
+          "lever_id": "0a8103b6-f973-4514-983f-ed3e49f5b3dd"
+        },
+        {
+          "categories": {
+            "team": "ENGINEERING",
+            "location": "Seoul",
+            "department": "2021 상시채용",
+            "commitment": "Full-time"
+          },
+          "id": "92160f4a-c008-5d6d-9a05-277e531f2f47",
+          "text": "Sr. Java Backend Software Engineer(Hakuna)",
+          "lever_id": "bfd1a67a-3f4c-4774-8ceb-b6b97fa4b5a1"
+        },
+        {
+          "categories": {
+            "team": "TALENT POOL",
+            "location": "Seoul",
+            "department": "TALENT POOL",
+            "commitment": null
+          },
+          "id": "25993534-715e-5a53-a86b-93cbcb4d731f",
+          "text": "TALENT POOL(인재풀등록)",
+          "lever_id": "ce9e3c42-c849-4df8-aaed-83d41e589345"
+        },
+        {
+          "categories": {
+            "team": "PM",
+            "location": "Seoul",
+            "department": "2021 상시채용",
+            "commitment": "Full-time"
+          },
+          "id": "a6c1c939-cc2a-51c2-a2eb-be267228417a",
+          "text": "Technical Product Manager(Enterprise)",
+          "lever_id": "f969b9b0-4124-4c91-a138-43b9b8359d10"
+        },
+        {
+          "categories": {
+            "team": "ENGINEERING",
+            "location": "Seoul",
+            "department": "2021 상시채용",
+            "commitment": "Full-time"
+          },
+          "id": "405502c6-0816-5268-8b2c-849a850e3551",
+          "text": "Unity Engineer",
+          "lever_id": "2a2a517c-06b9-4de6-a9df-f40f61d6c201"
+        },
+        {
+          "categories": {
+            "team": "ENGINEERING",
+            "location": "Seoul",
+            "department": "2021 상시채용",
+            "commitment": "Full-time"
+          },
+          "id": "9c43c784-4126-5430-bb67-96c956eb2d1e",
+          "text": "Web Frontend Software Engineer(Enterprise)",
+          "lever_id": "7fa7e67c-f85d-4e5c-8bef-85a222e5a4b4"
+        },
+        {
+          "categories": {
+            "team": "ENGINEERING",
+            "location": "Seoul",
+            "department": "2021 상시채용",
+            "commitment": "Full-time"
+          },
+          "id": "22ce245e-b00f-5ebf-8f2d-dfe7b146d97f",
+          "text": "WebRTC Engineer",
+          "lever_id": "11883eac-8a46-4ab1-b982-58025d04b356"
+        }
+      ]
+    },
+    "applyStepImg": {
+      "childImageSharp": {
+        "fluid": {
+          "base64": "data:image/png;base64,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",
+          "aspectRatio": 0.5257009345794392,
+          "src": "/static/8c0900ccd122a57178a1ba6af99f2ca3/db955/img-process%403x.png",
+          "srcSet": "/static/8c0900ccd122a57178a1ba6af99f2ca3/7e7e9/img-process%403x.png 225w,\n/static/8c0900ccd122a57178a1ba6af99f2ca3/62b1f/img-process%403x.png 450w,\n/static/8c0900ccd122a57178a1ba6af99f2ca3/db955/img-process%403x.png 900w,\n/static/8c0900ccd122a57178a1ba6af99f2ca3/40ffe/img-process%403x.png 960w",
+          "sizes": "(max-width: 900px) 100vw, 900px"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "query": "",
+  "filters": {
+    "range": {
+      "standardWeeklyHours": {
+        "start": null,
+        "end": null
+      }
+    },
+    "teams": [
+      {
+        "teams.teamID": "teamsAndSubTeams-HRDWR",
+        "teams.subTeamID": "subTeam-MCHLN"
+      },
+      {
+        "teams.teamID": "teamsAndSubTeams-MLAI",
+        "teams.subTeamID": "subTeam-MLI"
+      },
+      {
+        "teams.teamID": "teamsAndSubTeams-MLAI",
+        "teams.subTeamID": "subTeam-DLRL"
+      },
+      {
+        "teams.teamID": "teamsAndSubTeams-MLAI",
+        "teams.subTeamID": "subTeam-NLP"
+      },
+      {
+        "teams.teamID": "teamsAndSubTeams-MLAI",
+        "teams.subTeamID": "subTeam-CV"
+      },
+      {
+        "teams.teamID": "teamsAndSubTeams-MLAI",
+        "teams.subTeamID": "subTeam-AR"
+      },
+      {
+        "teams.teamID": "teamsAndSubTeams-SFTWR",
+        "teams.subTeamID": "subTeam-AF"
+      },
+      {
+        "teams.teamID": "teamsAndSubTeams-SFTWR",
+        "teams.subTeamID": "subTeam-CLD"
+      },
+      {
+        "teams.teamID": "teamsAndSubTeams-SFTWR",
+        "teams.subTeamID": "subTeam-COS"
+      },
+      {
+        "teams.teamID": "teamsAndSubTeams-SFTWR",
+        "teams.subTeamID": "subTeam-DSR"
+      },
+      {
+        "teams.teamID": "teamsAndSubTeams-SFTWR",
+        "teams.subTeamID": "subTeam-EPM"
+      },
+      {
+        "teams.teamID": "teamsAndSubTeams-SFTWR",
+        "teams.subTeamID": "subTeam-ISTECH"
+      },
+      {
+        "teams.teamID": "teamsAndSubTeams-SFTWR",
+        "teams.subTeamID": "subTeam-MCHLN"
+      },
+      {
+        "teams.teamID": "teamsAndSubTeams-SFTWR",
+        "teams.subTeamID": "subTeam-SEC"
+      },
+      {
+        "teams.teamID": "teamsAndSubTeams-SFTWR",
+        "teams.subTeamID": "subTeam-SQAT"
+      },
+      {
+        "teams.teamID": "teamsAndSubTeams-SFTWR",
+        "teams.subTeamID": "subTeam-WSFT"
+      },
+      {
+        "teams.teamID": "teamsAndSubTeams-CORSV",
+        "teams.subTeamID": "subTeam-IT"
+      },
+      {
+        "teams.teamID": "teamsAndSubTeams-CORSV",
+        "teams.subTeamID": "subTeam-GLSEC"
+      },
+      {
+        "teams.teamID": "teamsAndSubTeams-CORSV",
+        "teams.subTeamID": "subTeam-INFOSEC"
+      }
+    ]
+  },
+  "page": 1,
+  "locale": "en-us",
+  "sort": "relevance"
+}

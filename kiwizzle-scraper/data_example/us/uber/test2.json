@@ -1,0 +1,1111 @@
+{
+  "jobsSearch": {
+    "jobs": {
+      "results": [
+        {
+          "id": 106721,
+          "title": "Sr Software Engineer (Architect), Backend- Uber Infra",
+          "description": "**About the role:**\n\n \n\nThe Developer Platform's vision is to be the industry leader for how developers build high-quality software productively at scale. Our mission is to Enable Uber developers to build high-quality software consistently and without frustration. \n\n \n\nAt Uber the Developer Platform teams build the technical foundation for engineers to develop the future of mobility. Our engineering community depends on us to develop centralized solutions to support each part of the development life cycle from writing the first line of code to shipping software to production that touches millions of users. We have a unique opportunity to work across Uber's products to solve for scale and impact company wide technical roadmaps.\n\n \n\nAs a hands-on Sr Software engineer, you will build and evangelise next generation products at scale for our fellow engineers that aim at increasing developer productivity and throughput.\n\n \n\n**What You'll Do:**\n\n \n\n  * Lead and drive complex business problems or product vision,  help in preparing a roadmap and translate it into executable technical design to solve the problem or realize the product vision.\n  * Solve challenging and interesting engineering problems for Uber Infra.\n  * Provide technical expertise and collaborate in architecting and building mission-critical distributed systems which underpin Uber Developers' productivity\n  * Demonstrate technical skills to go very deep or broad in solving classes of problems or creating broadly leverageable solutions.\n  * Collaborate with other talented team members within your group, smart technologists across product lines, to responsible leaders across Uber. Build up strong relationships with people in the organization, meaningfully collaborating and building trust\n  * Be a coach and mentor  for both our talented team members. Deal with a difference in opinions in a mature and fair way, helping teams to commit and move forward\n\n\n\n \n\n**Basic Qualification:**\n\n \n\n  * 8+ years of experience with software engineering. Sound understanding of computer architecture and CS fundamentals.\n  * Proficient in one of the following programming languages on backend: Java, Go, Python, C++ ( Our primary language is Java )\n  * Experience with Web UI development in javascript. We primarily use React. \n  * Detailed problem-solving and knowledge of algorithms, data structures, and complexity analysis.\n  * 4+ year of experience in building large scale platform/product or data systems as a full stack developer  \n\n  * Grit, drive and a strong feeling of ownership coupled with collaboration.\n  * BS or MS in Computer Science or a related technical field, or equivalent experience\n  * Providing technical leadership to a group of engineers  \n  \n\n\n\n\n**Preferred Qualification:**\n\n \n\n  * Experience in building developer productivity tools / frameworks / Platform Engineering.\n  * Exposure to ML technologies \n  * Past experience in designing a multi threaded system involving RPC's and Binary encoding\n  * Good understanding of handling scale and its challenges\n\n\n\n \n\n**Why Join Us**\n\n  * We are an extremely open, collaborative and impact driven organisation and we optimise for impact\n  * Work with empathetic, smart and motivated teammates in a fast-paced, collaborative environment.\n  * Solve some state of the art problems along with highly motivated and proficient engineers.\n  * High scalability engineering. Build world class engineering for high throughput and low latency distributed systems. We take ownership in creating elegant and reliable code.\n  * Fun problem solving. We love solving challenging problems with cutting edge algorithms. We move fast and build things that have never been built before.\n\n\n\n \n\n \n\nAt Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 10,000 cities around the world.\n\n \n\n \n\nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let's move the world forward, together.",
+          "department": "Engineering",
+          "type": "",
+          "programAndPlatform": "",
+          "location": {
+            "country": "IND",
+            "region": "Karnataka",
+            "city": "Bangalore",
+            "countryName": "India"
+          },
+          "featured": false,
+          "level": "5",
+          "creationDate": "2021-08-16T10:32:00.000Z",
+          "otherLevels": null,
+          "team": "Backend",
+          "portalID": "EXTERNAL",
+          "isPipeline": false,
+          "statusID": "D31001",
+          "statusName": "Approved",
+          "updatedDate": "2021-08-24T16:36:00.000Z",
+          "uniqueSkills": "",
+          "allLocations": [
+            {
+              "country": "IND",
+              "region": "Karnataka",
+              "city": "Bangalore",
+              "countryName": "India"
+            }
+          ]
+        },
+        {
+          "id": 106634,
+          "title": "Software Engineer II - Android",
+          "description": "**About the Role**\n\n \n\n \n\nCollaborates with team members to design, develop, and maintain user interfaces and features for mobile applications (Android).\n\n \n\nAs a software engineer in the Mobility team, you will work on some of the core mobility features and workflows in the Uber rider app which is used by riders across the world. You will have an opportunity to join this growing line of business in its very early phase.\n\n \n\nAt Uber, we take pride in offering the best quality service to our customers - you will collaborate closely with product managers and business operations teams to build for scale, yet focusing on providing intuitive and delightful customer experiences.\n\n \n\n \n\n \n\n**What the Candidate Will Need / Bonus Points**\n\n \n\n\\---- What the Candidate Will Do ----  \n  \n\n\n  * Closely collaborate with product, design and business teams to understand product ideas and business needs and help deliver these as a series of fast experiments.\n  * Implement native user interfaces with the latest Android technologies. Contribute to the Android monorepo on core Uber flows enabling a variety of new experiences related to mobility use cases.\n  * Drive adoption of best practices in code health, testing, and maintainability.\n  * Play an active role in team's technical design choices, code reviews and documentation.\n  * Coach and mentor junior or new engineers joining the mobility team.\n\n\n\n \n\n  \n  \n\\---- Basic Qualifications ----  \n  \n\n\n  * 3+ years of full-time Android engineering experience. Deep understanding of Android SDK. Good understanding of object oriented programming, multithreading, networking, memory management and source control management (git).\n  * Strong focus on high-quality mobile UI experiences. Passion about delivering software that delights our end users. Proficiency with UI/UX paradigms to build elegant user experiences.\n  * Fast learner: We're looking for software engineers who thrive on learning new technologies and don't believe in one-size-fits-all solutions. Should be able to adapt easily to meet the needs of our extensive growth and constantly evolving business environment.\n  * A great teammate: Believe that you can achieve more on a team -- that the whole is greater than the sum of its parts. You rely on others' candid feedback for continuous improvement.\n\n\n\n  \n  \n\\---- What the Candidate Will Do ----  \n  \n\n\n  * Experience working with product management and design teams.\n  * Good communication and collaboration skills to be able to work in a fast paced and distributed environment.\n  * Experience in testing and deploying scalable mobile applications. Experience analyzing a feature in production using analytics and experiments.\n  * Cross-platform (Android and iOS) skills\n\n\n\n \n\nAt Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 10,000 cities around the world.\n\n \n\n \n\nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let's move the world forward, together.",
+          "department": "Engineering",
+          "type": "",
+          "programAndPlatform": "",
+          "location": {
+            "country": "IND",
+            "region": "Karnataka",
+            "city": "Bangalore",
+            "countryName": "India"
+          },
+          "featured": false,
+          "level": "4",
+          "creationDate": "2021-08-12T08:20:00.000Z",
+          "otherLevels": null,
+          "team": "Android",
+          "portalID": "EXTERNAL",
+          "isPipeline": false,
+          "statusID": "D31001",
+          "statusName": "Approved",
+          "updatedDate": "2021-08-20T03:28:00.000Z",
+          "uniqueSkills": "",
+          "allLocations": [
+            {
+              "country": "IND",
+              "region": "Karnataka",
+              "city": "Bangalore",
+              "countryName": "India"
+            }
+          ]
+        },
+        {
+          "id": 106596,
+          "title": "Sr. Software Engineer - AI Platform",
+          "description": "**Sr. Software Engineer - AI Platform**\n\n## **About the role:**\n\nEngages with stakeholders across teams to lead the development and maintenance of backend services and solutions to support user-facing products, downstream services, or infrastructure tools and platforms used across Uber.\n\n \n\n## **About the Team:**\n\n_If you have production experience at scale and you want more exposure to Machine Learning at scale, then we are the team for you. We are a team within the Uber AI Platform (better known as Uber Michelangelo) that is paving the way for Data-centric ML. We pioneered the use of the Uber ML Feature Store as a fundamental building block of the ML lifecycle across the industry - which powers models at Uber for training and serving at millions of QPS with very low latencies. Our ongoing mission is to develop MLOps infrastructure and tools to create high quality features and labels for use in machine models, with the goal of fully automating the lifecycle of feature engineering at Uber and beyond. We work closely with Data Science and Machine Learning teams across Uber to develop algorithms and tooling for sharing, discovery, computation, selection, transformation and monitoring of features and embeddings._\n\n## **Minimum qualifications:**\n\n \n\n  * PhD or equivalent in Computer Science, Engineering, Mathematics or related field **AND** 2-years full-time Software Engineering work experience **OR **5-years full-time Software Engineering work experience, **WHICH INCLUDES **3-years total technical software engineering experience in one or more of the following areas:\n\n\n\n \n\n  * Programming language (e.g. C, C++, Java, Python, or Go)\n\n\n\n \n\n  * _Note the 3-years total of specialized software engineering experience may have been gained through education and full-time work experience, additional training, coursework, research, or similar (OR some combination of these).  The years of specialized experience are not necessarily in addition to the years of Education &amp; full-time work experience indicated. _\n\n\n\n## **Technical skills:**\n\n \n\nRequired:\n\n \n\n  * Distributed systems\n\n\n\n \n\nPreferred:\n\n \n\n  * Production experience with low-latency microservices at scale in distributed cloud environments\n  * Production experience with scalable data processing at scale in distributed cloud environments\n  * Production experience with feature Engineering Lifecycle in ML systems\n  * Production experience with applying Information Theory concepts in building scalable feature selection algorithms\n  * Experience with building feature embeddings from high dimensional feature sets\n  * Demonstrated use of ML techniques in Personalization or Recommendation Systems\n  * Production experience with product engineering\n  * Production experience with scalable engineering at scale in distributed cloud environments\n\n\n\n \n\nAt Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 600 cities around the world!\n\nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have a curiosity, passion and collaborative spirit, work with us, and let's move the world forward, together!\n\nUber is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.\n\nIf you have a disability or special need that requires accommodation, please let us know by completing[ this form](https://forms.gle/aDWTk9k6xtMU25Y5A).\n\nAt Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 10,000 cities around the world.\n\n \n\n \n\nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let's move the world forward, together.\n\n \n\n \n\nUber is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing [this form](https://forms.gle/aDWTk9k6xtMU25Y5A).",
+          "department": "Engineering",
+          "type": "",
+          "programAndPlatform": "",
+          "location": {
+            "country": "USA",
+            "region": "California",
+            "city": "San Francisco",
+            "countryName": "United States"
+          },
+          "featured": false,
+          "level": "5B",
+          "creationDate": "2021-08-11T01:12:00.000Z",
+          "otherLevels": null,
+          "team": "Backend",
+          "portalID": "EXTERNAL",
+          "isPipeline": false,
+          "statusID": "D31001",
+          "statusName": "Approved",
+          "updatedDate": "2021-08-18T01:39:00.000Z",
+          "uniqueSkills": "",
+          "allLocations": [
+            {
+              "country": "USA",
+              "region": "California",
+              "city": "Sunnyvale",
+              "countryName": "United States"
+            },
+            {
+              "country": "USA",
+              "region": "California",
+              "city": "San Francisco",
+              "countryName": "United States"
+            }
+          ]
+        },
+        {
+          "id": 106539,
+          "title": "Sr. Software Engineer - Delivery",
+          "description": "## **About the role:**\n\nCollaborates with stakeholders within the team to build and maintain backend services and solutions to support user-facing products, downstream services, or infrastructure tools and platforms used across Uber.\n\n## **About the Team:**\n\nFounded in August 2014, Uber Eats has become the largest food delivery app globally, and is the fastest growing food delivery platform in the world. We have doubled our gross bookings in just over the last year!\n\nOur team's work at Uber Eats directly impacts and continues to impact our communities.  Uber Eats core teams are Restaurants, Couriers, Eaters, &amp; Marketplace which support the exciting technical challenges of a 3-sided market. Uber's world-class engineers are empowered to push the envelope in scalability, distributed systems, mobile development, machine learning/personalization/recommendation systems, &amp; development for drone delivery.\n\n \n\nCome join us in our NYC office to be part of a thriving culture, while solving exciting problems at scale. Be sure to check out the [Uber NYC Engineering Blog](https://eng.uber.com/locations/nyc/) to learn more about the team.\n\n## **Minimum qualifications:**\n\n  * PhD or equivalent in Computer Science, Engineering, Mathematics or related field **OR** 3-years full-time Software Engineering work experience, **WHICH INCLUDES** 2-years total technical software engineering experience in one or more of the following areas:\n\n\n\n \n\n  * Programming language (e.g. C, C++, Java, Python, or Go)\n\n\n\n \n\n  * _Note the 2-years total of specialized software engineering experience may have been gained through education and full-time work experience, additional training, coursework, research, or similar (OR some combination of these).  The years of specialized experience are not necessarily in addition to the years of Education &amp; full-time work experience indicated. _\n\n\n\n## **Technical skills:**\n\nPreferred:\n\n  * Scalability engineering\n  * Distributed systems\n  * Product engineering\n\n\n\nAt Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 600 cities around the world!\n\nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have a curiosity, passion and collaborative spirit, work with us, and let's move the world forward, together!\n\nUber is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.\n\n## If you have a disability or special need that requires accommodation, please let us know by completing[ this form](https://forms.gle/aDWTk9k6xtMU25Y5A).",
+          "department": "Engineering",
+          "type": "",
+          "programAndPlatform": "",
+          "location": {
+            "country": "USA",
+            "region": "New York",
+            "city": "New York",
+            "countryName": "United States"
+          },
+          "featured": false,
+          "level": "",
+          "creationDate": "2021-08-09T17:49:00.000Z",
+          "otherLevels": null,
+          "team": "Backend",
+          "portalID": "EXTERNAL",
+          "isPipeline": false,
+          "statusID": "D31001",
+          "statusName": "Approved",
+          "updatedDate": "2021-08-29T18:38:00.000Z",
+          "uniqueSkills": "",
+          "allLocations": [
+            {
+              "country": "USA",
+              "region": "New York",
+              "city": "New York",
+              "countryName": "United States"
+            }
+          ]
+        },
+        {
+          "id": 106505,
+          "title": "Software Engineer, Delivery Prediction",
+          "description": "About the Organization\n\nThe goal of the Prediction team is to drive best in class unit economics with accurate time predictions for our merchant and courier partners. To name a few things, we drive matching decisions by predicting what's the optimal time for a courier to pick up the food at the restaurant, and how long will it take for the end to end delivery of an order. The team is part of Uber's Marketplace group, which is responsible for efficiency of our Uber Marketplace involving riders, eaters, drivers and merchants. The impact of these predictions affect millions of dollars of gross booking for the company.\n\n \n\n What the Candidate Will Do \n\n  * Make changes to backend services to handle experimentation of new features\n  * Collaborate with data scientist to improve the performance of our machine learning models\n  * Building high quality and reliable data pipelines for feature engineering\n\n\n\n  \nBasic Qualifications \n\n  * BS/BE degree in Computer Science or related fields. Advanced degrees are preferred but not required.\n  * 2+ years of experience in software engineering. \n  * Strong problem solving and coding skills. \n  * Solid understanding and hands-on experiences with backend system development. An ideal candidate should possess the following technical skills:\n  * Java/Go/C++/C\n  * REST APIs\n  * Distributed Messaging / Kafka\n\n\n\n \n\nPerferred Qualifications\n\n  * Experience with productionalization of machine learning or deep learning models is preferred but not required.\n  * Experience with batch or real time data pipelines is preferred but not required.\n\n\n\nAt Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 10,000 cities around the world.\n\n \n\n \n\nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let's move the world forward, together.\n\n \n\n \n\nUber is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing [this form](https://forms.gle/aDWTk9k6xtMU25Y5A).",
+          "department": "Engineering",
+          "type": "",
+          "programAndPlatform": "",
+          "location": {
+            "country": "USA",
+            "region": "New York",
+            "city": "New York",
+            "countryName": "United States"
+          },
+          "featured": false,
+          "level": "4",
+          "creationDate": "2021-08-06T22:43:00.000Z",
+          "otherLevels": null,
+          "team": "Backend",
+          "portalID": "EXTERNAL",
+          "isPipeline": false,
+          "statusID": "D31001",
+          "statusName": "Approved",
+          "updatedDate": "2021-08-18T21:40:00.000Z",
+          "uniqueSkills": "",
+          "allLocations": [
+            {
+              "country": "USA",
+              "region": "New York",
+              "city": "New York",
+              "countryName": "United States"
+            }
+          ]
+        },
+        {
+          "id": 106443,
+          "title": "Software Engineer II, iOS - Safety",
+          "description": "## **About the role:**\n\nCollaborates with team members to design, develop, and maintain user interfaces and features for mobile applications (iOS).\n\n \n\n## **About the Team:**\n\nUber's Safety team sits at the core of our business and is redefining what it takes to be safe on the roads at global scale. Our mission is to prevent safety incidents and empower our users in every interaction they have with Uber's services. We use real-time telematics and motion sensing technologies along with machine learning algorithms and user-facing mobile products in order to prevent unsafe behaviors on the Uber platform. Our engineering challenges range from building facial biometrics recognition to low-latency data streaming infrastructure ingesting terabytes of data daily to brand-critical features such as SOS, audio recording and RideCheck.\n\n## **Minimum qualifications:**\n\n  * Bachelor's degree or equivalent in Computer Science, Engineering, Mathematics or related field **OR** 1-year full-time Software Engineering work experience, **WHICH INCLUDES** 1-year total technical software engineering experience in one or more of the following areas:\n\n\n\n \n\n  * Native iOS\n  * iOS swift, iOS objective C\n\n\n\n \n\n  * _Note the 1-year total of specialized software engineering experience may have been gained through education and full-time work experience, additional training, coursework, research, or similar (OR some combination of these).  The year of specialized experience is not necessarily in addition to the years of Education &amp; full-time work experience indicated._\n\n\n\n## **Technical skills:**\n\nPreferred:\n\n \n\n  * Cross-platform (iOS and Android)\n\n\n\nAt Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 10,000 cities around the world.\n\n \n\n \n\nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let's move the world forward, together.\n\n \n\n \n\nUber is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing [this form](https://forms.gle/aDWTk9k6xtMU25Y5A).",
+          "department": "Engineering",
+          "type": "",
+          "programAndPlatform": "",
+          "location": {
+            "country": "USA",
+            "region": "California",
+            "city": "San Francisco",
+            "countryName": "United States"
+          },
+          "featured": false,
+          "level": "4",
+          "creationDate": "2021-08-05T00:00:00.000Z",
+          "otherLevels": null,
+          "team": "iOS",
+          "portalID": "EXTERNAL",
+          "isPipeline": false,
+          "statusID": "D31001",
+          "statusName": "Approved",
+          "updatedDate": "2021-08-20T19:28:00.000Z",
+          "uniqueSkills": "",
+          "allLocations": [
+            {
+              "country": "USA",
+              "region": "California",
+              "city": "San Francisco",
+              "countryName": "United States"
+            }
+          ]
+        },
+        {
+          "id": 106434,
+          "title": "Senior Software Engineer II - Customer Platform",
+          "description": "## **About the role:**\n\nEngages with stakeholders across teams to lead the development and maintenance of backend services and solutions to support user-facing products, downstream services, or infrastructure tools and platforms used across Uber.\n\n \n\n## **About the Team:**\n\nThe Customer Platform team is seeking a Senior Backend Engineer II with experience building high scale services and platforms, as well as experience working with customer systems and data modeling. As an engineer on the Customer Platform team, you'll be responsible for designing, data modeling and developing the next-generation customer platform for Uber which has 1M+ QPS.\n\nYou have to be partners with stakeholders and leads team efforts to build and maintain backend services and solutions to support user-facing products, downstream services, or infrastructure tools and platforms used across Uber.\n\n## **Minimum qualifications:**\n\n \n\n  * PhD or equivalent in Computer Science, Engineering, Mathematics or related field **AND** 2-years full-time Software Engineering work experience **OR **5-years full-time Software Engineering work experience, **WHICH INCLUDES **3-years total technical software engineering experience in one or more of the following areas:\n\n\n\n \n\n  * Programming language (e.g. C, C++, Java, Python, or Go)\n\n\n\n \n\n  * _Note the 3-years total of specialized software engineering experience may have been gained through education and full-time work experience, additional training, coursework, research, or similar (OR some combination of these).  The years of specialized experience are not necessarily in addition to the years of Education &amp; full-time work experience indicated. _\n\n\n\n## **Technical skills:**\n\n \n\nRequired:\n\n \n\n  * Distributed systems\n\n\n\n \n\nPreferred:\n\n \n\n  * Product engineering\n  * Scalability engineering\n\n\n\n \n\nAt Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 10,000 cities around the world.\n\n \n\n \n\nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let's move the world forward, together.\n\n \n\n \n\nUber is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing [this form](https://forms.gle/aDWTk9k6xtMU25Y5A).",
+          "department": "Engineering",
+          "type": "",
+          "programAndPlatform": "",
+          "location": {
+            "country": "USA",
+            "region": "California",
+            "city": "San Francisco",
+            "countryName": "United States"
+          },
+          "featured": false,
+          "level": "5B",
+          "creationDate": "2021-08-04T17:53:00.000Z",
+          "otherLevels": null,
+          "team": "Backend",
+          "portalID": "EXTERNAL",
+          "isPipeline": false,
+          "statusID": "D31001",
+          "statusName": "Approved",
+          "updatedDate": "2021-08-27T16:28:00.000Z",
+          "uniqueSkills": "",
+          "allLocations": [
+            {
+              "country": "USA",
+              "region": "California",
+              "city": "San Francisco",
+              "countryName": "United States"
+            },
+            {
+              "country": "USA",
+              "region": "California",
+              "city": "Sunnyvale",
+              "countryName": "United States"
+            }
+          ]
+        },
+        {
+          "id": 106394,
+          "title": "Staff Software Engineer, IAM",
+          "description": "## **About the role:**\n\nAs a Staff Software Engineer, you will Lead the architecture and design of an Enterprise IAM system responsible for building new features, Rules, Workflows, Tasks and functionality for custom developed platforms and also on SailPoint. You will design and build extensible features and Risk Model for the organization.\n\n  \n  \n\n\n**What you'll do:**\n\n  * Provide technical leadership in designing, implementing, testing, and rolling out the Identity Governance platform at Uber.\n  * Engineer, Configure, Implemaent and maintain IAM solutions and services based on Sailpoint IIQ Platform.\n  * Develop custom JDBC, RestFul, SOAP connectors for integration with SailPoint IIQ\n  * Resolve bugs through strong programming, critical problem solving, database query skills\n  * Provide strategic leadership and roadmap direction for a team of engineers.\n\n\n\n \n\n## **Minimum qualifications:**\n\n  * PhD or equivalent in Computer Science, Engineering, Mathematics or related field **AND** 4-years full-time Software Engineering work experience **OR **7-years full-time Software Engineering work experience, **WHICH INCLUDES **4-years total technical software engineering experience in one or more of the following areas:\n\n\n\n \n\n  * Programming language (e.g. C, C++, Java, Python, or Go)\n  * SQL development skills to integrate and develop custom integration solutions to ERP systems\n\n\n\n \n\n  * _Note the 4-years total of specialized software engineering experience may have been gained through education and full-time work experience, additional training, coursework, research, or similar (OR some combination of these).  The years of specialized experience are not necessarily in addition to the years of Education &amp; full-time work experience indicated. _\n\n\n\n## **Technical skills:**\n\n## Required:\n\n \n\n  * Identity and Access Management domain on SailPoint IIQ or similar platforms\n  * Strong Development experience in implementing LCM events workflows, rules and custom reports.\n\n\n\n## **About Uber:**\n\nAt Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 10,000 cities around the world.\n\n \n\n \n\nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let's move the world forward, together.\n\n \n\n \n\nUber is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing [this form](https://forms.gle/aDWTk9k6xtMU25Y5A).",
+          "department": "Engineering",
+          "type": "",
+          "programAndPlatform": "",
+          "location": {
+            "country": "USA",
+            "region": "California",
+            "city": "Sunnyvale",
+            "countryName": "United States"
+          },
+          "featured": false,
+          "level": "6",
+          "creationDate": "2021-08-04T00:34:00.000Z",
+          "otherLevels": null,
+          "team": "Staff",
+          "portalID": "EXTERNAL",
+          "isPipeline": false,
+          "statusID": "D31001",
+          "statusName": "Approved",
+          "updatedDate": "2021-08-13T04:38:00.000Z",
+          "uniqueSkills": "",
+          "allLocations": [
+            {
+              "country": "USA",
+              "region": "California",
+              "city": "Sunnyvale",
+              "countryName": "United States"
+            }
+          ]
+        },
+        {
+          "id": 106382,
+          "title": "Senior Software Engineer, Secrets Management",
+          "description": "**About the Role**\n\n \n\nCore Security Engineering's mission is to make the Uber production environment secure by default and provide industry leading products and services to all Uber's production services and infrastructure. We are focused on building both security primitives and end users products that help Uber engineers to secure their service, build trust, and advance security to enable our global business. \n\n \n\nWe are looking for a Senior Software Engineer to join our Uber Secrets Management Team. \n\nYou will be working on Uber's secret storage service(s) and infrastructure to support the goal of securely storing and distributing secrets(such as Keys, password, token etc) across Uber's engineering ecosystem. \n\n \n\n**Basic Qualifications**\n\n  * Bachelor's degree in computer science or related field.\n  * 3+ years of experience in software engineering with strong knowledge of system design and architecture.\n  * Experience in building highly scalable, reliable and fault tolerant systems for business critical applications\n  * Experience with agile development and adopting engineering best practices with well defined goals and metrics.\n  * Experience at least one object-oriented programming language (e.g. Java, C++, Python, Go, C#).\n\n\n\n**Preferred Qualifications**\n\n  * Knowledge of highly scalable secrets management systems like AWS KMS, Azure Key Vault or HashiCorp Vault. \n  * A strategic mindset, comfortable thinking far ahead of where the team is at now\n  * Experience with Open Source Projects and/or active contributors.\n\n\n\nAt Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 10,000 cities around the world.\n\n \n\n \n\nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let's move the world forward, together.\n\n \n\n \n\nUber is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing [this form](https://forms.gle/aDWTk9k6xtMU25Y5A).",
+          "department": "Engineering",
+          "type": "",
+          "programAndPlatform": "EngSec Admin",
+          "location": {
+            "country": "USA",
+            "region": "Washington",
+            "city": "Seattle",
+            "countryName": "United States"
+          },
+          "featured": false,
+          "level": "5",
+          "creationDate": "2021-08-03T19:07:00.000Z",
+          "otherLevels": null,
+          "team": "Engineering",
+          "portalID": "EXTERNAL",
+          "isPipeline": false,
+          "statusID": "D31001",
+          "statusName": "Approved",
+          "updatedDate": "2021-08-27T20:04:00.000Z",
+          "uniqueSkills": "",
+          "allLocations": [
+            {
+              "country": "USA",
+              "region": "Washington",
+              "city": "Seattle",
+              "countryName": "United States"
+            }
+          ]
+        },
+        {
+          "id": 106271,
+          "title": "Sr. Software Engineer - Freight Data Platform",
+          "description": "**About the Role**\n\n \n\nData is the true differentiator for Uber Freight in the long run. We need your help to build out the data flywheel at Uber Freight. As a Senior Engineering on the Data Platform team at Uber Freight, you will build and own tooling, pipelines and canonical dataset to power Uber Freight's analytics, intelligence and external data integration. You will be responsible for unlocking insights through strategic external data integration and acquisition. In short, you will be making the core of Freight's datasets reliable and our utilization efficient.\n\n \n\n \n\n**What the Candidate Will Do**\n\n  * Design and implement platform services, frameworks and ecosystems\n  * Build a scalable, reliable, operable and performant big data workflow platform for Uber's data scientists/engineers, AI/ML engineers, and operations folks.\n  * Drive efficiency and reliability improvements through design and automation: performance, scaling, observability, and monitoring\n  * Mentor junior engineers, support your fellow teammates, review the team's technical design, code, and documentation\n\n\n\n**Basic Qualifications**\n\n  * Bachelor's Degree (or higher) in Computer Science and related fields\n  * 4+ years of software development experience\n  * Strong programming skills with Python or Java\n  * Experience with software development and distributed systems and services\n\n\n\n**Preferred Qualifications**\n\n  * Deep understand distributed system and big data architecture, experience with large-scale distributed services and storage (Zookeeper, Kafka, ELK, SQL DB, Hive, Cassandra, Presto, etc)\n  * Understand data processing and ETL, hands on building pipelines and workflow framework through Hive Hdfs, Presto, Spark etc.\n  * Demonstrated experience working collaboratively in cross-functional teams\n\n\n\n \n\nAt Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 10,000 cities around the world.\n\n \n\n \n\nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let's move the world forward, together.\n\n \n\n \n\nUber is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing [this form](https://forms.gle/aDWTk9k6xtMU25Y5A).",
+          "department": "Engineering",
+          "type": "",
+          "programAndPlatform": "",
+          "location": {
+            "country": "USA",
+            "region": "California",
+            "city": "San Francisco",
+            "countryName": "United States"
+          },
+          "featured": false,
+          "level": "5",
+          "creationDate": "2021-07-29T17:15:00.000Z",
+          "otherLevels": null,
+          "team": "Data",
+          "portalID": "EXTERNAL",
+          "isPipeline": false,
+          "statusID": "D31001",
+          "statusName": "Approved",
+          "updatedDate": "2021-08-13T18:46:00.000Z",
+          "uniqueSkills": "",
+          "allLocations": [
+            {
+              "country": "USA",
+              "region": "California",
+              "city": "San Francisco",
+              "countryName": "United States"
+            }
+          ]
+        }
+      ],
+      "totalResults": {
+        "low": 576,
+        "high": 0,
+        "unsigned": false
+      }
+    },
+    "isLoading": false,
+    "error": null
+  },
+  "jobsFilterOptions": {
+    "options": {
+      "location": [
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "California",
+          "city": "San Francisco"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "California",
+          "city": "Sunnyvale"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "California",
+          "city": "Palo Alto"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "California",
+          "city": "Los Angeles"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "California",
+          "city": "Santa Monica"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "California",
+          "city": "San Diego"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "California",
+          "city": "Laguna Beach"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "California",
+          "city": "Bakersfield"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "California",
+          "city": "Redondo Beach"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "California",
+          "city": "San Jose"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "California",
+          "city": "San Luis Obispo"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "California",
+          "city": "Sacramento"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "Illinois",
+          "city": "Chicago"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "New York",
+          "city": "New York"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "New York",
+          "city": "New York City"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "New York",
+          "city": "Long Island City"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "Washington",
+          "city": "Seattle"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "Texas",
+          "city": "Dallas"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "Texas",
+          "city": "Austin"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "Texas",
+          "city": "Houston"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "Texas",
+          "city": "Plano"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "Arizona",
+          "city": "Phoenix"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "Arizona",
+          "city": "Tempe"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "District of Columbia",
+          "city": "Washington"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "Colorado",
+          "city": "Louisville CO"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "Colorado",
+          "city": "Denver"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "Georgia",
+          "city": "Atlanta"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "Pennsylvania",
+          "city": "Philadelphia"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "Pennsylvania",
+          "city": "Allentown"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "Pennsylvania",
+          "city": "Pittsburgh"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "Maryland",
+          "city": "Baltimore"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "Minnesota",
+          "city": "Minneapolis"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "New Jersey",
+          "city": "Secaucus"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "New Jersey",
+          "city": "New Brunswick"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "Oregon",
+          "city": "Portland"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "Louisiana",
+          "city": "New Orleans"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "Massachusetts",
+          "city": "Boston"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "Massachusetts",
+          "city": "Saugus"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "Michigan",
+          "city": "Grand Rapids"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "Michigan",
+          "city": "Oak Park"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "Nevada",
+          "city": "Las Vegas"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "North Carolina",
+          "city": "Charlotte"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "South Carolina",
+          "city": "Greenville"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "Tennessee",
+          "city": "Nashville"
+        },
+        {
+          "country": "USA",
+          "countryName": "United States",
+          "region": "Florida",
+          "city": "Miami"
+        },
+        {
+          "country": "IND",
+          "countryName": "India",
+          "region": "Telangana",
+          "city": "Hyderabad"
+        },
+        {
+          "country": "IND",
+          "countryName": "India",
+          "region": "Karnataka",
+          "city": "Bangalore"
+        },
+        {
+          "country": "IND",
+          "countryName": "India",
+          "region": "Karnataka",
+          "city": "Bengaluru"
+        },
+        {
+          "country": "IND",
+          "countryName": "India",
+          "region": "Haryana",
+          "city": "Gurgaon"
+        },
+        {
+          "country": "IND",
+          "countryName": "India",
+          "region": "Andhra Pradesh",
+          "city": "Visakhapatnam"
+        },
+        {
+          "country": "NLD",
+          "countryName": "Netherlands",
+          "city": "Amsterdam"
+        },
+        {
+          "country": "JPN",
+          "countryName": "Japan",
+          "city": "Tokyo"
+        },
+        {
+          "country": "BRA",
+          "countryName": "Brazil",
+          "region": "São Paulo",
+          "city": "Sao Paulo"
+        },
+        {
+          "country": "BRA",
+          "countryName": "Brazil",
+          "region": "São Paulo",
+          "city": "Osasco"
+        },
+        {
+          "country": "BRA",
+          "countryName": "Brazil",
+          "region": "Paraná",
+          "city": "Curitiba"
+        },
+        {
+          "country": "PHL",
+          "countryName": "Philippines",
+          "city": "Taguig City"
+        },
+        {
+          "country": "PHL",
+          "countryName": "Philippines",
+          "city": "Mabalacat"
+        },
+        {
+          "country": "AUS",
+          "countryName": "Australia",
+          "region": "New South Wales",
+          "city": "Sydney"
+        },
+        {
+          "country": "AUS",
+          "countryName": "Australia",
+          "region": "Victoria",
+          "city": "Richmond"
+        },
+        {
+          "country": "CAN",
+          "countryName": "Canada",
+          "region": "Ontario",
+          "city": "Toronto"
+        },
+        {
+          "country": "CAN",
+          "countryName": "Canada",
+          "region": "Ontario",
+          "city": "Ottawa"
+        },
+        {
+          "country": "CAN",
+          "countryName": "Canada",
+          "region": "Quebec",
+          "city": "Montreal"
+        },
+        {
+          "country": "CAN",
+          "countryName": "Canada",
+          "region": "Alberta",
+          "city": "Calgary"
+        },
+        {
+          "country": "CAN",
+          "countryName": "Canada",
+          "region": "British Columbia",
+          "city": "Surrey"
+        },
+        {
+          "country": "MEX",
+          "countryName": "Mexico",
+          "city": "Mexico City"
+        },
+        {
+          "country": "MEX",
+          "countryName": "Mexico",
+          "city": "Monterrey"
+        },
+        {
+          "country": "GBR",
+          "countryName": "United Kingdom",
+          "city": "London"
+        },
+        {
+          "country": "GBR",
+          "countryName": "United Kingdom",
+          "city": "Birmingham"
+        },
+        {
+          "country": "GBR",
+          "countryName": "United Kingdom",
+          "city": "Leeds"
+        },
+        {
+          "country": "GBR",
+          "countryName": "United Kingdom",
+          "city": "Manchester"
+        },
+        {
+          "country": "TWN",
+          "countryName": "Taiwan (ROC)",
+          "region": "Taipei City",
+          "city": "Taipei City"
+        },
+        {
+          "country": "TWN",
+          "countryName": "Taiwan (ROC)",
+          "region": "Kaohsiung City",
+          "city": "Kaohsiung City"
+        },
+        {
+          "country": "FRA",
+          "countryName": "France",
+          "city": "Paris"
+        },
+        {
+          "country": "FRA",
+          "countryName": "France",
+          "city": "Nice"
+        },
+        {
+          "country": "FRA",
+          "countryName": "France",
+          "city": "Toulouse"
+        },
+        {
+          "country": "POL",
+          "countryName": "Poland",
+          "city": "Krakow"
+        },
+        {
+          "country": "POL",
+          "countryName": "Poland",
+          "city": "Warsaw"
+        },
+        {
+          "country": "PRT",
+          "countryName": "Portugal",
+          "city": "Lisbon"
+        },
+        {
+          "country": "DEU",
+          "countryName": "Germany",
+          "city": "Berlin"
+        },
+        {
+          "country": "DNK",
+          "countryName": "Denmark",
+          "city": "Aarhus"
+        },
+        {
+          "country": "SGP",
+          "countryName": "Singapore",
+          "city": "Singapore"
+        },
+        {
+          "country": "ARG",
+          "countryName": "Argentina",
+          "city": "Buenos Aires"
+        },
+        {
+          "country": "HKG",
+          "countryName": "Hong Kong",
+          "city": "Hong Kong"
+        },
+        {
+          "country": "BGR",
+          "countryName": "Bulgaria",
+          "city": "Sofia"
+        },
+        {
+          "country": "EGY",
+          "countryName": "Egypt",
+          "city": "Cairo"
+        },
+        {
+          "country": "ZAF",
+          "countryName": "South Africa",
+          "city": "Johannesburg"
+        },
+        {
+          "country": "ZAF",
+          "countryName": "South Africa",
+          "city": "Randburg"
+        },
+        {
+          "country": "ZAF",
+          "countryName": "South Africa",
+          "city": "Cape Town"
+        },
+        {
+          "country": "ESP",
+          "countryName": "Spain",
+          "city": "Madrid"
+        },
+        {
+          "country": "ESP",
+          "countryName": "Spain",
+          "city": "Barcelona"
+        },
+        {
+          "country": "ESP",
+          "countryName": "Spain",
+          "city": "Valencia"
+        },
+        {
+          "country": "IRL",
+          "countryName": "Ireland",
+          "city": "Limerick"
+        },
+        {
+          "country": "IRL",
+          "countryName": "Ireland",
+          "city": "Dublin"
+        },
+        {
+          "country": "CHL",
+          "countryName": "Chile",
+          "city": "Santiago"
+        },
+        {
+          "country": "CHL",
+          "countryName": "Chile",
+          "city": "Concepcion"
+        },
+        {
+          "country": "COL",
+          "countryName": "Colombia",
+          "city": "Bogota"
+        },
+        {
+          "country": "LTU",
+          "countryName": "Lithuania",
+          "city": "Vilnius"
+        },
+        {
+          "country": "CRI",
+          "countryName": "Costa Rica",
+          "city": "San José"
+        },
+        {
+          "country": "CRI",
+          "countryName": "Costa Rica",
+          "city": "San Rafael de Escazu"
+        },
+        {
+          "country": "SWE",
+          "countryName": "Sweden",
+          "city": "Stockholm"
+        },
+        {
+          "country": "ARE",
+          "countryName": "United Arab Emirates",
+          "city": "Dubai"
+        },
+        {
+          "country": "BEL",
+          "countryName": "Belgium",
+          "city": "Brussels"
+        },
+        {
+          "country": "ITA",
+          "countryName": "Italy",
+          "region": "Milano",
+          "city": "Milan"
+        },
+        {
+          "country": "LKA",
+          "countryName": "Sri Lanka",
+          "city": "Colombo"
+        },
+        {
+          "country": "PAN",
+          "countryName": "Panama",
+          "region": "Panamá",
+          "city": "Panama City"
+        },
+        {
+          "country": "AUT",
+          "countryName": "Austria",
+          "city": "Vienna"
+        },
+        {
+          "country": "CHE",
+          "countryName": "Switzerland",
+          "city": "Geneva"
+        },
+        {
+          "country": "KOR",
+          "countryName": "Korea, Republic of (South Korea)",
+          "city": "Seoul"
+        },
+        {
+          "country": "PER",
+          "countryName": "Peru",
+          "region": "Lima",
+          "city": "Lima"
+        },
+        {
+          "country": "TUR",
+          "countryName": "Turkey",
+          "city": "Istanbul"
+        },
+        {
+          "country": "UKR",
+          "countryName": "Ukraine",
+          "region": "Kyiv Oblast",
+          "city": "Kiev"
+        },
+        {
+          "country": "CZE",
+          "countryName": "Czech Republic",
+          "city": "Prague"
+        },
+        {
+          "country": "ISR",
+          "countryName": "Israel",
+          "city": "Tel Aviv"
+        },
+        {
+          "country": "NGA",
+          "countryName": "Nigeria",
+          "region": "Lagos",
+          "city": "Lagos"
+        }
+      ],
+      "department": {
+        "Engineering": [
+          "Backend",
+          "iOS",
+          "Manager",
+          "Android",
+          "Frontend",
+          "Data",
+          "Engineering",
+          "Machine Learning",
+          "IT Eng",
+          "Staff",
+          "Technical Program Manager",
+          "Fullstack",
+          "Program Manager",
+          "Security Engineer",
+          "Site Reliability Engineering",
+          "Systems Engineering",
+          "Staff/TLM",
+          "Hardware",
+          "Other"
+        ],
+        "Community Operations": [
+          "Community Operations",
+          "Support Operations",
+          "Strategy & Program Operations"
+        ],
+        "Operations": [
+          "Operations",
+          "Local Operations",
+          "Regional Operations",
+          "Strategy & Planning",
+          "Sales Operations",
+          "Central Operations"
+        ],
+        "Sales & Account Management": [
+          "Sales",
+          "Account Management"
+        ],
+        "Marketing": [
+          "Marketing",
+          "Regional Marketing",
+          "Local Marketing",
+          "Central Marketing"
+        ],
+        "People & Places": [
+          "People",
+          "Talent Acquisition",
+          "Workplace"
+        ],
+        "Product": [
+          "Product Management",
+          "Program Management",
+          "Product Operations"
+        ],
+        "Data Science": [
+          "Data Scientist",
+          "Product Analyst",
+          "Data Analyst",
+          "Data Science"
+        ],
+        "Finance & Accounting": [
+          "Strategic Finance",
+          "Finance Operations",
+          "Accounting",
+          "Tax",
+          "Internal Audit",
+          "Finance Technology",
+          "Corporate",
+          "Treasury"
+        ],
+        "Business Development": [
+          "Sales",
+          "Business Development"
+        ],
+        "Safety, Security & Insurance": [
+          "Safety, Security & Insurance"
+        ],
+        "Legal": [
+          "Legal"
+        ],
+        "Design": [
+          "Product Design",
+          "User Experience Researcher"
+        ],
+        "University": [
+          "Operations",
+          "Engineering",
+          "Finance & Strategy"
+        ],
+        "Public Policy": [
+          "Public Policy"
+        ],
+        "Communications": [
+          "Communications"
+        ]
+      },
+      "lineOfBusinessName": [
+        "Advanced Technologies Group",
+        "Corporate",
+        "Ridesharing",
+        "Uber Eats",
+        "Uber for Business",
+        "Uber Freight"
+      ],
+      "timeType": [
+        "Full Time",
+        "Part Time"
+      ]
+    },
+    "loading": false,
+    "error": null
+  }
+}

@@ -1,0 +1,575 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR"/>
+    <meta http-equiv="Content-Script-Type" content="text/javascript"/>
+    <meta http-equiv="Content-Style-Type" content="text/css"/>
+    <title>넥슨 채용사이트</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <link rel="stylesheet" href="/css/default.css"/>
+    <link rel="stylesheet" href="/css/common.css"/>
+    <link rel="stylesheet" href="/css/layout.css"/>
+    <link rel="stylesheet" href="/css/board.css"/>
+    <link rel="stylesheet" href="/css/sub.css"/>
+    <link rel="stylesheet" href="/css/jquery.ui.custom.css" type="text/css"/>
+    <link rel="stylesheet" href="/css/alert.css" type="text/css"/>
+    <link rel="stylesheet" href="/css/popup.css"/>
+    <script type="text/javascript" src="/script/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="/script/layout.js"></script>
+    <script type="text/javascript" src="/script/jquery-1.3.2.min.js"></script>
+    <script type="text/javascript" src="/script/jquery-ui-1.7.2.custom.min.js"></script>
+    <script type="text/javascript" src="/script/jquery.simplemodal-1.3.3.min.js"></script>
+    <script type="text/javascript" src="/script/jquery.selectbox-0.4.js"></script>
+    <script type="text/javascript" src="/script/jquery.alphanumeric.js"></script>
+    <script type="text/javascript" src="/script/common.js"></script>
+    <script type="text/javascript" src="/script/progressBar.js"></script>
+    <script type="text/javascript" src="/script/date.js"></script>
+    <script type="text/javascript" src="/script/number.js"></script>
+    <script>
+         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+         m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+         })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+         ga('create', 'UA-92397318-1', 'auto');
+         ga('send', 'pageview');
+
+
+
+    </script>
+    <script type="text/javascript">
+         function noticeBtnApply(){
+         	if($("#ddlJobList").val().length == 0)
+          {
+          	jsAlertFocus("알림", "지원 직무를 선택하세요.", "#ddlJobList");
+          }
+         	else
+         	{
+             $("#frmMain").submit();
+         	}
+         	return;
+         }
+
+         function goNoticeInfo(reNo)
+         {
+             location.href= "/user/recruit/notice/noticeView?joinCorp=" + $("#joinCorp").val() + "&reNo=" + reNo;
+         }
+         // 인쇄팝업
+         function noticeViewBtnPrint() {
+             var theURL = "/user/popup/noticePrintPop?joinCorp=" + $("#joinCorp").val() + "&reNo=" + $("#reNo").val();
+             var winName = "noticePrintPop";
+             var features = "toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=auto,resizable=0, width=650, height=550";
+             window.open(theURL, winName, features);
+             return;
+         };
+
+         // 공고리스트로 이동
+         function noticeViewBtnList(){
+            location.href = "/user/recruit/notice/noticeList?joinCorp=" + $("#joinCorp").val();
+            return;
+         };
+
+
+
+    </script>
+</head>
+<body>
+<form id="frmMain" name="frmMain" method="post" action="/user/recruit/register/step1">
+    <input type="hidden" id="currentPage" name="currentPage" value=""/>
+    <input type="hidden" id="joinCorp" name="joinCorp" value="NX"/>
+    <input type="hidden" id="reNo" name="reNo" value="20200256"/>
+    <input type="hidden" id="applyType" name="applyType" value="notice"/>
+    <div id="wrapper" class="NX">
+        <div id="header_wrap">
+            <!-- 상단메뉴 -->
+            <script type="text/javascript">
+                  $(function() {
+
+                     });
+
+                      function jsGoCareer(corp, link)
+                      {
+
+                      	var theURL;
+
+                          if (corp == 'NX'){
+                  		theURL = "/nexon";
+                          }else if (corp == 'NW' && link == '1'){
+                          	theURL = "http://www.nexon-networks.com/";
+                          }else if (corp == 'NW' && link == '2'){
+                         	 theURL = "/nexon-networks";
+                          }else if (corp == 'NU'){
+                          	theURL = "/nexon-comms";
+                          }else if (corp == 'GH'){
+                          	theURL = "/nexongt";
+                          }else if (corp == 'NO'){
+                          	theURL = "/neople";
+                          }else if (corp == 'MD'){
+                  		theURL = "/nmp-corp";
+                          }else if (corp == 'WL'){
+                  		theURL = "/nexonred";
+                          }else if (corp == 'TS'){
+                         	 theURL = "/thingsoft";
+                          }else if (corp == 'BL'){
+                         	 theURL = "/booleangames";
+                          }else if (corp == 'NT'){
+                         	 theURL = "/n2o";
+                          }else if (corp == 'DV'){
+                         	 theURL = "/devcat";
+                          }
+
+                          window.location = theURL;
+                      }
+
+
+
+
+            </script>
+            <div class="header pt_30 pb_10 overflowh">
+                <h1 class="floatl"><a href="#" onclick="javascript:jsGoCareer('NX','1'); return false;"><img
+                        src="https://bimg.nexon.com/images/career_imgs/NEW/NX/sub_logo.jpg" alt="채용"/></a></h1>
+                <div id="gnb" class="floatr">
+                    <h2 class="hide">전체 메뉴</h2>
+                    <ul class="overflowh fs_16 fontW">
+                        <li class="floatl"><a class="on display_b p_10" href="#"
+                                              onclick="location.href='/user/recruit/notice/noticeList?joinCorp=NX'; return false;">입사지원</a>
+                        </li>
+                        <li class="floatl"><a class="display_b p_10 fc_05" href="#"
+                                              onclick="location.href='/user/want/want?joinCorp=NX'; return false;">인재상</a>
+                        </li>
+                        <li class="floatl"><a class="display_b p_10 fc_05" href="#"
+                                              onclick="location.href='/user/duty/info?joinCorp=NX'; return false;">직무소개</a>
+                        </li>
+                        <li class="floatl"><a class="display_b p_10 fc_05" href="#"
+                                              onclick="location.href='/user/system/welfare?joinCorp=NX'; return false;">인사제도</a>
+                        </li>
+                        <li class="floatl"><a class="display_b p_10 fc_05" href="#"
+                                              onclick="location.href='/user/system/rerecruit?joinCorp=NX'; return false;">재입사
+                            안내</a></li>
+                        <li class="floatl"><a class="display_b p_10 fc_05" href="#"
+                                              onclick="location.href='/user/question/faq?joinCorp=NX'; return false;">채용문의</a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- gnb -->
+            </div>
+            <!-- header -->
+            <div class="company_box">
+                <div class="company_box_c">
+                    <div class="btn_box">
+                        <div class="company">
+                            <!-- 20140729 btn_box 추가 -->
+                            <p class="btn_slide_down"><a href="#none">관계사 이동 버튼</a></p>
+                        </div>
+                        <!-- /20140729 btn_box -->
+                        <div class="company_list">
+                            <dl class="fs_14 pt_35">
+                                <dt class="fs_20 mr_35 fc_01 fontW">관계사 채용 이동</dt>
+                                <dd><a class="pr_15 pt_10 pb_10 pl_10 underline" href="#none"
+                                       onclick="javascript:jsGoCareer('NX','2'); return false;"><span id="NXcount"
+                                                                                                      class="pl_15 pr_10">넥슨</span></a>
+                                </dd>
+                                <dd><a class="pr_15 pt_10 pb_10 pl_10 underline" href="#none"
+                                       onclick="javascript:jsGoCareer('NW','2'); return false;"><span id="NWcount"
+                                                                                                      class="pl_15 pr_10">넥슨 네트웍스</span></a>
+                                </dd>
+                                <dd><a class="pr_15 pt_10 pb_10 pl_10 underline" href="#none"
+                                       onclick="javascript:jsGoCareer('GH','2'); return false;"><span id="GHcount"
+                                                                                                      class="pl_15 pr_10">넥슨 지티</span></a>
+                                </dd>
+                                <dd><a class="pr_15 pt_10 pb_10 pl_10 underline" href="#none"
+                                       onclick="javascript:jsGoCareer('NO','2'); return false;"><span id="NOcount"
+                                                                                                      class="pl_15 pr_10">네오플</span></a>
+                                </dd>
+                                <dd><a class="pr_15 pt_10 pb_10 pl_10 underline" href="#none"
+                                       onclick="javascript:jsGoCareer('NU','2'); return false;"><span id="NUcount"
+                                                                                                      class="pl_15 pr_10">넥슨 커뮤니케이션즈</span></a>
+                                </dd>
+                                <dd><a class="pr_15 pt_10 pb_10 pl_10 underline" href="#none"
+                                       onclick="javascript:jsGoCareer('MD','2'); return false;"><span id="MDcount"
+                                                                                                      class="pl_15 pr_10">엔미디어플랫폼</span></a>
+                                </dd>
+                                <dd><a class="pr_15 pt_10 pb_10 pl_10 underline" href="#none"
+                                       onclick="javascript:jsGoCareer('NT','2'); return false;"><span id="NTcount"
+                                                                                                      class="pl_15 pr_10">니트로</span></a>
+                                </dd>
+                                <dd><a class="pr_15 pt_10 pb_10 pl_10 underline" href="#none"
+                                       onclick="javascript:jsGoCareer('DV','2'); return false;"><span id="DVcount"
+                                                                                                      class="pl_15 pr_10">데브캣</span></a>
+                                </dd>
+                            </dl>
+                            <p class="btn_slide_up"><a href="#none">관계사 이동 닫기 버튼</a></p>
+                        </div>
+                        <!-- company_list -->
+                    </div>
+                    <!-- company -->
+                </div>
+                <!-- company_color -->
+            </div>
+            <!-- company_box -->
+        </div>
+        <!-- header_wrap -->
+        <div id="container" class="overflowh">
+            <div id="con_left" class="floatl">
+                <!-- 왼쪽메뉴 -->
+                <div class="left_menu pb_85">
+                    <h3 class="pb_30"><a class="fs_22 lh120p fontW" href="#"
+                                         onclick="location.href='/user/recruit/notice/noticeList?joinCorp=NX'; return false;">입사지원</a>
+                    </h3>
+                    <ul>
+                        <li class="mb_15"><a class="on fs_16 fontW fc_05 display_b pl_20" href="#" title="채용공고 페이지 입니다."
+                                             onclick="location.href='/user/recruit/notice/noticeList?joinCorp=NX'; return false;">채용공고</a>
+                        </li>
+                        <li class="mb_15"><a class="fs_16 fontW fc_05 display_b pl_20" href="#" title="채용절차 페이지 입니다."
+                                             onclick="location.href='/user/recruit/process/process?joinCorp=NX'; return false;">채용절차</a>
+                        </li>
+                        <li class="mb_15"><a class="fs_16 fontW fc_05 display_b pl_20" href="#"
+                                             title="지원서 확인 및 수정하는 페이지 입니다."
+                                             onclick="location.href='/user/recruit/edit/registerEditMain?joinCorp=NX'; return false;">지원서
+                            확인 및 수정</a></li>
+                        <li class="mb_15"><a class="fs_16 fontW fc_05 display_b pl_20" href="#"
+                                             title="지원결과 조회 하는 페이지 입니다."
+                                             onclick="location.href='/user/recruit/result/registerResultMain?joinCorp=NX'; return false;">지원결과
+                            조회</a></li>
+                    </ul>
+                </div>
+                <!-- left_menu -->
+                <!-- Quick Lick -->
+                <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+                "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+                <script type="text/javascript">
+                     $(function() {
+                     	goNoticeList(0);
+
+                     	$(".ellipsisW220").css("cursor", "hand");
+
+
+                     });
+                        function goNoticePop(noticeNo)
+                        {
+                            var theURL = "/user/popup/noticePop?joinCorp=" + $("#joinCorp").val()
+                                        + "&noticeNo=" + noticeNo;
+
+                            var winName = "noticePop";
+
+                            var features = "toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=auto,resizable=0, width=720, height=550";
+                            window.open(theURL, winName, features);
+                        }
+
+                        function goNoticeList(currentPage)
+                        {
+                             $("#noticeList").load("/user/common/noticeList", {joinCorp:$("#joinCorp").val(), currentPage:currentPage});
+
+                            $("a[name=noticeIndex]").each(function() {
+                                var index = eval($(this).attr("id").substring($(this).attr("id").indexOf("_")+1, $(this).attr("id").length));
+
+                                if (currentPage == (index - 1))
+                                {
+
+                                    $(this).attr("class", "on");
+
+                                }
+                                else
+                                {
+
+                                    $(this).removeAttr("class");
+                                }
+                            });
+
+                        }
+
+                        function goCareer(corp)
+                        {
+
+                        	var theURL;
+
+                        	if (corp == 'NX'){
+                     		theURL = "http://company.nexon.com/";
+                            }else if (corp == 'NS'){
+                            	theURL = "http://www.ndoors.com";
+                            }else if (corp == 'NW'){
+                            	theURL = "http://www.nexon-networks.com";
+                            }else if (corp == 'NU'){
+                            	theURL = "http://www.nexon-communications.com";
+                            }else if (corp == 'GH'){
+                            	theURL = "http://www.nexon-gt.com";
+                            }else if (corp == 'NO'){
+                            	theURL = "http://www.neople.co.kr";
+                            }else if (corp == 'MD'){
+                            	theURL = "http://www.nmp-corp.com";
+                            }else if (corp == 'WL'){
+                            	theURL = "http://www.nexon-gt.com/nexon-red";
+                            }else if (corp == "NT"){
+                            	theURL = "http://n2o.studio/";
+                            }else if (corp == "DV"){
+                            	theURL = "https://devcat.com/";
+                            }
+
+                            window.open(theURL);
+                        }
+
+                        function jsThingPopUp()
+                        {
+                            // 띵소프트 팝업 설정
+                            var winName = "thingPop";
+                            var theURL = "/user/popup/thingPop?joinCorp=" + $("#joinCorp").val();
+                            var features = "toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=auto,resizable=0, width=745, height=1000";
+
+                            // 띵소프트 팝업
+                            window.open(theURL, winName, features);
+                        }
+
+                        function jsBooleanPopUp()
+                        {
+                            // 띵소프트 팝업 설정
+                            var winName = "booleanPop";
+                            var theURL = "/user/popup/booleanPop?joinCorp=" + $("#joinCorp").val();
+                            var features = "toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=auto,resizable=0, width=745, height=1000";
+
+                            // 띵소프트 팝업
+                            window.open(theURL, winName, features);
+                        }
+
+                        function jsWellPopUp()
+                        {
+                            // 넥슨레드 팝업 설정
+                            var winName = "wellPop";
+                            var theURL = "/user/popup/wellPop?joinCorp=" + $("#joinCorp").val();
+                            var features = "toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=auto,resizable=0, width=745, height=1000";
+
+                            // 넥슨레드 팝업
+                            window.open(theURL, winName, features);
+                        }
+
+
+
+
+
+                </script>
+                <dl class="quick_menu pb_50">
+                    <dt class="hide">바로가기 메뉴</dt>
+                    <dd class="mb_25"><a href="#" title="인재풀 등록하는 페이지."
+                                         onclick="location.href='/user/recruit/register/step1?joinCorp=NX&reNo=99990001&applyType=pool'; return false;"><img
+                            src="https://bimg.nexon.com/images/career_imgs/NEW/NX/btn_regi_pool.png" alt="인재풀 등록"/></a>
+                    </dd>
+                    <!-- 불리언게임즈 소개
+                       <dd><a href="#" title="" onclick="javascript:jsBooleanPopUp(); return false;" ><img src="https://bimg.nexon.com/images/career_imgs/NEW/NX/btn_left_home03.png" alt="불리언게임즈" /></a></dd>
+                        -->
+                </dl>
+                <div id="notice">
+                    <div class="notice_left">
+                        <h4 class="fs_16">NOTICE</h4>
+                        <ul class="list_num">
+                            <li><a id="noticeIndex_1" name="noticeIndex" href="#" class="on"
+                                   onclick="javascript:goNoticeList(0); return false;">1</a></li>
+                            <li><a id="noticeIndex_2" name="noticeIndex" href="#"
+                                   onclick="javascript:goNoticeList(1); return false;">2</a></li>
+                            <li><a id="noticeIndex_3" name="noticeIndex" href="#"
+                                   onclick="javascript:goNoticeList(2); return false;">3</a></li>
+                        </ul>
+                        <div id="noticeList"></div>
+                    </div>
+                    <!-- notice_left -->
+                </div>
+            </div>
+            <div id="con_right" class="floatr">
+                <div class="cont_top overflowh">
+                    <h4 class="fs_40 fontW floatl">채용공고</h4>
+                    <dl class="path floatr pt_20">
+                        <dt class="hide">경로</dt>
+                        <dd class="floatl"><a href="#none"><img
+                                src="https://bimg.nexon.com/images/career_imgs/NEW/NX/home.png" width="18" height="18"
+                                alt="Home"
+                                onclick="location.href='/user/recruit/notice/noticeList?joinCorp=NX'; return false;"/></a>
+                        </dd>
+                        <dd class="floatl path_bullet"><a class="fc_07" href="#none">입사지원</a></dd>
+                        <dd class="floatl path_bullet">채용공고</dd>
+                    </dl>
+                </div>
+                <!-- cont_top -->
+                <div class="content">
+                    <table cellpadding="0" cellspacing="0" class="table02">
+                        <tr>
+                            <th scope="row">제목</th>
+                            <td colspan="5" class="title tleft">[넥슨] 21년 전문연구요원 모집 (게임프로그래머)</td>
+                        </tr>
+                        <tr>
+                            <th>직군/직렬/직무</th>
+                            <td colspan="5" class="tleft">
+                                게임프로그래밍 / 게임프로그래밍
+                                / 게임프로그래머
+                            </td>
+                        </tr>
+                        <tr class="bottom">
+                            <th scope="row">대상</th>
+                            <td>신입</td>
+                            <th scope="row">근무형태</th>
+                            <td>일반직_병특</td>
+                            <th scope="row">모집기간</th>
+                            <td>
+                                21.01.05
+                                ~
+                                채용시
+                            </td>
+                        </tr>
+                    </table>
+                    <p class="btn tright">
+                        <label for="applyfor" class="hide">지원하기</label><input type="button" value="지원하기"
+                                                                              onclick="javascript:noticeBtnApply(); return false;"
+                                                                              onkeypress="javascript:if(event.keyCode==13){noticeBtnApply(); return false;}"
+                                                                              id="applyfor"
+                                                                              class="btn_color btn_wh cursor"/>
+                    </p>
+                    <hr/>
+                    <div class="list_txt01">
+                        <h5 class="fs_18 fontW">주요업무</h5>
+                        - 게임 클라이언트/서버 등 개발과 관련된 모든 직무
+                        <br/>
+                        <br/><br/><br/>
+                        <h5 class="fs_18 fontW">지원자격</h5>
+                        - 해당 분야 석사학위 이상 또는 석사학위 취득 예정자로서(~2021년 8월까지) 전문연구요원 신규편입 대상자
+                        <br/>
+                        <br/>- 병역의무가 없거나 면제된 분, 병역의 의무를 마치신 분은 본 공고의 대상에서 제외됨
+                        <br/>
+                        <br/>- 논리적인 사고로 문제를 해결할 수 있는 분
+                        <br/>
+                        <br/>- 업무분석과 개선이 능하다고 생각하는 분
+                        <br/>
+                        <br/>- 팀워크를 중요시하는 분
+                        <br/>
+                        <br/><br/><br/>
+                        <h5 class="fs_18 fontW">우대사항</h5>
+                        - 3D 그래픽스, 네트워크 등 게임 개발과 관련 있는 세부 전공
+                        <br/>
+                        <br/>- 게임엔진 활용에 대한 경험이 있거나, 1인 혹은 다인 프로젝트로 직접 게임을 만들어 보신 분
+                        <br/>
+                        <br/>- 소스 분석 및 트러블 슈팅 경험
+                        <br/>
+                        <br/><br/><br/>
+                        <h5 class="fs_18 fontW">기타사항</h5>
+                        <b>- 업계 최고 수준의 연봉과 보상, 변화를 선도하는 넥슨과 함께 할 여러분을 모십니다. <a
+                                href="https://www.yna.co.kr/view/AKR20210201065351017?section=news"><font color="blue">[관련
+                            기사 보기]</font></a></b>
+                        <br/>
+                        <br/>- 본 공고는 전문연구요원 신규편입 대상자를 위한 모집 건으로, 이미 복무 중이신 분은(전직 대상자) 현재 오픈된 다른 공고로 지원 부탁드립니다.
+                        <br/>
+                        <br/>- 서류 접수 이후 4주 이내로 결과를 안내해 드리고 있으며, 전문연구요원 T/O 소진 시 조기 마감될 수 있습니다.
+                        <br/>
+                        <br/>- 제출해주신 서류는 순차적으로 검토가 진행되며, 합격자에 한해 개별적으로 다음 전형을 안내해 드리고 있습니다.
+                        <br/>
+                        <br/>- 전형과정 : 서류전형 > 온라인 코딩테스트 > 인성검사 > 1차면접 > 2차면접 > 입사
+                        <br/> (1차면접 결과에 따라 2차면접 대상 프로젝트가 결정되므로, 다수의 프로젝트에 대해서 면접을 진행할 수도 있습니다)
+                        <br/>
+                        <br/>- 국가보훈대상자는 관련 법규에 의거, 우대합니다.
+                        <br/>
+                        <br/>- 회사 소개는 http://company.nexon.com 를 참조 부탁 드립니다.
+                        <br/>
+                        <br/>- 회사 복지는 http://company.nexon.com/Careers/HR_System/Welfare/Welfare.aspx 를 참조 부탁 드립니다.
+                        <br/>
+                        <br/>
+                        <br/><b>※ 관계사 '넷게임즈' 에서도 신규/전직 전문연구요원을 모집 중에 있으니 오른쪽 공고(링크)로 지원부탁드립니다. <a
+                            href="http://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=184491"><font color="blue">[넷게임즈
+                        모집공고 링크]</font></a></b>
+                        <br/><br/><br/>
+                    </div>
+                    <div class="list_sel01">
+                        <p>
+                            <label for="ddlJobList" class="company_color fontW">지원직무선택</label>
+                            <select name="ddlJobList" id="ddlJobList" class="w175">
+                                <option selected="selected" value="">지원직무를 선택하세요</option>
+                                <option value="502">게임프로그래머</option>
+                            </select>
+                            <strong class="fc_07">지원서를 작성하시기 전에 직무를 선택하세요.</strong>
+                        </p>
+                    </div>
+                    <p class="btn tright">
+                        <label for="applyfor" class="hide">지원하기</label><input type="button" value="지원하기"
+                                                                              onclick="javascript:noticeBtnApply(); return false;"
+                                                                              onkeypress="javascript:if(event.keyCode==13){noticeBtnApply(); return false;}"
+                                                                              id="applyfor"
+                                                                              class="btn_color btn_wh cursor"/>
+                        <label for="tolist" class="hide">목록</label><input type="button" value="목록"
+                                                                          onclick="javascript:noticeViewBtnList(); return false;"
+                                                                          onkeypress="javascript:if(event.keyCode==13){noticeViewBtnList(); return false;}"
+                                                                          id="tolist" class="btn_gray btn_wh cursor"/>
+                    </p>
+                    <table class="table03 mt_40" summary="다음 글과 이전 글">
+                        <caption>다음 글과 이전 글을 나타내는 테이블</caption>
+                        <colgroup>
+                            <col width="15%"/>
+                            <col width="*"/>
+                        </colgroup>
+                        <tbody>
+                        <tr>
+                            <th><span class="icon_up01 display_b">다음 글</span></th>
+                            <td>
+                                다음 글이 없습니다.
+                            </td>
+                        </tr>
+                        <tr>
+                            <th><span class="icon_down01 display_b">이전 글</span></th>
+                            <td>
+                                이전 글이 없습니다.
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <hr/>
+            </div>
+            <!-- con_right -->
+        </div>
+        <!-- container -->
+        <div>
+            <div id="footer_wrap">
+                <div class="footer position_r fs_12 fc_04">
+                    <div class="floatl" style="width:80%;">
+                        <h2 class="mr_20 floatl"><img
+                                src="https://bimg.nexon.com/images/career_imgs/NEW/NX/footer_logo.jpg"
+                                alt="FOOTER LOGO"/></h2>
+                        <small class="pb_5 display_b fs_11">&copy; NEXON Corporation All Rights Reserved.</small>
+                        <address class="display_i pr_10" style="">(주)넥슨코리아 | 대표:이정헌 경기도 성남시 분당구 판교로 256번길, 7</address>
+                        <a class="fontW fs_11" href="#none" onclick="javascript:jsPrivacyPopUp(); return false;">&middot;
+                            개인정보처리방침</a>
+                    </div>
+                    <div class="footer_select floatr position_r" style="margin-top:5px;">
+                        <a href="#none" class="family_tit family_tit_on display_b pl_15" title="페밀리사이트 열기">FAMILY
+                            SITE</a>
+                        <div class="family_list displayn position_a">
+                            <ul class="pt_5">
+                                <li><a class="pl_15 pt_5 underline display_b" target="_blank" title="새 창에서 열림"
+                                       href="http://company.nexon.com/">넥슨</a></li>
+                                <li><a class="pl_15 pt_5 underline display_b" target="_blank" title="새 창에서 열림"
+                                       href="http://www.nexon-networks.com">넥슨네트웍스</a></li>
+                                <li><a class="pl_15 pt_5 underline display_b" target="_blank" title="새 창에서 열림"
+                                       href="http://www.neople.co.kr">네오플</a></li>
+                                <li><a class="pl_15 pt_5 underline display_b" target="_blank" title="새 창에서 열림"
+                                       href="http://www.nexon-gt.com">넥슨지티</a></li>
+                                <li><a class="pl_15 pt_5 underline display_b" target="_blank" title="새 창에서 열림"
+                                       href="http://www.nexon-communications.com">넥슨커뮤니케이션즈</a></li>
+                                <li><a class="pl_15 pt_5 underline display_b" target="_blank" title="새 창에서 열림"
+                                       href="http://www.nexon-gt.com/nexon-red">넥슨레드</a></li>
+                                <li><a class="pl_15 pt_5 underline display_b" target="_blank" title="새 창에서 열림"
+                                       href="https://ndc.nexon.com">NDC</a></li>
+                                <li><a class="pl_15 pt_5 underline display_b" target="_blank" title="새 창에서 열림"
+                                       href="http://www.natgames.co.kr">넷게임즈</a></li>
+                                <li><a class="pl_15 pt_5 underline display_b" target="_blank" title="새 창에서 열림"
+                                       href="https://devcat.com/">데브캣</a></li>
+                                <li><a class="pl_15 pt_5 underline display_b" target="_blank" title="새 창에서 열림"
+                                       href="http://www.nmp-corp.com/">엔미디어플랫폼</a></li>
+                            </ul>
+                        </div>
+                        <a href="#none" class="family_tit family_tit_off display_b pl_15" title="페밀리사이트 닫기"
+                           style="display:none;">FAMILY SITE</a>
+                    </div>
+                </div>
+            </div>
+            <!-- footer -->
+        </div>
+        <!-- footer_wrap -->
+    </div>
+    <!-- wrapper -->
+</form>
+</body>
+</html>

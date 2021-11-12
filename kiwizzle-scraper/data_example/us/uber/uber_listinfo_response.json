@@ -1,0 +1,396 @@
+{
+  "status": "success",
+  "data": {
+    "results": [
+      {
+        "id": 105243,
+        "title": "Android Engineer - Premium and Reservations",
+        "description": "## **About the role:**\n\nCollaborates with team members to design, develop, and maintain user interfaces and features for mobile applications (Android).\n\n## **About the Team:**\n\nThe Premium &amp; Reservations team at Uber is a verticals group passionate about unlocking step-function growth for Uber's Mobility business. We work on some of Uber's highest margin premium products, own scalable platforms that power Uber's reservation tech, and build out new and innovative products. As a member of our team you will join a fast paced team and play a critical part in making these substantial bets for Uber come to fruition.\n\n## **Minimum qualifications:**\n\n  * Bachelor's degree or equivalent in Computer Science, Engineering, Mathematics or related field **OR** 1-year full-time Software Engineering work experience, **WHICH INCLUDES** 1-year total technical software engineering experience in one or more of the following areas:\n  * Android Development\n  * Android java, or Android Kotlin\n  * Note the 1-year total of specialized software engineering experience may have been gained through education and full-time work experience, additional training, coursework, research, or similar (OR some combination of these). The year of specialized experience is not necessarily in addition to the years of Education &amp; full-time work experience indicated.\n\n\n\n## **Technical skills:**\n\nPreferred:\n\n  * Cross-platform (Android and iOS)\n\n\n\n \n\nAt Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 10,000 cities around the world.\n\n \n\n \n\nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let's move the world forward, together.\n\n \n\n \n\nUber is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing [this form](https://forms.gle/aDWTk9k6xtMU25Y5A).",
+        "department": "Engineering",
+        "type": "",
+        "programAndPlatform": "Rider Payments - Regional",
+        "location": {
+          "country": "USA",
+          "region": "California",
+          "city": "San Francisco",
+          "countryName": "United States"
+        },
+        "featured": false,
+        "level": "4",
+        "creationDate": "2021-06-24T13:35:00.000Z",
+        "otherLevels": null,
+        "team": "Android",
+        "portalID": "EXTERNAL",
+        "isPipeline": false,
+        "statusID": "D31001",
+        "statusName": "Approved",
+        "updatedDate": "2021-07-29T21:19:00.000Z",
+        "uniqueSkills": "",
+        "allLocations": [
+          {
+            "country": "USA",
+            "region": "Washington",
+            "city": "Seattle",
+            "countryName": "United States"
+          },
+          {
+            "country": "USA",
+            "region": "California",
+            "city": "San Francisco",
+            "countryName": "United States"
+          }
+        ]
+      },
+      {
+        "id": 105211,
+        "title": "Software Engineer II iOS",
+        "description": "**About the Role**\n\n \n\n \n\nAs a software engineer in the Mobility team, you will work on some of the core mobility features and workflows in the Uber rider app which is used by riders across the world. You will have an opportunity to join this growing line of business in its very early phase.\n\n \n\nAt Uber, we take pride in offering the best quality service to our customers - you will collaborate closely with product managers and business operations teams to build for scale, yet focusing on providing intuitive and delightful customer experiences.\n\n \n\n**What the Candidate Will Need / Bonus Points**\n\n \n\n\\---- What the Candidate Will Do ----  \n  \n\n\n  * Closely collaborate with product, design and business teams to understand product ideas and business needs and help deliver these as a series of fast experiments.\n  * Implement native user interfaces with the latest iOS technologies. Contribute to the iOS monorepo on core Uber flows enabling a variety of new experiences related to mobility use cases.\n  * Drive adoption of best practices in code health, testing, and maintainability.\n  * Play an active role in team's technical design choices, code reviews and documentation.\n  * Coach and mentor junior or new engineers joining the mobility team.\n\n\n\n  \n  \n\\---- Basic Qualifications ----  \n  \n\n\n  * 4+ years of full-time iOS engineering experience with strong expertise in Swift and Objective-C and deep understanding of iOS SDK. Good understanding of object oriented programming, multithreading, networking, memory management and source control management (git).\n  * Strong focus on high-quality mobile UI experiences. Passion about delivering software that delights our end users. Proficiency with UI/UX paradigms to build elegant user experiences.\n  * Experience working with product management and design teams.\n  * Ability to understand business requirements and translate them into technical requirements.\n  * Good communication and collaboration skills to be able to work in a fast paced and distributed environment.\n  * Experience in testing and deploying scalable mobile applications. Experience analyzing a feature in production using analytics and experiments.\n  * Fast learner: We're looking for software engineers who thrive on learning new technologies and don't believe in one-size-fits-all solutions. Should be able to adapt easily to meet the needs of our extensive growth and constantly evolving business environment.\n  * A great teammate: Believe that you can achieve more on a team -- that the whole is greater than the sum of its parts. You rely on others' candid feedback for continuous improvement.\n\n\n\n \n\n  \n  \n\\---- What the Candidate Will Do ----  \n  \n\n\n  * BS/MS/PhD in Computer Science or a related field\n  * Experience of working on partner integration platforms and projects.\n\n\n\nAt Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 10,000 cities around the world.\n\n \n\n \n\nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let's move the world forward, together.",
+        "department": "Engineering",
+        "type": "",
+        "programAndPlatform": "Emerging Markets Rider",
+        "location": {
+          "country": "IND",
+          "region": "Karnataka",
+          "city": "Bengaluru",
+          "countryName": "India"
+        },
+        "featured": false,
+        "level": "4",
+        "creationDate": "2021-06-23T17:57:00.000Z",
+        "otherLevels": null,
+        "team": "iOS",
+        "portalID": "EXTERNAL",
+        "isPipeline": false,
+        "statusID": "D31001",
+        "statusName": "Approved",
+        "updatedDate": "2021-07-27T10:21:00.000Z",
+        "uniqueSkills": "",
+        "allLocations": [
+          {
+            "country": "IND",
+            "region": "Karnataka",
+            "city": "Bengaluru",
+            "countryName": "India"
+          }
+        ]
+      },
+      {
+        "id": 105022,
+        "title": "Senior Backend Engineer, Inventory & Catalog Platform",
+        "description": "Whether it's a sandwich, a burrito, or groceries, the Uber Eats team builds technology to connect people with what they want, when and where they want it. Uber Eats is home to a team of mobile and backend engineers tasked with creating an app to fuel our three-sided marketplace of eaters, delivery-partners, and restaurants.\n\nFrom making it easier to discover your ideal meal to designing dynamic UIs, our iOS and Android engineers keep the app healthy and users hungry for more.\n\n \n\nThe Denmark Eats Engineering team is responsible for building the product catalog and inventory system that powers the Uber Eats experience and related verticals, such as groceries. This is one of the foundational components of the Eats architecture, as it interfaces with merchants, powers our local graph, and serves recommendations to our customers. The system is designed to be highly-available and highly-scalable to support our global operation. Join us as a Senior Software Engineer and help us build our next generation Delivery Platform \n\n \n\nBasic Qualifications\n\n  * Relevant degree (B.Sc, M.Sc, Ph.D) in Computer Science or related technical field or equivalent practical experience\n  * 5+ Experience coding with C++, Java, Python, or Go\n  * Enjoy building high quality software that is relied upon by millions of people around the world.\n  * Experience with large-scale eCommerce or content-management systems\n  * Experience with user-data analytics and personalization\n\n\n\n \n\nPreferred Qualifications:\n\n  * Comfortable working with ambiguity in a constantly evolving environment\n  * Experience working in large scale distributed systems\n  * Machine Learning Experience\n  * Batch and/or Streaming computation platforms\n\n\n\n  \nWhat the Candidate Will Do\n\n  * Comfortable working with ambiguity in constantly evolving environment\n  * Experience working in large scale distributed systems\n  * Machine Learning Experience\n  * Batch and/or Streaming computation platforms\n\n\n\n \n\nAt Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 10,000 cities around the world.\n\n \n\n \n\nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let's move the world forward, together.",
+        "department": "Engineering",
+        "type": "",
+        "programAndPlatform": "",
+        "location": {
+          "country": "DNK",
+          "region": "",
+          "city": "Aarhus",
+          "countryName": "Denmark"
+        },
+        "featured": false,
+        "level": "5",
+        "creationDate": "2021-06-17T09:11:00.000Z",
+        "otherLevels": null,
+        "team": "Backend",
+        "portalID": "EXTERNAL",
+        "isPipeline": false,
+        "statusID": "D31001",
+        "statusName": "Approved",
+        "updatedDate": "2021-08-31T08:57:00.000Z",
+        "uniqueSkills": "",
+        "allLocations": [
+          {
+            "country": "DNK",
+            "region": "",
+            "city": "Aarhus",
+            "countryName": "Denmark"
+          }
+        ]
+      },
+      {
+        "id": 105007,
+        "title": "Senior Software Engineer II - Defense Platform",
+        "description": "**The Role**\n\nOur Defense Platform team enables enterprise defenders to rapidly identify, mitigate, and respond to cyber threats using innovative defense technologies, keeping Uber ahead of adversaries. We are seeking a Senior Software Engineer with technical depth and entrepreneurial spirit to build and sustain innovative software platforms which empower our security practitioners.\n\n## **Responsibilities**\n\n  * Build and maintain a modern technology stack with well defined APIs and practical integrations.\n  * Design and architect core, middleware, and backend software components that enhance our observability capabilities.\n  * Lead major initiatives, projects, roll-outs and phased-releases.\n  * Write software using primarily Java and/or Golang to enhance the capabilities of our defense platform.\n  * Improve our streaming security analytics capabilities based on components from the Elastic Stack (beats, logstash, elastic, kibana).\n  * Set technical direction and goals for the team regarding project impact, product quality, and engineering efficiency.\n  * Mentor and sponsor the work of other software engineers on the team.\n\n\n\n## **Minimum Qualifications**\n\n  * Bachelors of Science in Computer Science, Computer Engineering, or a related field.\n  * 6+ years of programming experience in Java, Golang, C, or other relevant coding languages.\n  * 6+ years of experience building large-scale infrastructure applications.\n  * Experience shipping large features with full-stack software development (building backend services, APIs, and frontend flows).\n  * Experience as a software lead designing and building distributed systems.\n  * Experience improving stability through code reviews, testing, rollout, and health/monitoring.\n\n\n\n## **Preferred Qualifications**\n\n  * Masters of Science in Computer Science, Computer Engineering, or a related field.\n  * Experience developing high speed and large scale streaming software applications.\n  * Advanced knowledge of modern data processing technologies (Redis, Memcached, Kafka, Hive, Presto, Spark, Elasticsearch, Hadoop).\n  * Experience building security analytics, threat intelligence, intrusion detection, or incident response platforms.\n  * Experience developing software solutions using AWS or GCP cloud providers.\n\n\n\nAt Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 10,000 cities around the world.\n\n \n\n \n\nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let's move the world forward, together.\n\n \n\n \n\nUber is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing [this form](https://forms.gle/aDWTk9k6xtMU25Y5A).",
+        "department": "Engineering",
+        "type": "",
+        "programAndPlatform": "EngSec",
+        "location": {
+          "country": "USA",
+          "region": "Texas",
+          "city": "Dallas",
+          "countryName": "United States"
+        },
+        "featured": false,
+        "level": "5B",
+        "creationDate": "2021-06-16T21:39:00.000Z",
+        "otherLevels": null,
+        "team": "Engineering",
+        "portalID": "EXTERNAL",
+        "isPipeline": false,
+        "statusID": "D31001",
+        "statusName": "Approved",
+        "updatedDate": "2021-06-25T17:44:00.000Z",
+        "uniqueSkills": "",
+        "allLocations": [
+          {
+            "country": "USA",
+            "region": "Texas",
+            "city": "Dallas",
+            "countryName": "United States"
+          },
+          {
+            "country": "USA",
+            "region": "New York",
+            "city": "New York",
+            "countryName": "United States"
+          },
+          {
+            "country": "USA",
+            "region": "California",
+            "city": "San Francisco",
+            "countryName": "United States"
+          },
+          {
+            "country": "USA",
+            "region": "Washington",
+            "city": "Seattle",
+            "countryName": "United States"
+          },
+          {
+            "country": "USA",
+            "region": "California",
+            "city": "Sunnyvale",
+            "countryName": "United States"
+          },
+          {
+            "country": "USA",
+            "region": "District of Columbia",
+            "city": "Washington",
+            "countryName": "United States"
+          }
+        ]
+      },
+      {
+        "id": 104981,
+        "title": "Senior Software Engineer - Developer Platform",
+        "description": "**Job Description:**\n\n \n\nThe Developer Platform's vision is to be the industry leader for how developers build high-quality software productively at scale. Our mission is to Enable Uber developers to build high-quality software consistently and without frustration. \n\n \n\nAt Uber the Developer Platform teams build the technical foundation for engineers to develop the future of mobility and opportunities with velocity and without frustration. Our engineering community depends on us to develop centralized solutions to support each part of the development life cycle from writing the first line of code to shipping software to production that touches millions of users. We have a unique opportunity to work across Uber's products to solve for scale and impact company wide technical roadmaps.\n\n \n\nAs a software engineer, you will work on impactful projects with opportunities to grow with the company. We need engineers to take ownership of hard problems and think creatively to implement solutions. You will have to be versatile and agile to evolve with the demands of our business growth. Above all, we need our engineers to be passionate and enthusiastic about solving developer productivity challenges.\n\n  \n  \n\n\n**Basic Qualifications:**\n\n \n\n  * +5 years of experience\n\n  * Bachelor's degree or equivalent practical experience.\n\n  * Experience building infrastructures, frameworks, and tools to improve developer experience and speed up development, testing and release.\n\n  * Experience with software development using Java, C/C++, Objective C, Python, JavaScript, or Go.\n\n\n\n\n \n\n**Preferred Qualifications:**\n\n  * Demonstrate the ability to mentor and develop team members\n\n  * Experience with building developer productivity tools and frameworks.\n\n  * Experience collaborating cross-functionally to build systems, create processes, and facilitate development efforts that enable other engineers to be more productive.\n\n  *  Ability to interact with diverse technical and non-technical groups, spanning all organizational levels.\n\n  * Experience developing distributed systems and software networking at scale\n\n\n\n\nAt Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 10,000 cities around the world.\n\n \n\n \n\nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let's move the world forward, together.\n\n \n\n \n\nUber is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing [this form](https://forms.gle/aDWTk9k6xtMU25Y5A).",
+        "department": "Engineering",
+        "type": "",
+        "programAndPlatform": "SRE",
+        "location": {
+          "country": "USA",
+          "region": "California",
+          "city": "San Francisco",
+          "countryName": "United States"
+        },
+        "featured": false,
+        "level": "5",
+        "creationDate": "2021-06-16T05:43:00.000Z",
+        "otherLevels": null,
+        "team": "Backend",
+        "portalID": "EXTERNAL",
+        "isPipeline": false,
+        "statusID": "D31001",
+        "statusName": "Approved",
+        "updatedDate": "2021-08-25T17:35:00.000Z",
+        "uniqueSkills": "",
+        "allLocations": [
+          {
+            "country": "USA",
+            "region": "California",
+            "city": "San Francisco",
+            "countryName": "United States"
+          },
+          {
+            "country": "USA",
+            "region": "California",
+            "city": "Sunnyvale",
+            "countryName": "United States"
+          }
+        ]
+      },
+      {
+        "id": 104971,
+        "title": "Staff ML Engineer, Adtech",
+        "description": "**About the Team:**\n\n \n\nThe AdTech team enables Uber's growth by enabling acquisition and retention of Uber users through marketing. We are responsible for building and managing systems that improve efficiency and effectiveness of Uber marketing business function. We support various marketing use cases which span Uber's mobile and web applications (Rider, Driver, Eats, Freight, Elevate, U4B etc.), Uber acquisitions (Cornershop, Jump, Careem etc.) through various marketing channels (Search, Social, Programmatic Display, Job boards, AppAds, and as many as 40 more).\n\n \n\nOptimization team within AdTech solves automation of intelligent decision making regarding how much money should be invested and spent for different marketing channels. You will build machine learning driven automation systems that will influence multi-million dollar investment decisions. You will consume impressions and click level petabyte scale data, build highly available and highly scalable backend systems flexible enough to handle channel niche complexities and granularities. We are looking for engineers who can come and help define the next generation architecture for marketing at Uber. If you like working with billions of rows of data, 10ms response times, and having a multi-million dollar impact per engineer, we'd like to hear from you!\n\n \n\n \n\n**About the Role**\n\n \n\nLeads efforts within the organization to drive the design, development, optimization, and productionization of ML or ML-based solutions and systems that are used to solve strategically important problems. This role is also responsible for defining and driving the improvement of key ML infrastructure for model development, training, deployment needs and scaling ML systems.\n\n \n\n## **Minimum qualifications:**\n\n  * PhD or equivalent in Computer Science, Engineering, Mathematics or related field **AND** 4-years full-time Software Engineering work experience **OR **7-years full-time Software Engineering work experience, **WHICH INCLUDES **4-years total technical software engineering experience in one or more of the following areas:\n\n\n\n \n\n  * Programming language (e.g. C, C++, Java, Python, or Go)\n  * Large-scale training using data structures and algorithms\n  * Modern machine learning algorithms (e.g., tree-based techniques, supervised, deep, or probabilistic learning)\n  * Machine Learning Software such as Tensorflow/Pytorch, Caffe, Scikit-Learn, or Spark MLLib\n\n\n\n \n\n \n\n_Note the 4-years total of specialized software engineering experience may have been gained through education and full-time work experience, additional training, coursework, research, or similar (OR some combination of these).  The years of specialized experience are not necessarily in addition to the years of Education &amp; full-time work experience indicated. _\n\n \n\n## **Technical skills:**\n\n \n\nRequired:\n\n  * Deep Learning\n  * Scalable ML architecture\n  * Feature management\n\n\n\n \n\nNice to have:\n\n  * Privacy aware/bias free/Interpretable ML\n  * Personalization\n  * Optimization (RL/Bayes/Bandits)\n\n\n\nAt Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 10,000 cities around the world.\n\n \n\n \n\nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let's move the world forward, together.\n\n \n\n \n\nUber is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing [this form](https://forms.gle/aDWTk9k6xtMU25Y5A).",
+        "department": "Engineering",
+        "type": "",
+        "programAndPlatform": "Map Creation Eng",
+        "location": {
+          "country": "USA",
+          "region": "California",
+          "city": "San Francisco",
+          "countryName": "United States"
+        },
+        "featured": false,
+        "level": "6",
+        "creationDate": "2021-06-15T21:18:00.000Z",
+        "otherLevels": null,
+        "team": "Machine Learning",
+        "portalID": "EXTERNAL",
+        "isPipeline": false,
+        "statusID": "D31001",
+        "statusName": "Approved",
+        "updatedDate": "2021-06-25T22:57:00.000Z",
+        "uniqueSkills": "",
+        "allLocations": [
+          {
+            "country": "USA",
+            "region": "California",
+            "city": "San Francisco",
+            "countryName": "United States"
+          },
+          {
+            "country": "USA",
+            "region": "California",
+            "city": "Sunnyvale",
+            "countryName": "United States"
+          }
+        ]
+      },
+      {
+        "id": 104967,
+        "title": "Sr Staff ML Engineer- Pricing and Incentives",
+        "description": "Uber's Marketplace Engineering team creates the technology behind our ridesharing marketplace by connecting riders with drivers at the push of a button. Our solutions expand user access, deliver reliability, and provide more transportation choices to users across our global markets.\n\n \n\n**About the Role**\n\n \n\nThe role will be within the pricing and incentives domain in Uber's marketplace team. The team charter spans incentive allocation and optimization to balance the market and optimize revenue, dynamic trip pricing based on marketplace conditions. The role will provide an opportunity to work on some of the most strategic marketplace problems at Uber scale that impact Uber's global business very directly.\n\n \n\n**What you'll do:**\n\n  * Work with product, data science, and eng leadership to shape the technical roadmap and problem formulations for the team.\n  * Leverage algorithmic knowledge in machine learning/optimization/statistics to design robust approaches engineering solutions to positively impact Uber's business.\n  * Work with the team to productionize the solutions at scale.\n\n\n\n**Basic Qualifications**\n\n  * BS/BE degree in Computer Science and related field\n  * 7 years of experience in leveraging machine learning/statistics/optimization to build models in production\n\n\n\n**Preferred Qualifications**\n\n  * Master's in a relevant field (computer science, engineering, statistics, ML) or PhD\n  * Some experience in leading teams either as a tech lead or a manager\n  * Experience building algorithms with large scale data\n  * Track record of building large-scale, highly-available systems for both batch and streaming\n  * Deep domain expertise and are one of the recognized specialists in one or multiple areas like reinforcement learning, personalization, or deep learning.\n\n\n\nAt Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 10,000 cities around the world.\n\n \n\n \n\nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let's move the world forward, together.\n\n \n\n \n\nUber is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing [this form](https://forms.gle/aDWTk9k6xtMU25Y5A).",
+        "department": "Engineering",
+        "type": "",
+        "programAndPlatform": "",
+        "location": {
+          "country": "USA",
+          "region": "California",
+          "city": "San Francisco",
+          "countryName": "United States"
+        },
+        "featured": false,
+        "level": "7",
+        "creationDate": "2021-06-15T19:28:00.000Z",
+        "otherLevels": null,
+        "team": "Machine Learning",
+        "portalID": "EXTERNAL",
+        "isPipeline": false,
+        "statusID": "D31001",
+        "statusName": "Approved",
+        "updatedDate": "2021-08-26T23:26:00.000Z",
+        "uniqueSkills": "",
+        "allLocations": [
+          {
+            "country": "USA",
+            "region": "California",
+            "city": "San Francisco",
+            "countryName": "United States"
+          }
+        ]
+      },
+      {
+        "id": 104963,
+        "title": "Sr Staff Optimization Engineer- Pricing and Incentives",
+        "description": "## **About the role:**\n\nLeads efforts to design and implement pricing and incentive computational algorithms to optimize between various tradeoffs, e.g., revenue and growth. Leverage a mix of optimization theory and practical experience to design algorithms that are scalable, adapt to marketplace conditions, and easy to maintain.\n\n## **About the Team:**\n\nThe Driver pricing and incentives team sits within the Marketplace Engineering Org within Uber. Our team's charter spans incentive optimization and dynamic trip pricing to optimize for revenue and growth for all of Uber's businesses including Eats and Rides. These teams build state of the art statistical modeling, optimization, and machine learning algorithms to drive business impact. The role will provide an opportunity to work on some of the most strategic marketplace problems at Uber scale that impacts Uber's global business in a very meaningful way.\n\n## **Minimum qualifications:**\n\n  * PhD or equivalent in Computer Science, Engineering, Mathematics or related field **AND** 5-years full-time Software Engineering work experience **OR 8**-years full-time Software Engineering work experience, **WHICH INCLUDES **5-years total technical software engineering experience in one or more of the following areas:\n    * Programming language (e.g. C, C++, Java, Python, or Go)\n  * _Note the 5-years total of specialized software engineering experience may have been gained through education and full-time work experience, additional training, coursework, research, or similar (OR some combination of these). The years of specialized experience are not necessarily in addition to the years of Education &amp; full-time work experience indicated._\n\n\n\n## **Technical skills:**\n\nRequired:\n\n  * Software implementations for computational algorithms in production\n\n\n\nPreferred:\n\n  * Knowledge of convex and linear programming\n  * Network optimization\n  * Computational algorithms for large scale optimization problems\n  * experience with machine learning models\n\n\n\nAt Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 10,000 cities around the world.\n\n \n\n \n\nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let's move the world forward, together.\n\n \n\n \n\nUber is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing [this form](https://forms.gle/aDWTk9k6xtMU25Y5A).",
+        "department": "Engineering",
+        "type": "",
+        "programAndPlatform": "",
+        "location": {
+          "country": "USA",
+          "region": "California",
+          "city": "San Francisco",
+          "countryName": "United States"
+        },
+        "featured": false,
+        "level": "7",
+        "creationDate": "2021-06-15T19:01:00.000Z",
+        "otherLevels": null,
+        "team": "Machine Learning",
+        "portalID": "EXTERNAL",
+        "isPipeline": false,
+        "statusID": "D31001",
+        "statusName": "Approved",
+        "updatedDate": "2021-08-26T23:27:00.000Z",
+        "uniqueSkills": "",
+        "allLocations": [
+          {
+            "country": "USA",
+            "region": "California",
+            "city": "San Francisco",
+            "countryName": "United States"
+          }
+        ]
+      },
+      {
+        "id": 104957,
+        "title": "Software Engineer II - Membership Backend",
+        "description": "## **About the Role**\n\nThe Eats Membership team is responsible for developing and reinventing the UberEats app to be a member-first experience from:price to perks . You will be on a super collaborative team designed to maximize your ability to deliver results. You will be working on code that's closest to the eaters today and consumers in the future. Your work will impact the foundations of Uber Eats around the world. You will be building the biggest lever for Uber Eats.\n\n \n\nFor an industry synonymous with convenience, it's ironic that the first thing you have to do when you pick up your phone is make a bunch of repetitive decisions. Uber Members will get something nobody else does: a single platform across all their on-demand needs, anywhere in the world, that always guarantees the best: price, selection, priority, and perks.\n\n \n\nYou will lead projects and drive cross-team collaboration with engineers across various product teams, including UberEats, Rides, FinTech, etc. As a result of your work, our team will deliver impact across various products and business lines. If you are interested in building product facing systems, working on complex system problems, improving user experience, and helping drive Uber's top line metrics then Eater Membership is the team for you.\n\nAt Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 10,000 cities around the world.\n\n \n\n \n\nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let's move the world forward, together.\n\n \n\n \n\nUber is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing [this form](https://forms.gle/aDWTk9k6xtMU25Y5A).",
+        "department": "Engineering",
+        "type": "",
+        "programAndPlatform": "Rider Admin",
+        "location": {
+          "country": "USA",
+          "region": "New York",
+          "city": "New York",
+          "countryName": "United States"
+        },
+        "featured": false,
+        "level": "4",
+        "creationDate": "2021-06-15T16:16:00.000Z",
+        "otherLevels": null,
+        "team": "Backend",
+        "portalID": "EXTERNAL",
+        "isPipeline": false,
+        "statusID": "D31001",
+        "statusName": "Approved",
+        "updatedDate": "2021-08-09T20:23:00.000Z",
+        "uniqueSkills": "",
+        "allLocations": [
+          {
+            "country": "USA",
+            "region": "New York",
+            "city": "New York",
+            "countryName": "United States"
+          },
+          {
+            "country": "USA",
+            "region": "California",
+            "city": "San Francisco",
+            "countryName": "United States"
+          }
+        ]
+      },
+      {
+        "id": 104765,
+        "title": "Events Mobility - Software Engineer II - Backend",
+        "description": "**ABOUT THE ROLE:**\n\n \n\nCollaborates with stakeholders within the team to build and maintain backend services and solutions to support user-facing products, downstream services, or infrastructure tools and platforms used across Uber.\n\n \n\n**CORE COMPETENCIES:**\n\n \n\n  * Technical Competency: Maintains and applies relevant knowledge to build and maintain backend services and solutions to support user-facing products, downstream services, or infrastructure tools and platforms used across Uber, which could include developing and maintaining large-scale multi-tenant services and/or customized solutions based on existing backend infrastructure; monitoring on-prem or cloud-hosted software and infrastructure operations and detecting outages/issues in network or server environments; identifying, analyzing, and resolving system availability, reliability, and performance issues.  Learns and applies Uber standards, best practices, and industry standards to own work. Helps define Uber technical standards for the team.\n\n\n\n \n\n  * Coding: Writes high-quality code (i.e., reliable, readable, efficient, testable), provides quality code reviews, and creates comprehensive tests and quality documentation to solve moderately complex problems. This includes knowledge of data structures, algorithms, programming and associated programming languages and frameworks, and major phases/activities of the software research and development life cycle (e.g., requirements, design, build, experiment, test, debug, deploy, monitor). Monitors, reports, and ensures resolution of technical problems according to standards and best practices.\n\n\n\n \n\n  * Design &amp; Architecture: Works with stakeholders to understand customer and/or business requirements. Applies knowledge of software design principles and methods and evaluates trade-offs of different architectural decisions to contribute to the translation of requirements into effective design documents.\n\n\n\n \n\n  * Efficiency &amp; Being a Force Multiplier: Creates and promotes efficiency and speed within a team by leveraging and improving existing solutions. Proactively improves the performance and efficiency of own software and systems.\n\n\n\n \n\n  * Operational Execution: Executes well-defined technical projects and solutions with drive and appropriate sense of urgency to deliver technical and business impact. Plans, organizes, and manages their own tasks, resources, and timelines to accomplish work accurately and on time. Defines and diagnoses problems and determines an appropriate solution, recommendation, or decision while logically evaluating alternatives and factors (e.g., resources, costs, tradeoffs).\n\n\n\n \n\n  * Collaboration: Respects, listens to, and considers ideas/opinions of others from diverse backgrounds and experiences. Builds and maintains collaborative and trusting relationships with stakeholders within the team. Recognizes conflict or disputes among people and situations; seeks feedback and engages in open communication to resolve conflicts. Provides constructive and actionable feedback to others.\n\n\n\n \n\n  * Citizenship: Enhances the effective functioning of Uber by participating in and promoting activities and efforts that contribute to the engineering and/or people culture in the team such as onboarding and mentoring new team members. Participates in internally-focused engagements (e.g., tech talks, open source, conferences, team building).\n\n\n\n \n\n**MINIMUM QUALIFICATIONS:**\n\n \n\n  * Bachelor's degree or equivalent in Computer Science, Engineering, Mathematics or related field **OR** 1-year full-time Software Engineering work experience, **WHICH INCLUDES** 1-year total technical software engineering experience in one or more of the following areas:\n\n\n\n \n\n  * Programming language (e.g. C, C++, Java, Python, or Go)\n\n\n\n \n\n  * _Note the 1-year total of specialized software engineering experience may have been gained through education and full-time work experience, additional training, coursework, research, or similar (OR some combination of these).  The year of specialized experience is not necessarily in addition to the years of Education &amp; full-time work experience indicated._\n\n\n\n \n\n**TECHNICAL SKILLS:**\n\n \n\nPreferred:\n\n \n\n  * Scalability engineering\n  * Distributed systems\n\n\n\nAt Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 600 cities around the world.\n\n \n\nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let's move the world forward, together.",
+        "department": "Engineering",
+        "type": "",
+        "programAndPlatform": "",
+        "location": {
+          "country": "USA",
+          "region": "California",
+          "city": "San Francisco",
+          "countryName": "United States"
+        },
+        "featured": false,
+        "level": "4",
+        "creationDate": "2021-06-08T20:24:00.000Z",
+        "otherLevels": null,
+        "team": "Backend",
+        "portalID": "EXTERNAL",
+        "isPipeline": false,
+        "statusID": "D31001",
+        "statusName": "Approved",
+        "updatedDate": "2021-08-09T14:03:00.000Z",
+        "uniqueSkills": "",
+        "allLocations": [
+          {
+            "country": "USA",
+            "region": "California",
+            "city": "San Francisco",
+            "countryName": "United States"
+          }
+        ]
+      }
+    ],
+    "totalResults": {
+      "low": 615,
+      "high": 0,
+      "unsigned": false
+    }
+  }
+}

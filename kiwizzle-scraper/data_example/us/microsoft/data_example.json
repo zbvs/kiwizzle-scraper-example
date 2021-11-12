@@ -1,0 +1,1116 @@
+{
+  "refineSearch": {
+    "status": 200,
+    "hits": 20,
+    "totalHits": 3409,
+    "data": {
+      "jobs": [
+        {
+          "country": "United States",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Senior Software Engineer",
+          "multi_location": [
+            "Redmond, Washington, United States",
+            "Minneapolis, Minnesota, United States"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Redmond, Washington, United States"
+            },
+            {
+              "location": "Minneapolis, Minnesota, United States"
+            }
+          ],
+          "jobSeqNo": "1062938",
+          "postedDate": "2021-06-08T16:14:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "Wake up every morning and KNOW you are making a difference. Flipgrid&rsquo;s mission is to empower everyone on the planet to share their voice and respect the diverse voices of others. The Flipgrid",
+          "dateCreated": "2021-06-08T16:17:25.433000",
+          "state": "Washington",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "1062938",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Redmond, Washington, United States",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "United States",
+          "subCategory": "Data & Applied Sciences",
+          "industry": null,
+          "title": "Principal Applied Scientist – Sustainability – Microsoft Research",
+          "multi_location": [
+            "Redmond, Washington, United States"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Redmond, Washington, United States"
+            }
+          ],
+          "jobSeqNo": "1062640",
+          "postedDate": "2021-06-08T17:15:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "Want to be part of an interdisciplinary team working on innovative solutions to take the cloud and the world to greener heights? Our team is seeking motivated individuals who can collaborate across",
+          "dateCreated": "2021-06-08T17:16:31.001000",
+          "state": "Washington",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "1062640",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Redmond, Washington, United States",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "China",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Senior Software Engineer (WebXT Data)",
+          "multi_location": [
+            "Suzhou, Jiangsu, China"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Suzhou, Jiangsu, China"
+            }
+          ],
+          "jobSeqNo": "1060926",
+          "postedDate": "2021-06-08T23:15:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "WebXT (Web Experience Team including Search/Ads/MSN/Edge) Data in Microsoft STCA is responsible for developing and operating one of the world&rsquo;s largest data eco-system: PiB data has been being",
+          "dateCreated": "2021-06-08T23:16:23.118000",
+          "state": "Jiangsu",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "1060926",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Suzhou, Jiangsu, China",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "United Kingdom",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Senior Software Engineer",
+          "multi_location": [
+            "Cambridge, Cambridgeshire, United Kingdom"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Cambridge, Cambridgeshire, United Kingdom"
+            }
+          ],
+          "jobSeqNo": "1063316",
+          "postedDate": "2021-06-09T08:20:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "Are you interested in helping deliver a product targeted at a multi-billion unit market? Thousands of businesses are undergoing a digital transformation to connect MCU based devices to the internet. 9",
+          "dateCreated": "2021-06-09T08:30:55.270000",
+          "state": "Cambridgeshire",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "1063316",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Cambridge, Cambridgeshire, United Kingdom",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "Ireland",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Software Engineer II - Azure Edge & Platform",
+          "multi_location": [
+            "Dublin, Dublin, Ireland"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Dublin, Dublin, Ireland"
+            }
+          ],
+          "jobSeqNo": "1051825",
+          "postedDate": "2021-06-09T10:40:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "Azure Edge + Platform brings together Edge platforms, devices, and services to deliver Edge solutions, operating systems, and engineering systems. Driven by its customers&rsquo; needs, Azure Edge +",
+          "dateCreated": "2021-06-09T10:42:17.378000",
+          "state": "Dublin",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "1051825",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Dublin, Dublin, Ireland",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "United States",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Senior Software Engineer",
+          "multi_location": [
+            "Redmond, Washington, United States"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Redmond, Washington, United States"
+            }
+          ],
+          "jobSeqNo": "1062976",
+          "postedDate": "2021-06-09T19:32:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "We're looking for a Senior Software Engineer with strong skills in Python and adjacent technologies to join a team of highly experienced engineers looking at ways of improving the performance of",
+          "dateCreated": "2021-06-09T19:39:49.915000",
+          "state": "Washington",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "1062976",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Redmond, Washington, United States",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "Ireland",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Security Software Engineer",
+          "multi_location": [
+            "Dublin, Dublin, Ireland"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Dublin, Dublin, Ireland"
+            }
+          ],
+          "jobSeqNo": "1051866",
+          "postedDate": "2021-05-20T11:43:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "The Microsoft Security Response Centre (MSRC) Vulnerabilities &amp; Mitigations team have exciting new openings in Dublin, Ireland. Are you passionate about protecting Internet users from being",
+          "dateCreated": "2021-05-20T11:43:50.050000",
+          "state": "Dublin",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "1051866",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Dublin, Dublin, Ireland",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "Israel",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Software Engineer - Project Oakes (Project Ci)",
+          "multi_location": [
+            "Herzliya, Tel Aviv, Israel"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Herzliya, Tel Aviv, Israel"
+            }
+          ],
+          "jobSeqNo": "1047912",
+          "postedDate": "2021-05-20T13:21:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "Have you ever wanted to be an integral part of building an innovative solution to allow parties to collaborate over their protected resources, such as data or algorithm? Have you ever dreamt that you",
+          "dateCreated": "2021-05-20T13:21:49.895000",
+          "state": "Tel Aviv",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "1047912",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Herzliya, Tel Aviv, Israel",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "United States",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Senior Software Engineer",
+          "multi_location": [
+            "Redmond, Washington, United States",
+            "Redmond, Washington, United States",
+            "Austin, Texas, United States"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Redmond, Washington, United States"
+            },
+            {
+              "location": "Redmond, Washington, United States"
+            },
+            {
+              "location": "Austin, Texas, United States"
+            }
+          ],
+          "jobSeqNo": "1051330",
+          "postedDate": "2021-05-20T15:58:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "Azure Cloud Hardware Infrastructure Engineering (CHIE) team is responsible for definition, design, and development of Server and Rack Infrastructure firmware that powers Microsoft&rsquo;s cloud",
+          "dateCreated": "2021-05-20T15:58:48.277000",
+          "state": "Washington",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "1051330",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Redmond, Washington, United States",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "United States",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Principal Software Engineering Manager",
+          "multi_location": [
+            "Redmond, Washington, United States"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Redmond, Washington, United States"
+            }
+          ],
+          "jobSeqNo": "1053223",
+          "postedDate": "2021-05-21T01:06:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "The Fluid Platform team is looking for a Principal Software Engineering Manager. We aim to build out our high scale platform for all developers to create real-time collaborative experiences. The team",
+          "dateCreated": "2021-05-21T01:07:52.130000",
+          "state": "Washington",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "1053223",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Redmond, Washington, United States",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "United States",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Senior Software Engineer- CTJ",
+          "multi_location": [
+            "Reston, Virginia, United States",
+            "Redmond, Washington, United States",
+            "Elkridge, Maryland, United States"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Reston, Virginia, United States"
+            },
+            {
+              "location": "Redmond, Washington, United States"
+            },
+            {
+              "location": "Elkridge, Maryland, United States"
+            }
+          ],
+          "jobSeqNo": "1047694",
+          "postedDate": "2021-05-21T02:30:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "Do you want to be at the heart of cloud computing? Azure Compute is the core of our cloud platform and is growing incredibly fast. We build fault tolerant distributed systems on top of commodity",
+          "dateCreated": "2021-05-21T02:31:26.277000",
+          "state": "Virginia",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "1047694",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Reston, Virginia, United States",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "United States",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Senior Software Engineer",
+          "multi_location": [
+            "Atlanta, Georgia, United States"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Atlanta, Georgia, United States"
+            }
+          ],
+          "jobSeqNo": "1022496",
+          "postedDate": "2021-05-21T13:50:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "The Identity engineering team builds and manages Microsoft&rsquo;s online identity providers for all of Microsoft&rsquo;s online services and platforms like Azure, Office, Xbox, and HoloLens. We",
+          "dateCreated": "2021-05-21T13:53:25.250000",
+          "state": "Georgia",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "1022496",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Atlanta, Georgia, United States",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "India",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Principal Software Engineer",
+          "multi_location": [
+            "Bangalore, Karnataka, India"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Bangalore, Karnataka, India"
+            }
+          ],
+          "jobSeqNo": "1042967",
+          "postedDate": "2021-05-21T14:08:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "Are you a great technical architect? Are you interested in leading the product features that ship every week? Do you like working on technology problems that impact people on a global scale? Microsoft",
+          "dateCreated": "2021-05-21T14:09:50.486000",
+          "state": "Karnataka",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "1042967",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Bangalore, Karnataka, India",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "Canada",
+          "subCategory": "Researcher",
+          "industry": null,
+          "title": "Data and Applied Scientist",
+          "multi_location": [
+            "Vancouver, British Columbia, Canada"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Vancouver, British Columbia, Canada"
+            }
+          ],
+          "jobSeqNo": "1044247",
+          "postedDate": "2021-05-21T18:05:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "Empower Microsoft customers to browse and communicate with confidence and trust and protect them from phishing and social engineering threats. That is what inspires us, drives our work, and pushes us",
+          "dateCreated": "2021-05-21T17:55:51.517000",
+          "state": "British Columbia",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "1044247",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Vancouver, British Columbia, Canada",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "United States",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Senior Software Engineer",
+          "multi_location": [
+            "Redmond, Washington, United States"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Redmond, Washington, United States"
+            }
+          ],
+          "jobSeqNo": "1052813",
+          "postedDate": "2021-05-21T17:57:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "Microsoft Azure is in the cloud race to win it! We are part of the Azure Networking team responsible for designing, building, and operating critical network services that will help us differentiate",
+          "dateCreated": "2021-05-21T17:57:19.703000",
+          "state": "Washington",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "1052813",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Redmond, Washington, United States",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "Canada",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Software Engineer",
+          "multi_location": [
+            "Vancouver, British Columbia, Canada"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Vancouver, British Columbia, Canada"
+            }
+          ],
+          "jobSeqNo": "989159",
+          "postedDate": "2021-05-21T19:35:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "Are you looking to add cloud and mobile onto your resume? Are you excited to be a leader in the frontier to the world of software as service, especially for the highly profitable and high growth",
+          "dateCreated": "2021-05-21T19:35:48.677000",
+          "state": "British Columbia",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "989159",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Vancouver, British Columbia, Canada",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "United States",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Software Engineer II",
+          "multi_location": [
+            "Redmond, Washington, United States"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Redmond, Washington, United States"
+            }
+          ],
+          "jobSeqNo": "1053614",
+          "postedDate": "2021-05-21T20:15:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "At Microsoft, our mission is to empower every person and every organization on the planet to achieve more. It&rsquo;s the diversity of our people and ideas that support innovation in developing",
+          "dateCreated": "2021-05-21T20:16:50.973000",
+          "state": "Washington",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "1053614",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Redmond, Washington, United States",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "China",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Software Engineer 2",
+          "multi_location": [
+            "Suzhou, Jiangsu, China"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Suzhou, Jiangsu, China"
+            }
+          ],
+          "jobSeqNo": "1055825",
+          "postedDate": "2021-05-30T14:20:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "Do you want to develop one of the premier applications on Windows that is used by millions of customers, contribute to one of the largest open sourced project Chromium? Microsoft Edge is hiring a",
+          "dateCreated": "2021-05-30T14:20:49.431000",
+          "state": "Jiangsu",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "1055825",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Suzhou, Jiangsu, China",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "China",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Software Engineer 2",
+          "multi_location": [
+            "Suzhou, Jiangsu, China"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Suzhou, Jiangsu, China"
+            }
+          ],
+          "jobSeqNo": "1055828",
+          "postedDate": "2021-06-01T07:40:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "Do you want to develop one of the premier applications on Windows that is used by millions of customers, contribute to one of the largest open sourced project Chromium? Microsoft Edge is hiring a",
+          "dateCreated": "2021-05-30T14:35:51.217000",
+          "state": "Jiangsu",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "1055828",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Suzhou, Jiangsu, China",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "China",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Senior Electrical Engineer",
+          "multi_location": [
+            "Suzhou, Jiangsu, China"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Suzhou, Jiangsu, China"
+            }
+          ],
+          "jobSeqNo": "1056619",
+          "postedDate": "2021-05-31T02:15:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "The OneDrive, SharePoint and Microsoft Teams Suzhou organization is a global development organization. We are an engineering center of excellence with a proven track-record of building",
+          "dateCreated": "2021-05-31T02:15:47.190000",
+          "state": "Jiangsu",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "1056619",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Suzhou, Jiangsu, China",
+          "category": "Engineering",
+          "locationLatlong": null
+        }
+      ],
+      "aggregations": [
+        {
+          "field": "country",
+          "value": {
+            "United States": 1929,
+            "China": 450,
+            "India": 448,
+            "Canada": 173,
+            "Israel": 103,
+            "Mexico": 55,
+            "Ireland": 54,
+            "Costa Rica": 52,
+            "Czech Republic": 36,
+            "Brazil": 35,
+            "Chile": 34,
+            "United Kingdom": 29,
+            "Colombia": 28,
+            "Estonia": 26,
+            "Argentina": 19,
+            "Puerto Rico": 15,
+            "Taiwan": 15,
+            "Australia": 13,
+            "Spain": 12,
+            "Norway": 9,
+            "Serbia": 9,
+            "Kenya": 8,
+            "Egypt": 7,
+            "Germany": 6,
+            "Japan": 6,
+            "Romania": 5,
+            "France": 4,
+            "Switzerland": 4,
+            "Singapore": 3,
+            "Denmark": 2,
+            "Greece": 2,
+            "Peru": 2,
+            "Italy": 1,
+            "Korea": 1,
+            "Nigeria": 1,
+            "Vietnam": 1
+          }
+        },
+        {
+          "field": "subCategory",
+          "value": {
+            "Software Engineering": 3034,
+            "Program Management": 1188,
+            "Data & Applied Sciences": 215,
+            "Design": 184,
+            "Service Engineering": 158,
+            "Site Reliability Engineering": 66,
+            "Software Development": 62,
+            "Art": 30,
+            "Content Publishing": 27,
+            "Design Research": 26,
+            "Hardware Engineering": 25,
+            "Cloud Network Engineering": 13,
+            "Researcher": 11,
+            "Silicon Engineering": 10,
+            "Game Design": 8,
+            "Unassigned": 6,
+            "Engineering General Management": 5,
+            "Electrical Engineering": 4,
+            "IT Operations Program Management": 4,
+            "IT Service Engineering": 4,
+            "IT Software Development Engineering": 4,
+            "Hardware Engineering Program Management": 3,
+            "Reliability Engineering": 3,
+            "Research SDE": 3,
+            "Support Engineering": 3,
+            "Audio": 2,
+            "Business Operations & Program Management": 2,
+            "Factory Management Engineering": 2,
+            "Mechanical Engineering": 2,
+            "Optical Engineering": 2,
+            "Business Development": 1,
+            "Delivery Data Science": 1,
+            "IT Service Operations": 1,
+            "IT Solution Management": 1,
+            "Merger & Acquisition Integration": 1,
+            "Product Planning": 1,
+            "SDET": 1,
+            "Technical Delivery": 1
+          }
+        },
+        {
+          "field": "educationLevel",
+          "value": {
+            "Bachelors": 310,
+            "None": 205,
+            "Doctorate": 8,
+            "Secondary/High School": 6,
+            "MBA": 2
+          }
+        },
+        {
+          "field": "employmentType",
+          "value": {
+            "Full-Time": 3385,
+            "Internship": 21,
+            "Part-Time": 3
+          }
+        },
+        {
+          "field": "city",
+          "value": {
+            "Redmond": 1274,
+            "Atlanta": 306,
+            "Suzhou": 269,
+            "Hyderabad": 264,
+            "Bellevue": 245,
+            "Other": 178,
+            "Vancouver": 173,
+            "Bangalore": 153,
+            "Shanghai": 102,
+            "Reston": 89,
+            "Beijing": 87,
+            "Herzliya": 77,
+            "Sunnyvale": 70,
+            "Austin": 67,
+            "Charlotte": 54,
+            "Dublin": 54,
+            "Mountain View": 51,
+            "New York": 42,
+            "Prague": 34,
+            "Noida": 33,
+            "Elkridge": 27,
+            "Cambridge": 26,
+            "Mexico City": 26,
+            "Tallinn": 26,
+            "Chicago": 25,
+            "Houston": 24,
+            "Dallas": 23,
+            "San Francisco": 23,
+            "San Jose": 21,
+            "Raleigh": 19,
+            "Tel Aviv": 17,
+            "Haifa": 15,
+            "Taipei": 15,
+            "Washington D.C.": 13,
+            "Minneapolis": 12,
+            "Barcelona": 11,
+            "Monterrey": 11,
+            "São Paulo": 11,
+            "London": 10,
+            "Santiago": 10,
+            "Seattle": 10,
+            "Belgrade": 9,
+            "Bogota": 9,
+            "Guadalajara": 9,
+            "Los Angeles": 9,
+            "Sydney": 9,
+            "Boston": 8,
+            "Nairobi": 8,
+            "Portland": 8,
+            "Cairo": 7,
+            "Oslo": 7,
+            "Reading": 7,
+            "Acton": 6,
+            "Atherstone": 6,
+            "Canberra": 6,
+            "Medellín": 6,
+            "Pittsburgh": 6,
+            "Rio de Janeiro": 6,
+            "Santa Monica": 6,
+            "Tokyo": 6,
+            "Bucharest": 5,
+            "Issaquah": 5,
+            "Melbourne": 5,
+            "Munich": 5,
+            "Stuttgart": 5,
+            "Berlin": 4,
+            "Buenos Aires": 4,
+            "Cologne": 4,
+            "Guaynabo": 4,
+            "Miami": 4,
+            "Nazareth": 4,
+            "Walldorf": 4,
+            "Zürich": 4,
+            "Boulder": 3,
+            "Hamburg": 3,
+            "Iasi": 3,
+            "Phoenix": 3,
+            "Querétaro City": 3,
+            "Trondheim": 3,
+            "Athens": 2,
+            "Bad Homburg": 2,
+            "Belo Horizonte": 2,
+            "Brasilia": 2,
+            "Edinburgh": 2,
+            "Frankfurt": 2,
+            "Humacao": 2,
+            "Irvine": 2,
+            "Issy Les Moulineaux": 2,
+            "Philadelphia": 2,
+            "Puebla": 2,
+            "Recife": 2,
+            "San Juan": 2,
+            "Tromso": 2,
+            "Aliso Viejo": 1,
+            "Berkeley": 1,
+            "Calgary": 1,
+            "Cali": 1,
+            "Capital Federal": 1,
+            "Detroit": 1,
+            "Greater Toronto": 1,
+            "Hanoi": 1,
+            "Huntington Station": 1,
+            "Lagos": 1,
+            "Leon": 1,
+            "Macaé": 1,
+            "Madison": 1,
+            "Microsoft Development Center Copenhagen": 1,
+            "Mississauga": 1,
+            "Mumbai": 1,
+            "Palo Alto": 1,
+            "Paris": 1,
+            "Paris (EMEA-HQ)": 1,
+            "Prague (CEE HQ)": 1,
+            "San Diego": 1,
+            "Seoul": 1,
+            "Singapore": 1,
+            "Singapore (APAC-HQ)": 1,
+            "Tuxtla Gutierrez": 1,
+            "Winnipeg": 1
+          }
+        },
+        {
+          "field": "state",
+          "value": {
+            "Washington": 1520,
+            "Georgia": 306,
+            "Jiangsu": 269,
+            "Telangana": 264,
+            "Other": 193,
+            "British Columbia": 173,
+            "Karnataka": 153,
+            "California": 136,
+            "Shanghai": 102,
+            "Texas": 92,
+            "Tel Aviv": 91,
+            "Virginia": 89,
+            "Beijing": 87,
+            "North Carolina": 73,
+            "Dublin": 54,
+            "New York": 43,
+            "Prague": 35,
+            "Massachusetts": 34,
+            "Uttar Pradesh": 33,
+            "Maryland": 27,
+            "Harjumaa": 26,
+            "México": 26,
+            "Illinois": 25,
+            "San José": 16,
+            "Haifa": 15,
+            "Taipei City": 15,
+            "District of Columbia": 13,
+            "Minnesota": 12,
+            "Barcelona": 11,
+            "Nuevo León": 11,
+            "São Paulo": 11,
+            "Santiago": 10,
+            "Belgrade": 9,
+            "Distrito Capital": 9,
+            "Jalisco": 9,
+            "New South Wales": 9,
+            "Nairobi City": 8,
+            "Oregon": 8,
+            "Pennsylvania": 8,
+            "Berkshire": 7,
+            "Cairo": 7,
+            "Oslo": 7,
+            "Rio de Janeiro": 7,
+            "Antioquia": 6,
+            "Australian Capital Territory": 6,
+            "Tokyo-to": 6,
+            "Warwickshire": 6,
+            "Baden-Württemberg": 5,
+            "Bavaria": 5,
+            "Bucharest": 5,
+            "Buenos Aires": 5,
+            "Cambridgeshire": 5,
+            "Victoria": 5,
+            "Berlin": 4,
+            "Florida": 4,
+            "Hessen": 4,
+            "North Rhine-Westphalia": 4,
+            "Northern": 4,
+            "Zürich": 4,
+            "Arizona": 3,
+            "Colorado": 3,
+            "Hamburg": 3,
+            "Iasi": 3,
+            "Querétaro": 3,
+            "Sør-Trøndelag": 3,
+            "Attica": 2,
+            "Distrito Federal": 2,
+            "Hauts-de-Seine": 2,
+            "Midlothian": 2,
+            "Minas Gerais": 2,
+            "Ontario": 2,
+            "Paris": 2,
+            "Pernambuco": 2,
+            "Puebla": 2,
+            "Troms": 2,
+            "Alberta": 1,
+            "Capital Region": 1,
+            "Chiapas": 1,
+            "Guanajuato": 1,
+            "Ha Noi - Capital": 1,
+            "Lagos": 1,
+            "London": 1,
+            "Maharashtra": 1,
+            "Manitoba": 1,
+            "Michigan": 1,
+            "Seoul": 1,
+            "Valle del Cauca": 1,
+            "Wisconsin": 1,
+            "Not Specified": 42
+          }
+        },
+        {
+          "field": "category",
+          "value": {
+            "Engineering": 3409,
+            "Research": 80,
+            "Data Center": 2,
+            "Business Programs & Operations": 1,
+            "Evangelism": 1
+          }
+        },
+        {
+          "field": "experience",
+          "value": {
+            "Experienced professionals": 3359,
+            "Students and graduates": 50
+          }
+        },
+        {
+          "field": "requisitionRoleType",
+          "value": {
+            "Individual Contributor": 2998,
+            "People Manager": 411
+          }
+        }
+      ],
+      "ui_selections": {
+        "subCategory": [
+          "Researcher",
+          "Cloud Network Engineering",
+          "Software Development",
+          "Site Reliability Engineering",
+          "Software Engineering",
+          "Data & Applied Sciences",
+          "IT Service Engineering",
+          "IT Software Development Engineering"
+        ],
+        "category": [
+          "Engineering"
+        ]
+      },
+      "searchConfig": {
+        "mostpopular": true
+      }
+    },
+    "eid": "612c7eea644ab15f16337bdf"
+  }
+}

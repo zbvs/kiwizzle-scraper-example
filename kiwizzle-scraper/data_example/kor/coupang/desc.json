@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 0,
+      "minValue": 0,
+      "maxValue": 0,
+      "unitText": ""
+    }
+  },
+  "datePosted": "2021-2-8",
+  "description": "&lt;p&gt;쿠팡은  세계에서  가장  빠르고  크게  성장하는  Ecommerce  기업 입니다.  우리는 고객, 직원, 파트너 그리고 우리를 둘러싼 모든 사람들의 일상을 어떻게 혁신 할 수 있을 지 매 순간 고민합니다. 우리는 아직 아무도 풀지 못한 문제를 해결함으로써 사람들이 이렇게 묻는 세상을 만들고자 합니다. “쿠팡 없이 어떻게 살았을까?” 쿠팡은 서울뿐만 아니라 베이징, LA, 시애틀, 상하이와 실리콘밸리 등에 오피스를 두고 있는 글로벌 기업입니다.&lt;span data-ccp-props=&quot;{&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559740&quot;:276}&quot;&gt;&nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=zo3cvu_xfK0&amp;feature=youtu.be&quot; target=&quot;_blank&quot;&gt;[쿠티비] 리쿠르터가 만난 사람들(리만사)_ 체리 x 소프트웨어 엔지니어편&lt;br&gt;&lt;/a&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=4F491vTG8tg&amp;feature=youtu.be&quot; target=&quot;_blank&quot;&gt;[쿠티비] 리쿠르터가 만난 사람들(리만사)_ 토비 x 소프트웨어 엔지니어편&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;span data-ccp-props=&quot;{&quot;134233117&quot;:true,&quot;134233118&quot;:true}&quot;&gt;&nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;직무 소개&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&quot;134233117&quot;:true,&quot;134233118&quot;:true}&quot;&gt;&nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;쿠팡의 광고 플랫폼에 큰 영향력이 있는 확장 가능 솔루션 개발을 담당할 Front-end Engineer를 찾습니다. 자기 동기부여가 뛰어나고 결과를 중시하며, 뛰어난 프로그래밍 스킬 및 경험과 최상의 소프트웨어 툴 (best-of-breed), 기술 및 경험이 있는 분들의 지원을 기다립니다.&lt;/p&gt; &lt;p&gt;&nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;주요 업무: &lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;비즈니스가 원하는 결과물을 기술적 솔루션으로 해석해 운영 및 비즈니스의 니즈를 충족시킨다.&lt;/li&gt; &lt;li&gt;애플리케이션 시스템의 코딩, 테스트, 디버깅을 수행하며 소스 코드 제어 시스템 및 애플리케이션 소프트웨어 버저닝을 유지보수한다.&lt;/li&gt; &lt;li&gt;조직에 솔루션 제공 및 플랫폼 전반의 가치제안 및 효율을 개선한다.&lt;/li&gt; &lt;li&gt;개발, 개선 및 테스트 프로젝트의 요구사항 및 프로세스, 절차를 정의한다.&lt;/li&gt; &lt;li&gt;타 엔지니어를 교육 및 멘토링할 수 있는 지식 및 능력을 갖춘다.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;자격 요건:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;경력 3년 이상&lt;/li&gt; &lt;li&gt;Computer Science/Engineering 관련 전공분야의 BA/BS 학위&lt;/li&gt; &lt;li&gt;장애 허용 및 모니터링 기능이 있는 프론트 엔드, 대규모 운영시스템 개발 및 설계 경험 2년 이상&lt;/li&gt; &lt;li&gt;웹 기반 상품 및 API 개발에 대한 높은 이해&lt;/li&gt; &lt;li&gt;WebKit, HTML5, CSS3, Javascript (한 개 이상의 node.js, react,js, 또는 express.js) 능숙&lt;/li&gt; &lt;li&gt;사용성, Lean UX 설계, 개념적 모델링, 트렌드에 대한 뛰어난 지식&lt;/li&gt; &lt;li&gt;단위/사용자 테스트 및 반복설계/인터랙션 설계 경험&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;우대 사항:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;데이터베이스 시스템, 데이터 웨어하우징 개념에 대한 높은 이해&lt;/li&gt; &lt;li&gt;확장성이 매우 높은 클라우드 기반 소프트웨어 및 배포&lt;/li&gt; &lt;li&gt;웹서비스/ API 설계 능력&lt;/li&gt; &lt;li&gt;애자일 소프트웨어 개발&lt;/li&gt; &lt;li&gt;마이크로서비스 아키텍쳐&lt;/li&gt; &lt;li&gt;SQL, NoSQL, Kafka, Redis, Hive, Hadoop, Spark&lt;/li&gt; &lt;li&gt;아마존 웹 서비스, 분산 시스템, 서비스 기반/메시지 기반 아키텍쳐&lt;/li&gt; &lt;li&gt;WebKit, HTML5, CSS3, Javascript, Node.js, React,js, Express.js&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;전형 절차 및 기타사항&lt;/strong&gt;&lt;strong&gt;&nbsp;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&quot;134233117&quot;:true,&quot;134233118&quot;:true}&quot;&gt;&nbsp;&lt;/span&gt;&lt;/p&gt; &lt;ol&gt; &lt;li data-leveltext=&quot;%1.&quot; data-font=&quot;Calibri&quot; data-listid=&quot;7&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;전형절차: 서류전형 - 온라인 코딩 테스트(or 전화면접) - 대면면접 - 최종합격 &lt;span data-ccp-props=&quot;{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;134233279&quot;:true}&quot;&gt;&nbsp;&lt;/span&gt;(전형절차는 직무별로 다르게 운영될 수 있으며, 일정 및 상황에 따라 변동될 수 있습니다.)&lt;span data-ccp-props=&quot;{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;335559685&quot;:720}&quot;&gt;&nbsp;&lt;/span&gt;&lt;/li&gt; &lt;li data-leveltext=&quot;%1.&quot; data-font=&quot;Calibri&quot; data-listid=&quot;7&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;기타사항:&lt;/li&gt; &lt;/ol&gt; &lt;p style=&quot;padding-left: 30px;&quot;&gt;&lt;span data-ccp-props=&quot;{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;134233279&quot;:true}&quot;&gt;a.&nbsp;&lt;/span&gt;본 공고는 모집 완료 시 조기마감 될 수 있습니다.&nbsp;&lt;span data-ccp-props=&quot;{&quot;134233279&quot;:true}&quot;&gt;&nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p style=&quot;padding-left: 30px;&quot;&gt;b. 지원서 내용 중 허위사실이 있는 경우에는 합격이 취소될 수 있습니다.&lt;span data-ccp-props=&quot;{&quot;134233279&quot;:true}&quot;&gt;&nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p style=&quot;padding-left: 30px;&quot;&gt;c. 보훈대상자 및 장애인 여부는 채용과정에서 어떠한 불이익도 미치지 않습니다.&lt;span data-ccp-props=&quot;{&quot;134233279&quot;:true}&quot;&gt;&nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p style=&quot;padding-left: 30px;&quot;&gt;d. 전형일정 및 결과는 지원서에 등록하신 이메일로 개별 안내 드립니다.&nbsp;&lt;span data-ccp-props=&quot;{&quot;134233279&quot;:true}&quot;&gt;&nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&nbsp;&lt;/p&gt;",
+  "employmentType": "eCommerce",
+  "identifier": "2658641",
+  "industry": "Front-end Engineering",
+  "title": "Senior, Front-end Engineer (AD Tech)",
+  "url": "https://rocketyourcareer.kr.coupang.com/%ec%a7%81%eb%ac%b4/-/senior-front-end-engineer-ad-tech/24450/18717353",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Coupang Korea",
+    "logo": "https://tbcdn.talentbrew.com/company/23024/img/logo/coupang_logo_224x224.jpg"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Seoul",
+      "addressRegion": "",
+      "addressCountry": "",
+      "streetAddress": "",
+      "postalCode": ""
+    }
+  }
+}

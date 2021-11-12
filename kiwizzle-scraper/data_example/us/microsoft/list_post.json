@@ -1,0 +1,50 @@
+{
+  "lang": "en_us",
+  "deviceType": "desktop",
+  "country": "us",
+  "ddoKey": "refineSearch",
+  "sortBy": "",
+  "subsearch": "",
+  "from": 0,
+  "jobs": true,
+  "counts": true,
+  "all_fields": [
+    "experience",
+    "country",
+    "state",
+    "city",
+    "category",
+    "subCategory",
+    "employmentType",
+    "requisitionRoleType",
+    "educationLevel"
+  ],
+  "pageName": "search-results",
+  "size": 20,
+  "clearAll": false,
+  "jdsource": "facets",
+  "isSliderEnable": false,
+  "pageId": "page19",
+  "siteType": "external",
+  "isMostPopular": true,
+  "keywords": "",
+  "global": true,
+  "selected_fields": {
+    "subCategory": [
+      "Researcher",
+      "Cloud Network Engineering",
+      "Software Development",
+      "Site Reliability Engineering",
+      "Software Engineering",
+      "Data & Applied Sciences",
+      "IT Service Engineering",
+      "IT Software Development Engineering"
+    ],
+    "category": [
+      "Engineering"
+    ],
+    "experience": [
+      "Experienced professionals"
+    ]
+  }
+}

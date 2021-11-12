@@ -1,0 +1,712 @@
+{
+  "code": "2000",
+  "message": "OK",
+  "data": {
+    "recruitSeq": 1044,
+    "recruitNumber": "R2001105",
+    "recruitVersion": 5,
+    "recruitCorporationNumber": "WOOWA_BROTHERS",
+    "recruitHiddenUrl": "",
+    "pluarApplicationCount": -1,
+    "recruitmentCount": -1,
+    "recruitOpenDate": "2020-01-23 00:00:00",
+    "recruitEndDate": "9999-12-31 00:00:00",
+    "recruitCloseDate": "2021-12-31 00:00:00",
+    "careerRestrictionMinYears": -1,
+    "careerRestrictionMaxYears": -1,
+    "applicationMobileYn": false,
+    "recruitName": "내부통제(ITGC) 담당자 모집",
+    "recruitmentRequestOrganizationSeq": 0,
+    "recruitmentRequestUser": 0,
+    "recruitmentRequestUrl": "",
+    "recruitStatusCode": {
+      "code": "CRBST002",
+      "text": "등록"
+    },
+    "recruitDisplayCode": "BA004001",
+    "recruitCampaignSeq": 0,
+    "recruitDeleteYn": false,
+    "createUser": 1165,
+    "createDate": "2021-06-07 12:30:19",
+    "updateUser": 1165,
+    "updateDate": "2021-06-07 12:30:19",
+    "recruitContents": "<div><span style=\"font-size: 14px;\"><span style=\"font-family: Roboto, sans-serif;\"><strong>[업무내용]</strong></span></span></div><div><span style=\"font-size: 14px;\"><span style=\"font-family: Roboto, sans-serif;\">- 우아한형제들의 고객에게&nbsp;안전한&nbsp;전자금융서비스를&nbsp;제공하기&nbsp;위한&nbsp;내부통제 업무<br>- 내부통제&nbsp;절차의&nbsp;점검&nbsp;및&nbsp;개선사항&nbsp;도출<br>- 내부통제&nbsp;절차&nbsp;준수&nbsp;점검&nbsp;및&nbsp;보고<br>- IT통제&nbsp;변화관리<br>- 전자금융업&nbsp;관련&nbsp;Compliance&nbsp;대응<br>- 외부감사인의&nbsp;전산감사&nbsp;대응</span></span></div><div><span style=\"font-family: Roboto, sans-serif; font-size: 14px;\"><br><strong>&nbsp;[지원자격]</strong><br>-&nbsp;나이/성별/학력/전공&nbsp;무관<br>-&nbsp;5년&nbsp;이상의&nbsp;내부통제&nbsp;업무&nbsp;또는&nbsp;내부&nbsp;IT감사&nbsp;업무&nbsp;경험이&nbsp;있는&nbsp;분<br>-&nbsp;내외부&nbsp;이해관계자와&nbsp;원활한&nbsp;커뮤니케이션이&nbsp;가능한&nbsp;분<br>-&nbsp;전자금융업&nbsp;관련&nbsp;법&nbsp;해석&nbsp;및&nbsp;실무&nbsp;적용이&nbsp;가능한&nbsp;분<br> <br><strong>[우대사항]</strong><br>-&nbsp;정보보호관리체계&nbsp;또는&nbsp;ISO27001&nbsp;운영 경험이 있는 분<br>-&nbsp;정보보호관리체계/개인정보보호관리체계&nbsp;인증심사원&nbsp;경험이 있는 분<br>- CISA(certified information systems auditor) 또는 CIA(Certified Internal Auditor) 자격증을 보유한 분</span></div>",
+    "careerType": {
+      "recruitItemGroupCode": "BA003",
+      "recruitItemCode": "BA003002",
+      "primary": false
+    },
+    "jobGroup": {
+      "recruitItemGroupCode": "BA005",
+      "recruitItemCode": "BA005001",
+      "primary": false
+    },
+    "employmentType": {
+      "recruitItemGroupCode": "BA002",
+      "recruitItemCode": "BA002001",
+      "primary": false
+    },
+    "typicalClassification": {
+      "recruitItemGroupCode": "BA001",
+      "recruitItemCode": "BA001001",
+      "primary": false
+    },
+    "jobs": [
+      {
+        "recruitItemGroupCode": "BA007",
+        "recruitItemCode": "BA007008",
+        "primary": true
+      }
+    ],
+    "serviceSections": [
+    ],
+    "keywords": [
+    ],
+    "resumeEntryGroups": [
+      {
+        "recruitSeq": 1044,
+        "recruitItemGroupCode": "GR001",
+        "recruitItemCode": "GR001000",
+        "recruitItemNecessaryYn": true,
+        "recruitItemCheckYn": true,
+        "entries": [
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR001",
+            "recruitItemCode": "GR001001",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR001",
+            "recruitItemCode": "GR001002",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR001",
+            "recruitItemCode": "GR001003",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR001",
+            "recruitItemCode": "GR001004",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR001",
+            "recruitItemCode": "GR001005",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR001",
+            "recruitItemCode": "GR001006",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR001",
+            "recruitItemCode": "GR001007",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR001",
+            "recruitItemCode": "GR001008",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR001",
+            "recruitItemCode": "GR001009",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR001",
+            "recruitItemCode": "GR001010",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR001",
+            "recruitItemCode": "GR001011",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          }
+        ]
+      },
+      {
+        "recruitSeq": 1044,
+        "recruitItemGroupCode": "GR002",
+        "recruitItemCode": "GR002000",
+        "recruitItemNecessaryYn": true,
+        "recruitItemCheckYn": true,
+        "entries": [
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR002",
+            "recruitItemCode": "GR002001",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR002",
+            "recruitItemCode": "GR002002",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR002",
+            "recruitItemCode": "GR002003",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR002",
+            "recruitItemCode": "GR002004",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          }
+        ]
+      },
+      {
+        "recruitSeq": 1044,
+        "recruitItemGroupCode": "GR003",
+        "recruitItemCode": "GR003000",
+        "recruitItemNecessaryYn": true,
+        "recruitItemCheckYn": true,
+        "entries": [
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR003",
+            "recruitItemCode": "GR003001",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR003",
+            "recruitItemCode": "GR003002",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR003",
+            "recruitItemCode": "GR003003",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          }
+        ]
+      },
+      {
+        "recruitSeq": 1044,
+        "recruitItemGroupCode": "GR004",
+        "recruitItemCode": "GR004000",
+        "recruitItemNecessaryYn": true,
+        "recruitItemCheckYn": true,
+        "entries": [
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR004",
+            "recruitItemCode": "GR004001",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR004",
+            "recruitItemCode": "GR004003",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR004",
+            "recruitItemCode": "GR004004",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR004",
+            "recruitItemCode": "GR004006",
+            "recruitItemNecessaryYn": false,
+            "recruitItemCheckYn": true,
+            "entries": null
+          }
+        ]
+      },
+      {
+        "recruitSeq": null,
+        "recruitItemGroupCode": "GR005",
+        "recruitItemCode": "GR005000",
+        "recruitItemNecessaryYn": false,
+        "recruitItemCheckYn": false,
+        "entries": [
+        ]
+      },
+      {
+        "recruitSeq": 1044,
+        "recruitItemGroupCode": "GR006",
+        "recruitItemCode": "GR006000",
+        "recruitItemNecessaryYn": false,
+        "recruitItemCheckYn": true,
+        "entries": [
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR006",
+            "recruitItemCode": "GR006001",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR006",
+            "recruitItemCode": "GR006002",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR006",
+            "recruitItemCode": "GR006003",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR006",
+            "recruitItemCode": "GR006004",
+            "recruitItemNecessaryYn": false,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR006",
+            "recruitItemCode": "GR006005",
+            "recruitItemNecessaryYn": false,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR006",
+            "recruitItemCode": "GR006006",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR006",
+            "recruitItemCode": "GR006007",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          }
+        ]
+      },
+      {
+        "recruitSeq": null,
+        "recruitItemGroupCode": "GR007",
+        "recruitItemCode": "GR007000",
+        "recruitItemNecessaryYn": false,
+        "recruitItemCheckYn": false,
+        "entries": [
+        ]
+      },
+      {
+        "recruitSeq": 1044,
+        "recruitItemGroupCode": "GR008",
+        "recruitItemCode": "GR008000",
+        "recruitItemNecessaryYn": true,
+        "recruitItemCheckYn": true,
+        "entries": [
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR008",
+            "recruitItemCode": "GR008001",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR008",
+            "recruitItemCode": "GR008002",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR008",
+            "recruitItemCode": "GR008003",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR008",
+            "recruitItemCode": "GR008005",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR008",
+            "recruitItemCode": "GR008006",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR008",
+            "recruitItemCode": "GR008008",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR008",
+            "recruitItemCode": "GR008009",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR008",
+            "recruitItemCode": "GR008010",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR008",
+            "recruitItemCode": "GR008011",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          }
+        ]
+      },
+      {
+        "recruitSeq": 1044,
+        "recruitItemGroupCode": "GR009",
+        "recruitItemCode": "GR009000",
+        "recruitItemNecessaryYn": true,
+        "recruitItemCheckYn": true,
+        "entries": [
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR009",
+            "recruitItemCode": "GR009001",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR009",
+            "recruitItemCode": "GR009002",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR009",
+            "recruitItemCode": "GR009004",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR009",
+            "recruitItemCode": "GR009005",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR009",
+            "recruitItemCode": "GR009006",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR009",
+            "recruitItemCode": "GR009007",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR009",
+            "recruitItemCode": "GR009008",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          }
+        ]
+      },
+      {
+        "recruitSeq": null,
+        "recruitItemGroupCode": "GR010",
+        "recruitItemCode": "GR010000",
+        "recruitItemNecessaryYn": false,
+        "recruitItemCheckYn": false,
+        "entries": [
+        ]
+      },
+      {
+        "recruitSeq": null,
+        "recruitItemGroupCode": "GR011",
+        "recruitItemCode": "GR011000",
+        "recruitItemNecessaryYn": false,
+        "recruitItemCheckYn": false,
+        "entries": [
+        ]
+      },
+      {
+        "recruitSeq": null,
+        "recruitItemGroupCode": "GR012",
+        "recruitItemCode": "GR012000",
+        "recruitItemNecessaryYn": false,
+        "recruitItemCheckYn": false,
+        "entries": [
+        ]
+      },
+      {
+        "recruitSeq": 1044,
+        "recruitItemGroupCode": "GR013",
+        "recruitItemCode": "GR013000",
+        "recruitItemNecessaryYn": true,
+        "recruitItemCheckYn": true,
+        "entries": [
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR013",
+            "recruitItemCode": "GR013001",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR013",
+            "recruitItemCode": "GR013002",
+            "recruitItemNecessaryYn": false,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR013",
+            "recruitItemCode": "GR013003",
+            "recruitItemNecessaryYn": false,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR013",
+            "recruitItemCode": "GR013004",
+            "recruitItemNecessaryYn": false,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR013",
+            "recruitItemCode": "GR013005",
+            "recruitItemNecessaryYn": false,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR013",
+            "recruitItemCode": "GR013006",
+            "recruitItemNecessaryYn": false,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR013",
+            "recruitItemCode": "GR013999",
+            "recruitItemNecessaryYn": false,
+            "recruitItemCheckYn": true,
+            "entries": null
+          }
+        ]
+      },
+      {
+        "recruitSeq": 1044,
+        "recruitItemGroupCode": "GR014",
+        "recruitItemCode": "GR014000",
+        "recruitItemNecessaryYn": false,
+        "recruitItemCheckYn": true,
+        "entries": [
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR014",
+            "recruitItemCode": "GR014002",
+            "recruitItemNecessaryYn": true,
+            "recruitItemCheckYn": true,
+            "entries": null
+          },
+          {
+            "recruitSeq": 1044,
+            "recruitItemGroupCode": "GR014",
+            "recruitItemCode": "GR014003",
+            "recruitItemNecessaryYn": false,
+            "recruitItemCheckYn": true,
+            "entries": null
+          }
+        ]
+      },
+      {
+        "recruitSeq": null,
+        "recruitItemGroupCode": "GR015",
+        "recruitItemCode": "GR015000",
+        "recruitItemNecessaryYn": false,
+        "recruitItemCheckYn": false,
+        "entries": [
+        ]
+      }
+    ],
+    "managers": null,
+    "pluarApplications": [
+    ],
+    "selfIntroduces": [
+      {
+        "recruitSelfIntroduceSeq": 212,
+        "recruitSeq": 1044,
+        "recruitSelfIntroduceOrder": 1,
+        "recruitSelfIntroduceContents": "'좋아하는 시나 소설, 노래 중심으로' 자신을 자유롭게 소개해 주세요. (지원동기/이직사유, 장/단점 등)",
+        "selfIntroduceRestrictionMin": -1,
+        "selfIntroduceRestrictionMax": -1,
+        "selfIntroduceNecessaryYn": true
+      }
+    ],
+    "judgmentProcedures": null,
+    "qualificationRestriction": {
+      "recruitItemCheckYn": false,
+      "recruitItemNecessaryYn": true,
+      "gender": {
+        "recruitSeq": 1044,
+        "value": "",
+        "checkYn": false
+      },
+      "educationBackground": {
+        "recruitSeq": 1044,
+        "value": "",
+        "inequality": null,
+        "checkYn": false
+      },
+      "americanAges": [
+        {
+          "recruitSeq": 1044,
+          "value": 0,
+          "inequality": null,
+          "checkYn": false,
+          "order": 1
+        },
+        {
+          "recruitSeq": 1044,
+          "value": 0,
+          "inequality": null,
+          "checkYn": false,
+          "order": 2
+        }
+      ],
+      "careers": [
+        {
+          "recruitSeq": 1044,
+          "value": 0,
+          "inequality": null,
+          "checkYn": false,
+          "order": 1
+        },
+        {
+          "recruitSeq": 1044,
+          "value": 0,
+          "inequality": null,
+          "checkYn": false,
+          "order": 2
+        }
+      ],
+      "selfIntroduces": [
+        {
+          "recruitSeq": 1044,
+          "recruitSelfIntroduceOrder": 1,
+          "lettersCount": 100,
+          "inequality": "GE",
+          "checkYn": true
+        }
+      ]
+    },
+    "isUnlimitedEndDate": true,
+    "isHidden": false,
+    "isAfterOrEqualEndDay": false,
+    "isPublicTypical": false,
+    "isAfterOrEqualOpenDay": true,
+    "isTemporaryStatus": false
+  }
+}

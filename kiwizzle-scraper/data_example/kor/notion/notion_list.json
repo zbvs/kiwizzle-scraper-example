@@ -1,0 +1,1862 @@
+{
+  "recordMap": {
+    "block": {
+      "1f252dda-53a7-4b5c-901e-4150045cd327": {
+        "role": "reader",
+        "value": {
+          "id": "1f252dda-53a7-4b5c-901e-4150045cd327",
+          "version": 348,
+          "type": "page",
+          "properties": {
+            "title": [
+              [
+                "kakaobrain 영입"
+              ]
+            ]
+          },
+          "content": [
+            "e7c235e2-4d8e-401d-b3a3-483bc073cdbf",
+            "5780986c-0577-41af-92c1-62d551c2fe82",
+            "2b8715ef-3a81-4269-af3c-ee3379a4ef63",
+            "fef195f3-7ac5-404a-8e4b-b97223738a0f",
+            "a7a41bec-1c83-4a00-9813-99ab929945e4",
+            "16a84748-75e4-4183-8487-5ee671348652",
+            "a18bf334-9cdc-4a50-a8f7-96deeb005331",
+            "590944fe-9eeb-4d70-b38f-1ea7790b8e99",
+            "5244c76b-8857-4ba1-bd65-e3cef50a496b",
+            "32867a6f-fbb3-43af-bd78-8e6d38ef6438",
+            "5110e08e-69fd-4a4a-a5e2-1ce2bdaf60c7",
+            "cccb1f3d-f102-4f24-b9aa-da5af1696cd6",
+            "8531560a-3a23-4256-aaf2-a72d0383631b",
+            "9feeba70-cf8d-4499-b685-ae27893e3c46",
+            "38d917b6-6bc1-4410-86b6-57ba0320d073",
+            "cb52e5d8-a8c1-4fe3-aa12-d6a53e65fd03",
+            "53229256-2452-4d60-b80b-65dd32088ae0",
+            "5766759f-ba20-4b18-b8fe-3a9cd967b955",
+            "ee2b9c9b-cdea-4bb0-b132-8b96ac180c0f",
+            "92eae94d-7e71-4989-8da9-05fa2d28df58",
+            "24c52acf-774a-4a0a-95ca-2a21e269fd23",
+            "b0f08aee-95e1-4119-821f-1635a94cf6e6",
+            "9507f650-1f7f-4048-a883-574c013f9fbf",
+            "6251caf7-7cc0-4f03-8a2c-fc0a55b3ee90",
+            "8d5be3fc-cc57-4019-baf7-e2297688deb0",
+            "86a73d1a-f2ba-4d95-ac16-441d9e83cc77",
+            "cde33bf2-170f-4b3e-8b3b-2c792308e7bf",
+            "50191af3-2815-4fe7-b086-29f83eae7c4e",
+            "d37623d4-d141-4b9a-8617-2485687349a3",
+            "0e9bcbb6-20f4-4499-bf31-dde9deb0dd79",
+            "95d9090b-3c06-4ac9-a50d-89d82e75192e",
+            "01f6732e-6154-417b-a091-04494a6e2fd6",
+            "f3e4de00-f63b-4ec1-a466-da1ac7ff10a6",
+            "018a2eda-2aa9-42e9-a750-2bdee20e996f",
+            "8eeaaac1-f788-4ca4-bf41-173c7ac0ffee",
+            "2b634ad8-ccb8-4ff7-a837-c5fb3f637dde",
+            "15a7e70d-62e3-4c60-a700-6942df42137a",
+            "bd30ee5c-6b46-4fb9-8546-97d9c06af9c8",
+            "01285161-0007-435a-9a46-949ca15ac69b",
+            "7900ac85-cc9b-493b-8f77-fe724a866df1",
+            "13b918c8-1a29-4042-a7ad-6fa44cf4b1d8",
+            "03320aa4-f978-4c66-addc-90908452673a",
+            "991fdb9e-2107-4c3a-9004-8589ff01804e",
+            "2d8f0b19-3b90-44b3-b335-bb4c342a9420",
+            "1b4161b9-3e56-4eb4-a507-9d7c8583aecd",
+            "7020bcf3-9640-413a-92a6-826a527b254f"
+          ],
+          "format": {
+            "page_icon": "🙌",
+            "page_cover": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/24e2dd30-f7b0-4693-ae7f-2c24f8c092bd/_top.png",
+            "block_locked": false,
+            "block_locked_by": "6c6fb25c-ed28-4ae8-8ffd-ba85de9f2be1",
+            "page_full_width": false,
+            "page_small_text": false,
+            "copied_from_pointer": {
+              "id": "db109fa8-4c98-43d2-b065-0e19dfb6b834",
+              "table": "block",
+              "spaceId": "9d79b8b1-c78c-4b70-aa4f-b60eb94dad40"
+            },
+            "page_cover_position": 0.5,
+            "page_section_visibility": {
+              "comments": "section_show",
+              "backlinks": "section_collapsed"
+            }
+          },
+          "permissions": [
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "6c6fb25c-ed28-4ae8-8ffd-ba85de9f2be1"
+            },
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "da8e28c8-b895-49b3-bcaf-d676cc31a612"
+            },
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "ee4ce2c8-1db3-4a35-8be5-b99098e1e178"
+            },
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "d3f09576-90a2-44cd-b333-9ee57dcfaace"
+            },
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "4a802ec5-7d30-4095-8dee-2abe8e5e54ca"
+            },
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "5ad585e2-4f2d-4884-8a37-9b2ba3fc0b47"
+            },
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "b1f530c7-9d14-4152-8552-e44b7b6aca87"
+            },
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "20f8367f-5b22-4eb5-a66d-5d9b244c9fb1"
+            },
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "9d92c2ab-96e1-49c1-9a8f-e39df5974225"
+            },
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "9b8a12f9-f249-43a2-9028-18433eb4d748"
+            },
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "71674933-9848-4cfe-bb4d-d4f73c586dce"
+            },
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "290c8738-3630-42e7-a809-968b543903cc"
+            },
+            {
+              "role": "reader",
+              "type": "public_permission",
+              "allow_duplicate": false
+            }
+          ],
+          "created_by": "7c74a801-7cb5-4914-bbbe-2b18cd1ced76",
+          "created_time": 1622171660229,
+          "last_edited_by": "7c74a801-7cb5-4914-bbbe-2b18cd1ced76",
+          "last_edited_time": 1622447100000,
+          "parent_id": "17498a14-6060-4ede-b2e8-fa4ffd537c49",
+          "parent_table": "space",
+          "alive": true,
+          "copied_from": "db109fa8-4c98-43d2-b065-0e19dfb6b834",
+          "file_ids": [
+            "c65214cb-8868-440c-97ec-a204b50c8503",
+            "124c21af-ea7d-4d85-9010-4078842e2e8e",
+            "afb1b06d-8394-451b-a2b4-8c214fb11517",
+            "e49b5558-ede5-4fc8-b18c-67885ee9a397",
+            "ca3f7d95-e2e3-43ec-bd9d-e95165b7e7c9",
+            "7289f4c4-8e36-4777-bd25-36f46c7279cb",
+            "ec98980e-2f30-4c67-9318-e4b6b8f3d7c5",
+            "1f47690f-4610-4fde-b640-4f5b97f3fad7",
+            "5f5529ce-f02e-4049-a050-3be9f3071291",
+            "80a5ee4b-7bd4-49a1-808e-c61075637d4a",
+            "73e67c9e-17e5-4faa-963c-5cb38de1bfbc",
+            "24e2dd30-f7b0-4693-ae7f-2c24f8c092bd"
+          ],
+          "created_by_table": "notion_user",
+          "created_by_id": "8eeadc92-3ea3-4dc6-872e-600852c43748",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "ee4ce2c8-1db3-4a35-8be5-b99098e1e178",
+          "space_id": "17498a14-6060-4ede-b2e8-fa4ffd537c49"
+        }
+      },
+      "e7c235e2-4d8e-401d-b3a3-483bc073cdbf": {
+        "role": "reader",
+        "value": {
+          "id": "e7c235e2-4d8e-401d-b3a3-483bc073cdbf",
+          "version": 17,
+          "type": "sub_sub_header",
+          "properties": {
+            "title": [
+              [
+                "Mission and Major Challenges",
+                [
+                  [
+                    "b"
+                  ],
+                  [
+                    "i"
+                  ]
+                ]
+              ]
+            ]
+          },
+          "created_time": 1622172120000,
+          "last_edited_time": 1622174580000,
+          "parent_id": "1f252dda-53a7-4b5c-901e-4150045cd327",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "6c6fb25c-ed28-4ae8-8ffd-ba85de9f2be1",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "6c6fb25c-ed28-4ae8-8ffd-ba85de9f2be1",
+          "space_id": "17498a14-6060-4ede-b2e8-fa4ffd537c49"
+        }
+      },
+      "5780986c-0577-41af-92c1-62d551c2fe82": {
+        "role": "reader",
+        "value": {
+          "id": "5780986c-0577-41af-92c1-62d551c2fe82",
+          "version": 10,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "카카오브레인은 몇 가지 질문들을 세상을 향해 던져봅니다."
+              ]
+            ]
+          },
+          "created_time": 1622174621274,
+          "last_edited_time": 1622178240000,
+          "parent_id": "1f252dda-53a7-4b5c-901e-4150045cd327",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "6c6fb25c-ed28-4ae8-8ffd-ba85de9f2be1",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "6c6fb25c-ed28-4ae8-8ffd-ba85de9f2be1",
+          "space_id": "17498a14-6060-4ede-b2e8-fa4ffd537c49"
+        }
+      },
+      "2b8715ef-3a81-4269-af3c-ee3379a4ef63": {
+        "role": "reader",
+        "value": {
+          "id": "2b8715ef-3a81-4269-af3c-ee3379a4ef63",
+          "version": 15,
+          "type": "numbered_list",
+          "properties": {
+            "title": [
+              [
+                "하나의 어려운 문제를 풀어서 세상의 모든 어려운 문제를 풀 수 있다면 어떨까요?"
+              ]
+            ]
+          },
+          "created_time": 1622172840000,
+          "last_edited_time": 1622172840000,
+          "parent_id": "1f252dda-53a7-4b5c-901e-4150045cd327",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "6c6fb25c-ed28-4ae8-8ffd-ba85de9f2be1",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "6c6fb25c-ed28-4ae8-8ffd-ba85de9f2be1",
+          "space_id": "17498a14-6060-4ede-b2e8-fa4ffd537c49"
+        }
+      },
+      "fef195f3-7ac5-404a-8e4b-b97223738a0f": {
+        "role": "reader",
+        "value": {
+          "id": "fef195f3-7ac5-404a-8e4b-b97223738a0f",
+          "version": 10,
+          "type": "numbered_list",
+          "properties": {
+            "title": [
+              [
+                "하나의 복잡한 알고리즘을 개발하여 복잡한 세상의 다양한 문제를 해결할 수 있다면 어떨까요?"
+              ]
+            ]
+          },
+          "created_time": 1622172840000,
+          "last_edited_time": 1622172840000,
+          "parent_id": "1f252dda-53a7-4b5c-901e-4150045cd327",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "6c6fb25c-ed28-4ae8-8ffd-ba85de9f2be1",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "6c6fb25c-ed28-4ae8-8ffd-ba85de9f2be1",
+          "space_id": "17498a14-6060-4ede-b2e8-fa4ffd537c49"
+        }
+      },
+      "a7a41bec-1c83-4a00-9813-99ab929945e4": {
+        "role": "reader",
+        "value": {
+          "id": "a7a41bec-1c83-4a00-9813-99ab929945e4",
+          "version": 28,
+          "type": "numbered_list",
+          "properties": {
+            "title": [
+              [
+                "두 개의 질문에 답한 기업의 가치는 다만 경제적 가치로만 환산할 수 있을까요?"
+              ]
+            ]
+          },
+          "created_time": 1622172575177,
+          "last_edited_time": 1622196420000,
+          "parent_id": "1f252dda-53a7-4b5c-901e-4150045cd327",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "6c6fb25c-ed28-4ae8-8ffd-ba85de9f2be1",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "6c6fb25c-ed28-4ae8-8ffd-ba85de9f2be1",
+          "space_id": "17498a14-6060-4ede-b2e8-fa4ffd537c49"
+        }
+      },
+      "16a84748-75e4-4183-8487-5ee671348652": {
+        "role": "reader",
+        "value": {
+          "id": "16a84748-75e4-4183-8487-5ee671348652",
+          "version": 11,
+          "type": "sub_sub_header",
+          "properties": {
+            "title": [
+              [
+                "AI for Impact, Impact for AI",
+                [
+                  [
+                    "b"
+                  ],
+                  [
+                    "i"
+                  ]
+                ]
+              ]
+            ]
+          },
+          "created_time": 1622172670417,
+          "last_edited_time": 1622172720000,
+          "parent_id": "1f252dda-53a7-4b5c-901e-4150045cd327",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "6c6fb25c-ed28-4ae8-8ffd-ba85de9f2be1",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "6c6fb25c-ed28-4ae8-8ffd-ba85de9f2be1",
+          "space_id": "17498a14-6060-4ede-b2e8-fa4ffd537c49"
+        }
+      },
+      "a18bf334-9cdc-4a50-a8f7-96deeb005331": {
+        "role": "reader",
+        "value": {
+          "id": "a18bf334-9cdc-4a50-a8f7-96deeb005331",
+          "version": 14,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "카카오브레인은 AI의 요소 기술을 개발하여 AI 기술에서의 프론티어로써 AI 기술 커뮤니티에 기여합니다. 또한, AI의 가치를 크게 발휘할 수 있는 신사업을 추진합니다. 카카오브레인의 도전에 함께 할, 카카오브레인의 질문에 탐험과 실험을 함께 할 크루를 찾습니다."
+              ]
+            ]
+          },
+          "created_time": 1622172660000,
+          "last_edited_time": 1622178540000,
+          "parent_id": "1f252dda-53a7-4b5c-901e-4150045cd327",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "6c6fb25c-ed28-4ae8-8ffd-ba85de9f2be1",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "6c6fb25c-ed28-4ae8-8ffd-ba85de9f2be1",
+          "space_id": "17498a14-6060-4ede-b2e8-fa4ffd537c49"
+        }
+      },
+      "590944fe-9eeb-4d70-b38f-1ea7790b8e99": {
+        "role": "reader",
+        "value": {
+          "id": "590944fe-9eeb-4d70-b38f-1ea7790b8e99",
+          "version": 9,
+          "type": "text",
+          "created_time": 1622180760000,
+          "last_edited_time": 1622180760000,
+          "parent_id": "1f252dda-53a7-4b5c-901e-4150045cd327",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "4a802ec5-7d30-4095-8dee-2abe8e5e54ca",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "4a802ec5-7d30-4095-8dee-2abe8e5e54ca",
+          "space_id": "17498a14-6060-4ede-b2e8-fa4ffd537c49"
+        }
+      },
+      "5244c76b-8857-4ba1-bd65-e3cef50a496b": {
+        "role": "reader",
+        "value": {
+          "id": "5244c76b-8857-4ba1-bd65-e3cef50a496b",
+          "version": 34,
+          "type": "sub_sub_header",
+          "properties": {
+            "title": [
+              [
+                "카카오브레인은 함께 AI로 세상을 바꾸려는 동료를 찾습니다!",
+                [
+                  [
+                    "b"
+                  ],
+                  [
+                    "i"
+                  ]
+                ]
+              ],
+              [
+                " ",
+                [
+                  [
+                    "b"
+                  ]
+                ]
+              ]
+            ]
+          },
+          "created_time": 1622172900000,
+          "last_edited_time": 1622180040000,
+          "parent_id": "1f252dda-53a7-4b5c-901e-4150045cd327",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "6c6fb25c-ed28-4ae8-8ffd-ba85de9f2be1",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "6c6fb25c-ed28-4ae8-8ffd-ba85de9f2be1",
+          "space_id": "17498a14-6060-4ede-b2e8-fa4ffd537c49"
+        }
+      },
+      "32867a6f-fbb3-43af-bd78-8e6d38ef6438": {
+        "role": "reader",
+        "value": {
+          "id": "32867a6f-fbb3-43af-bd78-8e6d38ef6438",
+          "version": 13,
+          "type": "image",
+          "properties": {
+            "source": [
+              [
+                "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/24f80ab2-d400-4e1a-a4f9-f6223291fe56/img.png"
+              ]
+            ]
+          },
+          "format": {
+            "block_width": 1024,
+            "display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/24f80ab2-d400-4e1a-a4f9-f6223291fe56/img.png",
+            "block_full_width": false,
+            "block_page_width": true,
+            "block_aspect_ratio": 0.603515625,
+            "block_preserve_scale": true
+          },
+          "created_time": 1622180434943,
+          "last_edited_time": 1622180400000,
+          "parent_id": "1f252dda-53a7-4b5c-901e-4150045cd327",
+          "parent_table": "block",
+          "alive": true,
+          "file_ids": [
+            "24f80ab2-d400-4e1a-a4f9-f6223291fe56"
+          ],
+          "created_by_table": "notion_user",
+          "created_by_id": "4a802ec5-7d30-4095-8dee-2abe8e5e54ca",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "4a802ec5-7d30-4095-8dee-2abe8e5e54ca",
+          "space_id": "17498a14-6060-4ede-b2e8-fa4ffd537c49"
+        }
+      },
+      "5110e08e-69fd-4a4a-a5e2-1ce2bdaf60c7": {
+        "role": "reader",
+        "value": {
+          "id": "5110e08e-69fd-4a4a-a5e2-1ce2bdaf60c7",
+          "version": 182,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "카카오브레인 AI 영입연계형 인턴십",
+                [
+                  [
+                    "a",
+                    "/012851610007435a9a46949ca15ac69b"
+                  ],
+                  [
+                    "h",
+                    "yellow"
+                  ]
+                ]
+              ],
+              [
+                " ",
+                [
+                  [
+                    "h",
+                    "yellow"
+                  ]
+                ]
+              ],
+              [
+                "지원하러 가기 ",
+                [
+                  [
+                    "a",
+                    "/012851610007435a9a46949ca15ac69b"
+                  ]
+                ]
+              ]
+            ]
+          },
+          "format": {
+            "block_color": "yellow_background"
+          },
+          "created_time": 1622179800000,
+          "last_edited_time": 1622201040000,
+          "parent_id": "1f252dda-53a7-4b5c-901e-4150045cd327",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "4a802ec5-7d30-4095-8dee-2abe8e5e54ca",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "6c6fb25c-ed28-4ae8-8ffd-ba85de9f2be1",
+          "space_id": "17498a14-6060-4ede-b2e8-fa4ffd537c49"
+        }
+      },
+      "01285161-0007-435a-9a46-949ca15ac69b": {
+        "role": "reader",
+        "value": {
+          "id": "01285161-0007-435a-9a46-949ca15ac69b",
+          "version": 225,
+          "type": "page",
+          "properties": {
+            "title": [
+              [
+                "2021 카카오브레인 AI 영입연계형 인턴십"
+              ]
+            ]
+          },
+          "content": [
+            "938e74ba-a90c-4b31-8907-1a76b1092be7",
+            "7c805a56-4ba9-4e99-a6e4-1427d122ee9d",
+            "d291f373-8b82-444c-b804-8e8380820384",
+            "8164daa3-e201-4d8d-97fc-d3356c385202",
+            "230daf82-05f4-447b-ae5f-bd052b9ee7a6",
+            "160a26aa-c93d-4077-97d1-429dc1412c6b",
+            "29401fcd-be3d-4949-a24d-af273f831c9d",
+            "14ff3c88-3e90-4b6b-9acb-3aed2f6effd6",
+            "9b8525d6-ee49-4dd2-bced-37f470a0b6fb",
+            "a9e04d2a-5899-48f7-83c8-c44e7848db12",
+            "64ce121e-b8d7-41bf-9f17-54a01623e259",
+            "e9b02d43-a3c7-4edd-bc0b-efd0dc70c05d",
+            "0a74c865-263f-4848-b045-350550e32d45",
+            "a98b3bc6-9f51-403d-afce-84d42f27a0c4",
+            "993c933e-1b22-4409-8e30-085c78bb400c",
+            "c16c8daa-45c6-46de-ba6c-3456d13eb4a9",
+            "73bcbb34-b617-423c-a0ba-e13abe1967e7",
+            "28e78fe3-b118-4efe-9e95-1ee8020e92a5",
+            "a04d3e44-0cdb-4850-ab3e-fe31f845407d",
+            "233ddfbf-f192-42ff-9d95-0f5b905ede05",
+            "0e7883e5-d795-4ce7-899e-04a525c6c107",
+            "1e59ce14-28de-43c7-b425-cdf7eac1f5d4",
+            "6152acc1-8f7a-4ea9-bcbe-0d9021f11f9d",
+            "86380f79-b416-4ff6-81b2-e57cb0240de7",
+            "6b02473b-cc06-4d74-b837-bf3cd17bc850",
+            "3159fb56-85c6-4d6d-a493-b79fd283f7dd",
+            "1493af90-10d9-4774-b377-e2818f5137da",
+            "87167536-2508-4c8e-8cf5-b28dc5000499",
+            "58a0fc69-9b08-42f8-bc75-d30bbeac4ee5",
+            "396ae40e-beba-40d4-940a-c74ed5e8218d",
+            "2f3b8a0a-09d6-46b6-9243-c55a746ca3e3",
+            "141403fa-9fce-4a9b-96dd-a96e966c3dc7",
+            "164d2754-7358-494e-adde-a69efe94a396",
+            "78e9a099-e12b-487e-9f3d-5f2593128601",
+            "d08262ed-46b6-411f-9345-958d457e147b",
+            "deba9322-e3f0-4ac1-9d73-81180a24183b",
+            "b879502f-8567-40b2-840a-a90bda8f3599",
+            "53298ae1-77f8-4aec-97b5-78525d50a54a",
+            "dc6ad29b-3678-42c3-a995-66de9afc9745",
+            "e936e990-2fe5-4580-9476-46202c02269a",
+            "c737e75f-ccf8-40fe-9558-e56fcaeb4296",
+            "38b17f51-bf64-44a9-a1b4-ba43222ed6d2",
+            "6e6505b8-5603-4d65-ae32-66856f70e912",
+            "0a6f4152-4c5d-42a8-8cf7-4cf461fbe09f",
+            "eacc4008-0ff8-4ec4-b11a-2d641718f2fe",
+            "5d7644aa-a57b-4fd7-a6e0-ac645b0fa5f0",
+            "327f9548-5be4-45ad-845a-e8d0af1129f8",
+            "ae2599a7-9ddd-4b20-881b-bd9483738863",
+            "64a55c8b-5882-49b1-a0ad-9196e4f60826",
+            "afa1a7c0-b132-4ee9-86ba-9d43dca30b96",
+            "7f66b4bd-c9a2-4581-a3aa-a7b7978dfeb6",
+            "115add8e-1092-447e-bb7a-db9f9f1da4ad",
+            "bdb2dfe5-9c44-4c2a-b4db-2c31fe029a3c",
+            "fdb3266e-5290-44c2-97f4-8a31750feab3",
+            "f93efade-b129-483e-bd4d-6786306c61da",
+            "228ace96-a193-439f-8b0c-6ef1ea233470",
+            "f3b52471-f8af-4a7b-a163-4332aa3f5cf6",
+            "37e318f3-4d22-402a-88d1-92886c2e533b",
+            "da0c274c-5ea1-4066-af85-612e5100b744",
+            "07d94f70-e176-4ac1-8d76-7643dc2fcc86"
+          ],
+          "format": {
+            "page_icon": "🏄🏻‍♂️",
+            "page_cover": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/122ca735-f5f3-4e1b-b76a-32db31e05f97/_top.png",
+            "block_locked": true,
+            "block_locked_by": "6c6fb25c-ed28-4ae8-8ffd-ba85de9f2be1",
+            "copied_from_pointer": {
+              "id": "c088f76c-5662-43a9-81fa-576684301126",
+              "table": "block",
+              "spaceId": "9d79b8b1-c78c-4b70-aa4f-b60eb94dad40"
+            },
+            "page_cover_position": 0.5
+          },
+          "permissions": [
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "6c6fb25c-ed28-4ae8-8ffd-ba85de9f2be1"
+            },
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "20f8367f-5b22-4eb5-a66d-5d9b244c9fb1"
+            },
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "b1f530c7-9d14-4152-8552-e44b7b6aca87"
+            },
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "9b8a12f9-f249-43a2-9028-18433eb4d748"
+            },
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "9d92c2ab-96e1-49c1-9a8f-e39df5974225"
+            },
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "71674933-9848-4cfe-bb4d-d4f73c586dce"
+            },
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "290c8738-3630-42e7-a809-968b543903cc"
+            },
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "ee4ce2c8-1db3-4a35-8be5-b99098e1e178"
+            },
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "d3f09576-90a2-44cd-b333-9ee57dcfaace"
+            },
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "ce5f425d-30dc-45dc-b183-0b43db6ccbb4"
+            },
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "a37043e6-24f4-4d41-a759-90f3d7905766"
+            },
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "4a802ec5-7d30-4095-8dee-2abe8e5e54ca"
+            },
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "5350c86e-c69c-499e-93f0-3e5f0af2c120"
+            },
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "da8e28c8-b895-49b3-bcaf-d676cc31a612"
+            },
+            {
+              "role": "reader",
+              "type": "public_permission",
+              "allow_search_engine_indexing": true
+            }
+          ],
+          "created_by": "7c74a801-7cb5-4914-bbbe-2b18cd1ced76",
+          "created_time": 1622179104258,
+          "last_edited_by": "7c74a801-7cb5-4914-bbbe-2b18cd1ced76",
+          "last_edited_time": 1622422800000,
+          "parent_id": "1f252dda-53a7-4b5c-901e-4150045cd327",
+          "parent_table": "block",
+          "alive": true,
+          "copied_from": "c088f76c-5662-43a9-81fa-576684301126",
+          "file_ids": [
+            "19bd1a17-6c43-420d-b6ae-df4d6952ac59",
+            "cf7cdadb-4216-4fa2-a9b3-208e69081587",
+            "122ca735-f5f3-4e1b-b76a-32db31e05f97"
+          ],
+          "created_by_table": "notion_user",
+          "created_by_id": "8eeadc92-3ea3-4dc6-872e-600852c43748",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "6c6fb25c-ed28-4ae8-8ffd-ba85de9f2be1",
+          "space_id": "17498a14-6060-4ede-b2e8-fa4ffd537c49"
+        }
+      },
+      "cccb1f3d-f102-4f24-b9aa-da5af1696cd6": {
+        "role": "reader",
+        "value": {
+          "id": "cccb1f3d-f102-4f24-b9aa-da5af1696cd6",
+          "version": 40,
+          "type": "text",
+          "created_time": 1622201040000,
+          "last_edited_time": 1622201040000,
+          "parent_id": "1f252dda-53a7-4b5c-901e-4150045cd327",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "6c6fb25c-ed28-4ae8-8ffd-ba85de9f2be1",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "6c6fb25c-ed28-4ae8-8ffd-ba85de9f2be1",
+          "space_id": "17498a14-6060-4ede-b2e8-fa4ffd537c49"
+        }
+      },
+      "8531560a-3a23-4256-aaf2-a72d0383631b": {
+        "role": "reader",
+        "value": {
+          "id": "8531560a-3a23-4256-aaf2-a72d0383631b",
+          "version": 2,
+          "type": "text",
+          "created_time": 1622180400000,
+          "last_edited_time": 1622201040000,
+          "parent_id": "1f252dda-53a7-4b5c-901e-4150045cd327",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "4a802ec5-7d30-4095-8dee-2abe8e5e54ca",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "6c6fb25c-ed28-4ae8-8ffd-ba85de9f2be1",
+          "space_id": "17498a14-6060-4ede-b2e8-fa4ffd537c49"
+        }
+      },
+      "9feeba70-cf8d-4499-b685-ae27893e3c46": {
+        "role": "reader",
+        "value": {
+          "id": "9feeba70-cf8d-4499-b685-ae27893e3c46",
+          "version": 1,
+          "type": "page",
+          "properties": {
+            "title": [
+              [
+                "영입분야"
+              ]
+            ]
+          },
+          "content": [
+            "b2ab3a2f-7281-498e-ab07-58fbf726937c",
+            "e3b7bff2-d016-4c78-990d-6f8d1c912568",
+            "38770526-5ebe-4c24-b2f8-ecc694efa6da",
+            "10c4c620-e969-43f0-b3ad-4d4afb66cac7",
+            "6a38768d-2f35-4dd5-958d-0ba78537677e",
+            "fa91af1d-a4ff-4e4d-b166-bfe6c6684686",
+            "29e8ef3b-b541-4b29-a89c-7f8bb7e8fb0d",
+            "0d116684-5066-4519-99c2-36f40511218d",
+            "00f3489a-a129-4d10-9837-fbbbe8f9b55e",
+            "1b953492-103a-4a6a-8faa-df9afdbbd114",
+            "3808f365-770c-47e0-967a-7dd297ffb596",
+            "1a64c290-85bc-4627-95b5-01c6e483b0e3",
+            "8d6683fc-ae2e-4635-9065-f9772c1cd158",
+            "044d95be-513d-45ea-8d85-28358458f6a8",
+            "2210dbcc-3d5f-46a6-bb1a-54bf4e32c418",
+            "3a20b7ef-3078-49c7-9a07-2e88ce6fe9e0",
+            "98c01d21-882c-48d7-a1dd-4720252056d6",
+            "cbdc8faa-8b9a-4041-b412-2509ebb5f9f2",
+            "b4d66168-177c-4015-b705-b129acc89332",
+            "2451a51f-ed85-4872-8c67-2f71af93ea85",
+            "5c03344c-bab4-4c7e-97d2-d565155b617a",
+            "d8b98cc9-ef45-40ea-b93a-b291001275fb",
+            "f26dd088-df29-4620-af03-0efb3a8082e8",
+            "dd8c0af9-ed39-44b6-9342-cfbb059113ec",
+            "837c47c6-87f8-4f7e-a2c3-d03de97c6133",
+            "deb065bf-e01f-470b-a5a1-700d0d7840f6",
+            "2dfe2a1a-ca44-4a34-878f-310729fc7621",
+            "21c9fce0-d18a-4c8c-8f0c-6f1c867b19a3",
+            "a72e6b00-5db5-4ba3-a56d-1a7bbcdb4a9c",
+            "58e5c0bc-faba-41d2-a318-49df802fc7a6",
+            "a6daedb8-7751-46e3-b72a-7162ec6bb90c",
+            "d05fc975-2fc0-4904-8141-03b38bb6afa3",
+            "52d60c8b-25ae-4fa4-9b45-8cd7759a4766"
+          ],
+          "format": {
+            "page_icon": "👀",
+            "block_locked": true,
+            "block_locked_by": "ee4ce2c8-1db3-4a35-8be5-b99098e1e178",
+            "copied_from_pointer": {
+              "id": "56c70933-f0f2-4206-a5c4-23be15c520f5",
+              "table": "block",
+              "spaceId": "9d79b8b1-c78c-4b70-aa4f-b60eb94dad40"
+            }
+          },
+          "created_time": 1622171658557,
+          "last_edited_time": 1622171658557,
+          "parent_id": "1f252dda-53a7-4b5c-901e-4150045cd327",
+          "parent_table": "block",
+          "alive": true,
+          "copied_from": "56c70933-f0f2-4206-a5c4-23be15c520f5",
+          "created_by_table": "notion_user",
+          "created_by_id": "8eeadc92-3ea3-4dc6-872e-600852c43748",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "ee4ce2c8-1db3-4a35-8be5-b99098e1e178",
+          "space_id": "17498a14-6060-4ede-b2e8-fa4ffd537c49"
+        }
+      },
+      "38d917b6-6bc1-4410-86b6-57ba0320d073": {
+        "role": "reader",
+        "value": {
+          "id": "38d917b6-6bc1-4410-86b6-57ba0320d073",
+          "version": 16,
+          "type": "text",
+          "created_time": 1622193840000,
+          "last_edited_time": 1622193840000,
+          "parent_id": "1f252dda-53a7-4b5c-901e-4150045cd327",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "6c6fb25c-ed28-4ae8-8ffd-ba85de9f2be1",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "6c6fb25c-ed28-4ae8-8ffd-ba85de9f2be1",
+          "space_id": "17498a14-6060-4ede-b2e8-fa4ffd537c49"
+        }
+      },
+      "cb52e5d8-a8c1-4fe3-aa12-d6a53e65fd03": {
+        "role": "reader",
+        "value": {
+          "id": "cb52e5d8-a8c1-4fe3-aa12-d6a53e65fd03",
+          "version": 4,
+          "type": "sub_sub_header",
+          "properties": {
+            "title": [
+              [
+                "진행 중인 영입 공고",
+                [
+                  [
+                    "b"
+                  ]
+                ]
+              ]
+            ]
+          },
+          "created_time": 1622193843071,
+          "last_edited_time": 1622193840000,
+          "parent_id": "1f252dda-53a7-4b5c-901e-4150045cd327",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "6c6fb25c-ed28-4ae8-8ffd-ba85de9f2be1",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "6c6fb25c-ed28-4ae8-8ffd-ba85de9f2be1",
+          "space_id": "17498a14-6060-4ede-b2e8-fa4ffd537c49"
+        }
+      },
+      "53229256-2452-4d60-b80b-65dd32088ae0": {
+        "role": "reader",
+        "value": {
+          "id": "53229256-2452-4d60-b80b-65dd32088ae0",
+          "version": 1,
+          "type": "divider",
+          "format": {
+            "copied_from_pointer": {
+              "id": "57d33d49-9583-4536-96a9-eee3fb5d4af5",
+              "table": "block",
+              "spaceId": "9d79b8b1-c78c-4b70-aa4f-b60eb94dad40"
+            }
+          },
+          "created_by": "204e031f-f12d-445c-ba1d-df7a7bbebfbc",
+          "created_time": 1622171658557,
+          "last_edited_by": "204e031f-f12d-445c-ba1d-df7a7bbebfbc",
+          "last_edited_time": 1622171658557,
+          "parent_id": "1f252dda-53a7-4b5c-901e-4150045cd327",
+          "parent_table": "block",
+          "alive": true,
+          "copied_from": "57d33d49-9583-4536-96a9-eee3fb5d4af5",
+          "created_by_table": "notion_user",
+          "created_by_id": "8eeadc92-3ea3-4dc6-872e-600852c43748",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "8eeadc92-3ea3-4dc6-872e-600852c43748",
+          "space_id": "17498a14-6060-4ede-b2e8-fa4ffd537c49"
+        }
+      },
+      "5766759f-ba20-4b18-b8fe-3a9cd967b955": {
+        "role": "reader",
+        "value": {
+          "id": "5766759f-ba20-4b18-b8fe-3a9cd967b955",
+          "version": 1,
+          "type": "page",
+          "properties": {
+            "title": [
+              [
+                "기획리더"
+              ]
+            ]
+          },
+          "content": [
+            "41f4dab8-a504-48ee-a0c6-f06b09fbacbd",
+            "e00f0caf-d5c0-40b8-addd-569093aed929",
+            "fbc45bd2-b5a1-4f2c-9cba-a71d16bd34a2",
+            "b817282a-bdd9-4c69-baa0-3465a9b74191",
+            "19889fab-9a16-4007-9ef1-6db435d3ac1e",
+            "680cea25-851c-4027-8dd9-3e27de73c5bc",
+            "a4991259-332f-46cc-bd3f-3109e5e9d679",
+            "c73973ca-bb3d-42f3-bc4d-3b08d6c9ff85",
+            "a38146d5-7506-49a4-9b8a-f9d2acccb829",
+            "03daaf48-add3-46f0-9714-b44e76ae3c27",
+            "c3c7ac60-15bc-43ad-b015-f0772cfd1a8d",
+            "a18ec997-971a-4346-ae6a-84193f864a22",
+            "c27791ea-90d1-4cfc-ae6f-bf8dfa8b2ca2",
+            "a39fc4d0-e7a1-43ee-a452-194f2b109c2a",
+            "919087db-445c-4e13-9144-b8403233d7f8",
+            "056e4d07-31a2-40e8-9b02-12af750af6a3",
+            "20736ee0-4293-4825-b7d0-acfa3de2a74c",
+            "f043be97-be6f-4115-a769-f1015e907269",
+            "c2b17179-ab38-4f8d-a376-b314b6fa108d",
+            "8286068f-1ce7-4912-b7e6-0843c124c729",
+            "0b0fc189-a278-4421-b1b1-acbdefcdbc64",
+            "1ee0e800-3225-4935-b9a7-fcb0eefd5bda",
+            "2e08ac1a-7039-4b3c-86ab-be3abde6fff1",
+            "0d086673-532a-4fd7-92fb-1e3277a00b18",
+            "b2fc9bbf-5ffd-44d6-8ada-aff639d73174",
+            "1f369abd-d3d2-46c9-b30b-13c2e7c3d28f"
+          ],
+          "format": {
+            "page_icon": "💭",
+            "page_cover": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/19bd1a17-6c43-420d-b6ae-df4d6952ac59/2.png",
+            "block_locked": false,
+            "block_locked_by": "ee4ce2c8-1db3-4a35-8be5-b99098e1e178",
+            "copied_from_pointer": {
+              "id": "5b0b03c5-d45d-43ca-9b72-6a19f84990dc",
+              "table": "block",
+              "spaceId": "9d79b8b1-c78c-4b70-aa4f-b60eb94dad40"
+            },
+            "page_cover_position": 0.40151
+          },
+          "created_by": "7c74a801-7cb5-4914-bbbe-2b18cd1ced76",
+          "created_time": 1622171658558,
+          "last_edited_by": "7c74a801-7cb5-4914-bbbe-2b18cd1ced76",
+          "last_edited_time": 1622171658558,
+          "parent_id": "1f252dda-53a7-4b5c-901e-4150045cd327",
+          "parent_table": "block",
+          "alive": true,
+          "copied_from": "5b0b03c5-d45d-43ca-9b72-6a19f84990dc",
+          "file_ids": [
+            "19bd1a17-6c43-420d-b6ae-df4d6952ac59"
+          ],
+          "created_by_table": "notion_user",
+          "created_by_id": "8eeadc92-3ea3-4dc6-872e-600852c43748",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "ee4ce2c8-1db3-4a35-8be5-b99098e1e178",
+          "space_id": "17498a14-6060-4ede-b2e8-fa4ffd537c49"
+        }
+      },
+      "ee2b9c9b-cdea-4bb0-b132-8b96ac180c0f": {
+        "role": "reader",
+        "value": {
+          "id": "ee2b9c9b-cdea-4bb0-b132-8b96ac180c0f",
+          "version": 1,
+          "type": "page",
+          "properties": {
+            "title": [
+              [
+                "안드로이드 개발자"
+              ]
+            ]
+          },
+          "content": [
+            "947ff20e-7f3d-4f79-b251-e82e97d2dd52",
+            "4dc214c7-eeea-4edc-83ce-b50cd60b6766",
+            "3aa9433c-6b05-4c20-80c5-4afd2968db31",
+            "9319108d-d1a4-4117-8bb9-07b992d9a6e9",
+            "3b271abb-16c1-4281-b9eb-d0bc35f947dc",
+            "0b02295f-0f59-4da6-a481-75cb26acada2",
+            "7e470229-0c2b-4d31-b258-4dc611e29a5f",
+            "a4775438-1fa7-4122-8213-074dc1f248ff",
+            "e030811d-27cc-45f8-b082-7d4a293d1f67",
+            "daff667f-84e5-487a-9fcb-e7be7dd58a2a",
+            "eb5866e5-7283-4b00-b189-695115c189d9",
+            "9ec4b2ac-fbd1-4b23-9111-890fdb1e2ca0",
+            "e184b7ee-d572-47e2-97fb-1b6e9465757f",
+            "b0110be6-58ea-44a6-9dee-9e3fe57dd5ac",
+            "d59302c0-c169-4108-a09c-91e4dc5df9d3",
+            "73dc329c-1502-4993-bbc4-ed2db6c8161a",
+            "d270193a-1b3b-4eca-9172-9802b238938e",
+            "a7b2a470-78ca-441a-ad06-0c6e58dcd716",
+            "7ff90992-dc56-4448-ab2c-b4ad72f94fff",
+            "cca6e14b-d27b-4988-85d8-da5b04a1df8f",
+            "a6e9056a-6067-4545-9e4a-85683dab4bfb",
+            "db62c7c5-4fc3-4217-97e2-ac0214b56396",
+            "e9e7e267-5ebd-49d5-ad5b-08cd942232e5"
+          ],
+          "format": {
+            "page_icon": "🤖",
+            "page_cover": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/19bd1a17-6c43-420d-b6ae-df4d6952ac59/2.png",
+            "block_locked": false,
+            "block_locked_by": "ee4ce2c8-1db3-4a35-8be5-b99098e1e178",
+            "copied_from_pointer": {
+              "id": "ede37fb5-5e64-44a6-8d1e-d6f4cb096c9e",
+              "table": "block",
+              "spaceId": "9d79b8b1-c78c-4b70-aa4f-b60eb94dad40"
+            },
+            "page_cover_position": 0.4015
+          },
+          "created_by": "7c74a801-7cb5-4914-bbbe-2b18cd1ced76",
+          "created_time": 1622171658559,
+          "last_edited_by": "7c74a801-7cb5-4914-bbbe-2b18cd1ced76",
+          "last_edited_time": 1622171658559,
+          "parent_id": "1f252dda-53a7-4b5c-901e-4150045cd327",
+          "parent_table": "block",
+          "alive": true,
+          "copied_from": "ede37fb5-5e64-44a6-8d1e-d6f4cb096c9e",
+          "file_ids": [
+            "19bd1a17-6c43-420d-b6ae-df4d6952ac59"
+          ],
+          "created_by_table": "notion_user",
+          "created_by_id": "8eeadc92-3ea3-4dc6-872e-600852c43748",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "ee4ce2c8-1db3-4a35-8be5-b99098e1e178",
+          "space_id": "17498a14-6060-4ede-b2e8-fa4ffd537c49"
+        }
+      },
+      "92eae94d-7e71-4989-8da9-05fa2d28df58": {
+        "role": "reader",
+        "value": {
+          "id": "92eae94d-7e71-4989-8da9-05fa2d28df58",
+          "version": 5,
+          "type": "page",
+          "properties": {
+            "title": [
+              [
+                "Computer Vision Research Engineer  (Open Studio)"
+              ]
+            ]
+          },
+          "content": [
+            "e9dbcd00-8eca-48b6-bbf7-b226960cba92",
+            "78461273-81a0-4d37-b348-581aba3ad60b",
+            "7c8cf6fe-95fe-43c0-accf-d2f14d6e8c7b",
+            "4a70c72a-e05e-4eac-ad7e-a991ad04854e",
+            "58914133-b12f-4ece-954e-36199a380369",
+            "6e6e60c2-5f60-493b-8439-ac0d133dedb1",
+            "45990baf-15f6-40ec-8979-0121b22c687e",
+            "6ca38226-3647-4d5f-a044-7b350f54abfc",
+            "7f067b4b-40d8-4049-8757-44f1cf648247",
+            "15593035-b582-4ba7-a208-4cdbfb933c2b",
+            "56b2f817-2e8c-4414-b0a2-cefee92af3a3",
+            "29d21832-ebdb-4262-9436-62a82ca4f13d",
+            "54552655-e872-4573-b3ac-bf08aa89b984",
+            "5112ec4b-c6c9-484f-9a4a-d05a2456e649",
+            "8d4bfea6-c7fa-4d9b-a087-ab1683936282",
+            "954a64b6-c623-4fc4-8ac4-43b455e017d1",
+            "ca85bcde-87f1-40d8-8732-8a07b8963ac7",
+            "e907ab3b-3f0b-4f27-968f-144196391b6e",
+            "474110bf-7352-4a87-9f30-fe72eed5e952",
+            "1b1cd450-63bc-40ab-a6bb-ea25e68a521b",
+            "44eac639-a7c7-4a59-b706-fd1f71725f09",
+            "e9ede234-edac-4eb8-9748-e59e2761b338",
+            "28023335-fccd-4c42-bf9c-23815c4cd556",
+            "2530cb0f-108e-478e-b3b0-93cce27b0ae4",
+            "d5f64db6-02d0-4a12-95d5-b48fa3d6ea0f",
+            "06fd07c7-0894-446c-98ab-f378e69197ee",
+            "e8551daa-1ce7-4cbe-9ec6-07350ff5cdd0",
+            "d263981c-32f8-4bce-9d68-47d8d7339e5e",
+            "9778d9dd-f29d-4e0d-bc8b-966de5eee7b7",
+            "a8e82a32-f25b-43f9-ac05-cc7e1f6347ea",
+            "e1a06cde-2c4e-4c79-b58b-daec38653426",
+            "95501c11-e6cf-4fec-b35e-715a0245eb92",
+            "f705efbf-750f-4cc1-b034-270feb1df82e",
+            "5939ae0e-061c-4e81-ae38-224c1d5c330b",
+            "532f345e-c36a-46d9-a874-e37f11f99dc0",
+            "00085c58-6729-420f-a668-5a81c57ccd18"
+          ],
+          "format": {
+            "page_icon": "🚀",
+            "page_cover": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7542556e-3312-484c-b655-f24628bf9ab2/2.png",
+            "block_locked": false,
+            "block_locked_by": "ee4ce2c8-1db3-4a35-8be5-b99098e1e178",
+            "copied_from_pointer": {
+              "id": "55c71d33-c20d-4a6c-a2d0-98e2002ca5fe",
+              "table": "block",
+              "spaceId": "9d79b8b1-c78c-4b70-aa4f-b60eb94dad40"
+            },
+            "page_cover_position": 0.418
+          },
+          "created_by": "7c74a801-7cb5-4914-bbbe-2b18cd1ced76",
+          "created_time": 1622171658556,
+          "last_edited_by": "7c74a801-7cb5-4914-bbbe-2b18cd1ced76",
+          "last_edited_time": 1622262180000,
+          "parent_id": "1f252dda-53a7-4b5c-901e-4150045cd327",
+          "parent_table": "block",
+          "alive": true,
+          "copied_from": "55c71d33-c20d-4a6c-a2d0-98e2002ca5fe",
+          "file_ids": [
+            "7542556e-3312-484c-b655-f24628bf9ab2"
+          ],
+          "created_by_table": "notion_user",
+          "created_by_id": "8eeadc92-3ea3-4dc6-872e-600852c43748",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "6c6fb25c-ed28-4ae8-8ffd-ba85de9f2be1",
+          "space_id": "17498a14-6060-4ede-b2e8-fa4ffd537c49"
+        }
+      },
+      "24c52acf-774a-4a0a-95ca-2a21e269fd23": {
+        "role": "reader",
+        "value": {
+          "id": "24c52acf-774a-4a0a-95ca-2a21e269fd23",
+          "version": 5,
+          "type": "page",
+          "properties": {
+            "title": [
+              [
+                "자연어처리  Research Engineer"
+              ]
+            ]
+          },
+          "content": [
+            "489c85f1-ad08-415f-8376-61d2474e863a",
+            "4b415f4a-68b2-44f5-b380-d9732b6ff4ed",
+            "66dca90d-971f-4671-a177-ba6308389680",
+            "5595b84d-5711-4dd4-94c4-281b20268b0c",
+            "a2b5bf9e-6165-4b4d-b42b-922504001bc8",
+            "aabaf484-9a4f-47ab-b47c-c4be44fb9519",
+            "c2a93845-4d67-4127-96de-013424fa8cd7",
+            "792e36cf-4655-4068-b304-4ea5496dd6b0",
+            "899f32d7-35db-4553-ba57-dfdaf89c5de8",
+            "273fd357-f738-406d-8380-f932acf1ea74",
+            "32d8aa51-80a9-46f3-81ad-91644bb825e9",
+            "0beec947-6c45-4cdb-bafd-c4058147052c",
+            "7f2c0991-9ddf-4c70-84c7-489236cf66fe",
+            "e22aa51b-f3f0-44e9-800e-42651966d407",
+            "efc6f80c-0226-4e22-914e-5b81792b1cf6",
+            "68abb241-6dd4-4dac-b1e0-99065c23be81",
+            "581ed6c7-f98d-4ed7-916c-4f20ca4e288c",
+            "ce4d0a49-ffad-4139-ae2c-85cb582cb081",
+            "907b7511-b081-4792-9877-a152f5d92c08",
+            "4a33a756-ae11-4afc-b5b5-a694df34f60f",
+            "7d49e14c-b3ab-45f0-82d9-b2e30f47ffee",
+            "4b4164d5-a5f8-4295-a31a-cd4f50ae5f9a",
+            "08d6da56-8693-4a8e-b9a0-15ce95139bc0",
+            "a7410ad1-3ac3-4376-91be-1e5db9dbe7b4",
+            "22d7ef99-ade3-4fa4-a918-447de9157111",
+            "75e73d8a-50af-42e8-8e49-13d0b400d93b",
+            "4de546d8-8238-4542-b3b6-c092eacfd358",
+            "d3b2f143-ecca-41fb-b7d6-623086ea0ee3",
+            "fe946afb-b1bf-42e5-8709-83534b7e7c0d",
+            "1b71247e-0706-4483-a7c3-f295019d97de",
+            "a50bb186-7bbe-422a-97bf-27a8cdb38100",
+            "f068877e-a4c4-4d47-80c4-59683b1d61c1",
+            "58139aaf-f561-4f90-95ab-b252e7c81f1c",
+            "f961e5e3-1533-425d-8286-79f1c415f4a2",
+            "2df1354f-5f50-4ecd-8fb8-5b402d238fdc",
+            "87e37da7-4284-41c7-a2ea-43edf51a1e91"
+          ],
+          "format": {
+            "page_icon": "🚀",
+            "page_cover": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7542556e-3312-484c-b655-f24628bf9ab2/2.png",
+            "copied_from_pointer": {
+              "id": "5919affe-663a-47cc-be45-5ec4e72fb6cf",
+              "table": "block",
+              "spaceId": "9d79b8b1-c78c-4b70-aa4f-b60eb94dad40"
+            },
+            "page_cover_position": 0.418
+          },
+          "created_by": "7c74a801-7cb5-4914-bbbe-2b18cd1ced76",
+          "created_time": 1622171658557,
+          "last_edited_by": "7c74a801-7cb5-4914-bbbe-2b18cd1ced76",
+          "last_edited_time": 1622262120000,
+          "parent_id": "1f252dda-53a7-4b5c-901e-4150045cd327",
+          "parent_table": "block",
+          "alive": true,
+          "copied_from": "5919affe-663a-47cc-be45-5ec4e72fb6cf",
+          "file_ids": [
+            "7542556e-3312-484c-b655-f24628bf9ab2"
+          ],
+          "created_by_table": "notion_user",
+          "created_by_id": "8eeadc92-3ea3-4dc6-872e-600852c43748",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "6c6fb25c-ed28-4ae8-8ffd-ba85de9f2be1",
+          "space_id": "17498a14-6060-4ede-b2e8-fa4ffd537c49"
+        }
+      },
+      "b0f08aee-95e1-4119-821f-1635a94cf6e6": {
+        "role": "reader",
+        "value": {
+          "id": "b0f08aee-95e1-4119-821f-1635a94cf6e6",
+          "version": 5,
+          "type": "page",
+          "properties": {
+            "title": [
+              [
+                "음성인식  Research Engineer"
+              ]
+            ]
+          },
+          "content": [
+            "b7ead7d9-9d1e-4ebe-8514-5c0ea2e50999",
+            "a5b85f8b-df61-464b-824f-53e129e17c1c",
+            "0f29d8e0-ea62-421a-a3b8-a88754810ad1",
+            "673f93ba-01ff-4155-ac74-a169d4720e66",
+            "c65c0669-a47f-42e9-a75c-75ca393e54f3",
+            "a607e2ce-6726-4c43-9965-5d6957e8332d",
+            "51da2358-cf9c-4d95-b2be-dc49384a357a",
+            "e5d66537-b1ef-471f-8dc3-c436bf77a244",
+            "a2ec2496-7d4c-48aa-9412-dbeb8347b92f",
+            "7982b54d-2df9-45a3-8622-bff0282ee7ef",
+            "f48cdac9-6dc3-4dbd-925a-27f762b35112",
+            "01fbf350-4b67-441e-9e97-3e9350e1d96d",
+            "9afc3253-7f61-443e-9bcd-2032c8b36859",
+            "d0abf67c-2cc4-4e5e-b857-b60b7a1fde52",
+            "a10a4b4f-06d5-4a43-86b7-9b463be9ded7",
+            "6688f241-cd84-4203-803f-1c633d3072c9",
+            "30e750e3-7b0e-4f7c-9a4c-a5704973969d",
+            "9094062e-ee1b-419e-a56a-c0c3829db42f",
+            "3d980c0d-45b5-4a8b-a83b-9195d9f5f826",
+            "06ced95b-df39-4380-ab8c-36ffc0fba1fe",
+            "104382c8-68d4-4704-b64d-4b668eb3ffb6",
+            "48f1dd65-3801-499b-b4b9-6505b86839c6",
+            "5f4737d7-b7b8-4bee-8f77-c445a18d0951",
+            "646231d0-676d-4d98-b082-5672c5ff0e51",
+            "356efc76-ee8a-452f-b811-ad05250fc023",
+            "e15aff47-62ca-4b35-b32c-42b98db5d854",
+            "8b1266ed-b407-4834-affb-25cc9f978391",
+            "030a4e0e-2619-4ba9-b979-b8ac9ba7b27f",
+            "6444bd71-99f9-4a40-8620-68100feb8188",
+            "9d9d7c12-8934-4153-8ef2-ca9e0aab1791",
+            "d1b297a3-08aa-41fb-b0e2-39629a14fa71",
+            "015aad0c-8217-4f5c-bd34-b91dac88b7f9",
+            "fe68ea88-d7d1-402b-9367-67f9fec7470c",
+            "2bc6a5d5-523c-40dd-a4be-47608930afe8",
+            "7a6375b1-c1c8-41bf-9a30-70d25ad18047",
+            "4ef3aa96-fe02-444b-a8fc-b8b6d84ad205",
+            "360a6f04-6ede-4cb9-8081-1a6a89469690",
+            "323dae27-833f-4dae-b8de-e0ccc1b9bce9"
+          ],
+          "format": {
+            "page_icon": "🚀",
+            "page_cover": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7542556e-3312-484c-b655-f24628bf9ab2/2.png",
+            "copied_from_pointer": {
+              "id": "13305657-7640-45ac-a6a1-c414482de2af",
+              "table": "block",
+              "spaceId": "9d79b8b1-c78c-4b70-aa4f-b60eb94dad40"
+            },
+            "page_cover_position": 0.418
+          },
+          "created_by": "7c74a801-7cb5-4914-bbbe-2b18cd1ced76",
+          "created_time": 1622171658554,
+          "last_edited_by": "7c74a801-7cb5-4914-bbbe-2b18cd1ced76",
+          "last_edited_time": 1622262180000,
+          "parent_id": "1f252dda-53a7-4b5c-901e-4150045cd327",
+          "parent_table": "block",
+          "alive": true,
+          "copied_from": "13305657-7640-45ac-a6a1-c414482de2af",
+          "file_ids": [
+            "7542556e-3312-484c-b655-f24628bf9ab2"
+          ],
+          "created_by_table": "notion_user",
+          "created_by_id": "8eeadc92-3ea3-4dc6-872e-600852c43748",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "6c6fb25c-ed28-4ae8-8ffd-ba85de9f2be1",
+          "space_id": "17498a14-6060-4ede-b2e8-fa4ffd537c49"
+        }
+      },
+      "9507f650-1f7f-4048-a883-574c013f9fbf": {
+        "role": "reader",
+        "value": {
+          "id": "9507f650-1f7f-4048-a883-574c013f9fbf",
+          "version": 36,
+          "type": "page",
+          "properties": {
+            "title": [
+              [
+                "UI/UX 디자이너"
+              ]
+            ]
+          },
+          "content": [
+            "ac94636c-c393-429f-89e3-673e6ce7017f",
+            "cdca558c-462f-468b-bcf5-c2a5dcb63a9f",
+            "f51c683e-4234-4bcb-8297-742431d38b6d",
+            "52255802-b40a-4a53-a55b-49481e0a8895",
+            "3b3d1bf9-2ee1-4b21-9946-6838b4a01398",
+            "9191e4f7-ef57-4f4e-8fd4-2a8cd7670a04",
+            "b2c56efd-6ae1-4001-af8a-dd6ea779587b",
+            "7b4f22c0-dba3-4e3d-8860-4a2d6eb2c303",
+            "82e857c5-3479-448f-9a4d-425baf3d5a09",
+            "2e82ff69-4e08-40ec-bc7c-282c5319421d",
+            "ecebbd74-707c-4561-9a1f-87f814816fb1",
+            "5d75ccb9-49c1-4a34-bc4b-5e6c070eb695",
+            "db091dba-7462-4c11-a33d-c0c86f132f8a",
+            "842d1e6e-7ac5-4c2c-856d-fb115a1e7e22",
+            "7141c616-11ce-4cf8-90c2-f7d47dd81650",
+            "54d2d096-84e5-4157-9468-d8e91c0d23c2",
+            "6b9e54f8-e363-4885-8803-b2e752082181",
+            "c79f8a30-54b7-4139-b499-22b07b884e8f",
+            "f7794ed0-fe7c-4b2a-b926-123aeb5e7cc0",
+            "2fcf0e72-3071-419d-b469-9692dbc19002",
+            "f7c0dbaa-f909-4d58-95b6-4e952fb3be16",
+            "727c8c21-c843-4c65-a7dd-266ddbd5bf8d",
+            "7e5e953e-3b67-407a-b585-72ee28172284"
+          ],
+          "format": {
+            "page_icon": "🖼️",
+            "page_cover": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/19bd1a17-6c43-420d-b6ae-df4d6952ac59/2.png",
+            "block_locked": false,
+            "block_locked_by": "ee4ce2c8-1db3-4a35-8be5-b99098e1e178",
+            "copied_from_pointer": {
+              "id": "e9ded12e-9752-43d2-9209-6986c9d3cde9",
+              "table": "block",
+              "spaceId": "17498a14-6060-4ede-b2e8-fa4ffd537c49"
+            },
+            "page_cover_position": 0.4015
+          },
+          "created_by": "7c74a801-7cb5-4914-bbbe-2b18cd1ced76",
+          "created_time": 1622446819244,
+          "last_edited_by": "7c74a801-7cb5-4914-bbbe-2b18cd1ced76",
+          "last_edited_time": 1622447100000,
+          "parent_id": "1f252dda-53a7-4b5c-901e-4150045cd327",
+          "parent_table": "block",
+          "alive": true,
+          "copied_from": "e9ded12e-9752-43d2-9209-6986c9d3cde9",
+          "file_ids": [
+            "19bd1a17-6c43-420d-b6ae-df4d6952ac59"
+          ],
+          "created_by_table": "notion_user",
+          "created_by_id": "8eeadc92-3ea3-4dc6-872e-600852c43748",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "ee4ce2c8-1db3-4a35-8be5-b99098e1e178",
+          "space_id": "17498a14-6060-4ede-b2e8-fa4ffd537c49"
+        }
+      },
+      "6251caf7-7cc0-4f03-8a2c-fc0a55b3ee90": {
+        "role": "reader",
+        "value": {
+          "id": "6251caf7-7cc0-4f03-8a2c-fc0a55b3ee90",
+          "version": 1,
+          "type": "page",
+          "properties": {
+            "title": [
+              [
+                "라지스케일 데이터 / 딥러닝 엔지니어"
+              ]
+            ]
+          },
+          "content": [
+            "73fd4b13-af5f-461e-bc0e-7097829d3a5e",
+            "fffdd90e-e73f-47fd-a1bc-c83257455155",
+            "ed2461b8-f1a2-416e-a4a4-dc66260fa67e",
+            "20aeb2f5-9e29-44b6-9b64-8d4461bb3f43",
+            "932e42f4-61ee-411c-b70a-2ca582c2aa34",
+            "797ef043-25ba-455f-8435-b60382b95aa3",
+            "d7a48289-02a4-4b79-8ecf-5c3f1d02fb87",
+            "9d984954-0ab7-44ee-a781-1bfc0cf53fc8",
+            "3d0dc3e2-14da-4839-b47c-7c7b3203c09a",
+            "ca237793-2ad6-43fd-b93a-58c619e29a8e",
+            "23727803-8069-4248-a4d2-9ed3560ecdc7",
+            "08c1f2b3-384a-4a9e-8bb5-399fe589bb2d",
+            "39d22ede-6d3b-4055-9c40-e24833c88fbb",
+            "cc1b2dd6-f534-4b81-8495-754e79e888dc",
+            "be438bd8-32cb-4b98-ae12-86243f99ca20",
+            "f3fdbd8b-1d91-4bbf-b2c8-14b4fd3c2552",
+            "3936410f-47c3-4fe1-bc27-2de05f0e6d94",
+            "59f66623-c7c1-4cba-a3f5-113d7cd1a91b",
+            "f41e69ab-72dc-4405-8edc-44faef1a8334",
+            "5b878d65-f7e9-48c7-a18c-5eaee81656d3",
+            "7e09e37b-eb26-403e-ad29-9a02dca1cf12",
+            "15ef11bc-da06-4a3f-8506-96c214daaadc",
+            "31f93921-1c8c-4b63-90a2-787b69e70232",
+            "6f082f0e-e6f6-4413-8d65-26e1376b0168",
+            "92d49d24-995f-4095-af5a-4a9d334e1617",
+            "56fe8d5d-6885-4b87-bac0-54e40933bf93",
+            "39f846ad-1bfa-44a0-a420-c35c3df97877"
+          ],
+          "format": {
+            "page_icon": "🏭",
+            "page_cover": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/19bd1a17-6c43-420d-b6ae-df4d6952ac59/2.png",
+            "block_locked": false,
+            "block_locked_by": "ee4ce2c8-1db3-4a35-8be5-b99098e1e178",
+            "copied_from_pointer": {
+              "id": "01886dc1-66d6-4b96-80ae-da22e38eb412",
+              "table": "block",
+              "spaceId": "9d79b8b1-c78c-4b70-aa4f-b60eb94dad40"
+            },
+            "page_cover_position": 0.4015
+          },
+          "created_by": "7c74a801-7cb5-4914-bbbe-2b18cd1ced76",
+          "created_time": 1622171658554,
+          "last_edited_by": "7c74a801-7cb5-4914-bbbe-2b18cd1ced76",
+          "last_edited_time": 1622171658554,
+          "parent_id": "1f252dda-53a7-4b5c-901e-4150045cd327",
+          "parent_table": "block",
+          "alive": true,
+          "copied_from": "01886dc1-66d6-4b96-80ae-da22e38eb412",
+          "file_ids": [
+            "19bd1a17-6c43-420d-b6ae-df4d6952ac59"
+          ],
+          "created_by_table": "notion_user",
+          "created_by_id": "8eeadc92-3ea3-4dc6-872e-600852c43748",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "ee4ce2c8-1db3-4a35-8be5-b99098e1e178",
+          "space_id": "17498a14-6060-4ede-b2e8-fa4ffd537c49"
+        }
+      },
+      "8d5be3fc-cc57-4019-baf7-e2297688deb0": {
+        "role": "reader",
+        "value": {
+          "id": "8d5be3fc-cc57-4019-baf7-e2297688deb0",
+          "version": 1,
+          "type": "page",
+          "properties": {
+            "title": [
+              [
+                "라지스케일(GPT-3/CLIP/DALL-E) 딥러닝 사이언티스트 / 엔지니어"
+              ]
+            ]
+          },
+          "content": [
+            "110dd04f-3007-469d-aea2-cc77900dd768",
+            "3bde2d68-6ee0-4cac-971d-d79759ef4488",
+            "0368fac4-4db0-46dd-94c8-a47c7e4922cd",
+            "18073d6b-d653-4c5a-b5d6-f2f6f62e0584",
+            "c8668c9b-e226-4c96-b6da-51d8d7f6126c",
+            "918adce4-008b-4df0-a666-1ff6ab9134b5",
+            "2947200c-7d76-43e5-9b1b-8a98a356e4c5",
+            "a9689cdd-a5d2-4be1-85be-5d52802a0d2f",
+            "aaeb7b88-953f-492d-bd1f-7b29a6aaacea",
+            "dc415cd0-0a75-4bce-8e9b-19b21434b56d",
+            "02e6e3d7-3bb3-4003-a184-8c68856dad7c",
+            "8a8829c6-61ce-4f4a-b7c1-904165f98776",
+            "df4a170c-be8c-47cf-9717-933b0cfc0957",
+            "bcca021b-eb6a-4036-a7cf-c415e4f1679b",
+            "264010b9-9719-41dc-bc66-95287efecfc7",
+            "65bd9e7f-4c60-4cb0-9ba6-532dd852e229",
+            "52283b33-5e8d-42b3-8f1c-f103530b99f6",
+            "4e997e50-76a3-4e76-9aaa-33592a084ee4",
+            "d29549cd-d0d6-43e5-b8be-fb00eea04834",
+            "da2c7526-e80e-4c3c-bc8a-94724d83f681",
+            "c4706130-d8e8-47f0-9b35-3bb300f227ca",
+            "d4af590f-10b4-49c6-8e70-18353db49239",
+            "519468fe-03ca-46db-a7d3-58de06e39cde",
+            "84189051-64cc-4a74-9b3c-029c6bd005e4",
+            "ae0603cb-4deb-44bb-b556-54c243977928",
+            "8107d88e-d16a-463f-a70f-99a9c9b4dc8b",
+            "3c018144-cf0e-40b7-b982-4cf9595f4412",
+            "29897e32-191f-4dce-9575-e04061b75a8b"
+          ],
+          "format": {
+            "page_icon": "🏭",
+            "page_cover": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/19bd1a17-6c43-420d-b6ae-df4d6952ac59/2.png",
+            "block_locked": false,
+            "block_locked_by": "ee4ce2c8-1db3-4a35-8be5-b99098e1e178",
+            "copied_from_pointer": {
+              "id": "b59bd700-b431-42f1-8e7c-aa217e402917",
+              "table": "block",
+              "spaceId": "9d79b8b1-c78c-4b70-aa4f-b60eb94dad40"
+            },
+            "page_cover_position": 0.4015
+          },
+          "created_by": "7c74a801-7cb5-4914-bbbe-2b18cd1ced76",
+          "created_time": 1622171658559,
+          "last_edited_by": "7c74a801-7cb5-4914-bbbe-2b18cd1ced76",
+          "last_edited_time": 1622171658559,
+          "parent_id": "1f252dda-53a7-4b5c-901e-4150045cd327",
+          "parent_table": "block",
+          "alive": true,
+          "copied_from": "b59bd700-b431-42f1-8e7c-aa217e402917",
+          "file_ids": [
+            "19bd1a17-6c43-420d-b6ae-df4d6952ac59"
+          ],
+          "created_by_table": "notion_user",
+          "created_by_id": "8eeadc92-3ea3-4dc6-872e-600852c43748",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "ee4ce2c8-1db3-4a35-8be5-b99098e1e178",
+          "space_id": "17498a14-6060-4ede-b2e8-fa4ffd537c49"
+        }
+      },
+      "86a73d1a-f2ba-4d95-ac16-441d9e83cc77": {
+        "role": "reader",
+        "value": {
+          "id": "86a73d1a-f2ba-4d95-ac16-441d9e83cc77",
+          "version": 1,
+          "type": "page",
+          "properties": {
+            "title": [
+              [
+                "AR Software Engineer"
+              ]
+            ]
+          },
+          "content": [
+            "39f09033-aa63-45dd-8212-fb87d3ee9b8b",
+            "2a09d7ff-64b7-4c77-90bb-b82031a73089",
+            "c611b3d3-2924-446d-8ae2-1fc4ac992e3a",
+            "2ad1c07c-dd9f-4034-a9f0-dc319774bbc0",
+            "5c05a085-e695-4a3c-b6e4-61c086017f48",
+            "a8f90f01-38e2-4105-ac60-3fd01b049eb7",
+            "e7230fa1-fdde-416d-8b17-ec970f4ff9bb",
+            "cef28d47-7c4d-48bf-ab78-8f16a89077b4",
+            "6ffbb2df-cf85-4a8d-b3f3-1c871136e3bc",
+            "8a62c9a9-da97-4187-9b04-679bf84d2043",
+            "34c28e27-818e-48e8-9e19-c31ff4ab2681",
+            "406ba638-d36d-4a23-b604-557ac6be8e09",
+            "970b3e56-5692-4cca-a795-8fdb0fc041eb",
+            "fd2a9129-be4f-4825-9324-36c597116efb",
+            "1f3c0ba8-1c63-4229-8eb9-b45d9978ec04",
+            "5290fec8-eb7a-4d09-82e4-f5a20a52fcc6",
+            "c9aef61b-e073-457a-8f62-8e6501cadbdc",
+            "87bf658b-1333-438f-ad54-a8c076287da9",
+            "da3ed27f-ec72-49f4-8763-b885fcf9244f",
+            "6da835ab-13b3-4e7e-9e80-87d1917abfa1",
+            "dd876351-8e81-4fa8-b19b-8bdc3a5979a9",
+            "0af81bbc-4229-4bc3-8c45-ed7f588eedb7",
+            "0b34f80b-5fad-4eb1-9334-1b4767efe684",
+            "0b378ad2-5fae-4e2c-a64c-eb4139a9480c",
+            "36b797b3-b677-43ef-91e1-2b6ab40c9808",
+            "b791ea94-0245-4b46-8751-ab4252d4b4ca"
+          ],
+          "format": {
+            "page_icon": "🤸",
+            "page_cover": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/19bd1a17-6c43-420d-b6ae-df4d6952ac59/2.png",
+            "block_locked": false,
+            "block_locked_by": "ee4ce2c8-1db3-4a35-8be5-b99098e1e178",
+            "copied_from_pointer": {
+              "id": "4b53adfe-cddf-4e6c-ad47-e79643dab9d6",
+              "table": "block",
+              "spaceId": "9d79b8b1-c78c-4b70-aa4f-b60eb94dad40"
+            },
+            "page_cover_position": 0.4015
+          },
+          "created_by": "7c74a801-7cb5-4914-bbbe-2b18cd1ced76",
+          "created_time": 1622171658556,
+          "last_edited_by": "7c74a801-7cb5-4914-bbbe-2b18cd1ced76",
+          "last_edited_time": 1622171658556,
+          "parent_id": "1f252dda-53a7-4b5c-901e-4150045cd327",
+          "parent_table": "block",
+          "alive": true,
+          "copied_from": "4b53adfe-cddf-4e6c-ad47-e79643dab9d6",
+          "file_ids": [
+            "19bd1a17-6c43-420d-b6ae-df4d6952ac59"
+          ],
+          "created_by_table": "notion_user",
+          "created_by_id": "8eeadc92-3ea3-4dc6-872e-600852c43748",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "ee4ce2c8-1db3-4a35-8be5-b99098e1e178",
+          "space_id": "17498a14-6060-4ede-b2e8-fa4ffd537c49"
+        }
+      },
+      "cde33bf2-170f-4b3e-8b3b-2c792308e7bf": {
+        "role": "reader",
+        "value": {
+          "id": "cde33bf2-170f-4b3e-8b3b-2c792308e7bf",
+          "version": 1,
+          "type": "page",
+          "properties": {
+            "title": [
+              [
+                "모바일 AR SDK 개발자"
+              ]
+            ]
+          },
+          "content": [
+            "1657cded-67f6-4b34-80b2-e86ce4f64d3e",
+            "e6c2f0c1-a39e-4c47-aa38-f95479074981",
+            "6d63a4d9-1cf1-4d24-8064-fcd54e555dfe",
+            "8ffa458b-9e7b-4b55-b9d8-c33be6c8a0b0",
+            "1d59b160-050f-454d-ad82-8f13c1d32e2b",
+            "2bc79240-bf4a-4e7b-b5fd-122f011fe71c",
+            "8370a23b-4dce-478b-a02f-18517603a8b8",
+            "31e68c1e-8ebd-426d-843c-d006a66a2509",
+            "f949a518-596b-493f-9c44-210379a4d17b",
+            "2f1a3cd2-8255-41f0-95f4-b6448887a7ed",
+            "043a2a02-c688-4593-a1ae-6bda7dbf543e",
+            "ccd31e77-6e7f-45c1-89a2-e2a1c944d278",
+            "b780ac7e-8c96-440a-8743-8a694782ba75",
+            "2c60311d-065c-4b55-a3a4-f0a703716165",
+            "ca2e73fc-2431-4a54-8ebe-ba9e69a7dd4b",
+            "c4d0768a-f037-4f6f-8f7b-0ac7b41859ff",
+            "2ec489a9-4028-4dce-bbcd-93ecf42d3778",
+            "bc45c165-63e2-4d46-a963-4a1079c6476c",
+            "b2af5dfa-72c9-48ab-aa8e-28447e83b484",
+            "e00c7ce3-8d02-428a-a818-dda5f40543a9",
+            "8ad06916-816c-4877-b061-d56db30da851",
+            "839e64e7-94b5-4db2-990d-b627e24193d6",
+            "2fff7e92-481b-4472-bad4-54d06d24f3dd",
+            "a4d68766-9567-4a15-b604-8486453ff452",
+            "83105bbc-5ccc-48ef-9c41-11d37117bdec",
+            "5f4fb094-ecd9-41a6-b268-1770414f9e91",
+            "e79243b5-2595-4ba6-a820-7c1b8b886019"
+          ],
+          "format": {
+            "page_icon": "🤸",
+            "page_cover": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/19bd1a17-6c43-420d-b6ae-df4d6952ac59/2.png",
+            "block_locked": false,
+            "block_locked_by": "ee4ce2c8-1db3-4a35-8be5-b99098e1e178",
+            "copied_from_pointer": {
+              "id": "b04beb88-0725-42a0-9aaa-80845bdb1bb3",
+              "table": "block",
+              "spaceId": "9d79b8b1-c78c-4b70-aa4f-b60eb94dad40"
+            },
+            "page_cover_position": 0.4015
+          },
+          "created_by": "7c74a801-7cb5-4914-bbbe-2b18cd1ced76",
+          "created_time": 1622171658558,
+          "last_edited_by": "7c74a801-7cb5-4914-bbbe-2b18cd1ced76",
+          "last_edited_time": 1622171658558,
+          "parent_id": "1f252dda-53a7-4b5c-901e-4150045cd327",
+          "parent_table": "block",
+          "alive": true,
+          "copied_from": "b04beb88-0725-42a0-9aaa-80845bdb1bb3",
+          "file_ids": [
+            "19bd1a17-6c43-420d-b6ae-df4d6952ac59"
+          ],
+          "created_by_table": "notion_user",
+          "created_by_id": "8eeadc92-3ea3-4dc6-872e-600852c43748",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "ee4ce2c8-1db3-4a35-8be5-b99098e1e178",
+          "space_id": "17498a14-6060-4ede-b2e8-fa4ffd537c49"
+        }
+      },
+      "50191af3-2815-4fe7-b086-29f83eae7c4e": {
+        "role": "reader",
+        "value": {
+          "id": "50191af3-2815-4fe7-b086-29f83eae7c4e",
+          "version": 1,
+          "type": "page",
+          "properties": {
+            "title": [
+              [
+                "Computer Vision Research Engineer  (Human CV)"
+              ]
+            ]
+          },
+          "content": [
+            "27199291-e1fd-406a-a783-4fac57662a20",
+            "a01851c9-a29e-46c5-aacf-aa2d71a74fcd",
+            "71687aa6-453a-40c2-9c9a-07f7407df91a",
+            "4e04b715-8afc-4831-b628-1771767ae2ca",
+            "b7200798-71b0-4888-b2f8-959dc91caa59",
+            "a2a0355d-62ce-467b-96e0-7d8fd91e98af",
+            "e19d6f1d-bbf7-461b-a629-2f249ca766ee",
+            "591ceb7c-be3a-4953-9d49-0a80c12ecef7",
+            "90451e78-0b43-46f8-8d71-a00f80b63e70",
+            "c3a71bdf-4051-4a9f-8ebc-e38444bffa70",
+            "d8300abb-0c98-4362-963d-440620f02ac1",
+            "912b7b93-a7b4-4cc2-a387-a0f8943ba09a",
+            "f369f522-fc74-4722-9b82-81da4e4c184e",
+            "cec35c23-741e-40fa-96fd-a5dfcb674cb9",
+            "b490dbfd-8bb0-4302-bb25-828299089842",
+            "02c2414e-a566-4c9f-817c-bdba3cd65d06",
+            "4c3656a4-5f6c-4807-80ac-1fff5e851420",
+            "1854e5cf-15e6-4087-8d4d-7aa653ed7fad",
+            "db22dcdd-ba1a-4d53-a460-f944056b2c41",
+            "0e72f003-ecc6-4293-9f55-79a4132c8c89",
+            "db7eb3ca-167c-4e50-9933-33d93a69000c",
+            "fc53e7d0-e45c-4a99-81df-51073501d12f",
+            "e3b390fd-fd5f-4ba0-96e2-291a5a57d6f8",
+            "5d46320a-82e3-4418-8399-4c44b58288e7",
+            "be123137-698b-431b-8e37-a9e37bc72a03",
+            "ba2c0c3c-6e09-4b42-a89f-5d8d2bb3b187",
+            "b2f1ce99-f8e0-4d3b-bd63-4cc86069eb58"
+          ],
+          "format": {
+            "page_icon": "🤸",
+            "page_cover": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/19bd1a17-6c43-420d-b6ae-df4d6952ac59/2.png",
+            "block_locked": false,
+            "block_locked_by": "ee4ce2c8-1db3-4a35-8be5-b99098e1e178",
+            "copied_from_pointer": {
+              "id": "53b5da53-6146-43e8-8336-fb1d274f937e",
+              "table": "block",
+              "spaceId": "9d79b8b1-c78c-4b70-aa4f-b60eb94dad40"
+            },
+            "page_cover_position": 0.4015
+          },
+          "created_by": "7c74a801-7cb5-4914-bbbe-2b18cd1ced76",
+          "created_time": 1622171658556,
+          "last_edited_by": "7c74a801-7cb5-4914-bbbe-2b18cd1ced76",
+          "last_edited_time": 1622171658556,
+          "parent_id": "1f252dda-53a7-4b5c-901e-4150045cd327",
+          "parent_table": "block",
+          "alive": true,
+          "copied_from": "53b5da53-6146-43e8-8336-fb1d274f937e",
+          "file_ids": [
+            "19bd1a17-6c43-420d-b6ae-df4d6952ac59"
+          ],
+          "created_by_table": "notion_user",
+          "created_by_id": "8eeadc92-3ea3-4dc6-872e-600852c43748",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "ee4ce2c8-1db3-4a35-8be5-b99098e1e178",
+          "space_id": "17498a14-6060-4ede-b2e8-fa4ffd537c49"
+        }
+      },
+      "d37623d4-d141-4b9a-8617-2485687349a3": {
+        "role": "reader",
+        "value": {
+          "id": "d37623d4-d141-4b9a-8617-2485687349a3",
+          "version": 1,
+          "type": "page",
+          "properties": {
+            "title": [
+              [
+                "Computer Vision Software Engineer"
+              ]
+            ]
+          },
+          "content": [
+            "d94c0a87-62fe-4fe9-a545-11f6249f065e",
+            "58eda2e9-4cbf-42c5-b2b0-ec463564d081",
+            "4674ece1-10ca-404c-8870-6a9010b7e1ec",
+            "cd7ed939-c943-4df2-bff5-7004a22fb35b",
+            "907abe2a-2d5c-417b-9cf3-d235a6eeefc9",
+            "8eaa49a5-a582-4d7f-bb36-362efdf3c779",
+            "ffca944f-ee34-4368-aa33-c13793189453",
+            "d565ed55-469d-4f09-85c2-eb95d93a696b",
+            "d6127dd0-3ac2-4731-be03-59996bc61436",
+            "33831d46-e9b7-404d-800f-3a1e4bf86ce3",
+            "71ee104d-71cf-4c7f-a7e8-b4b768760812",
+            "334a86c9-aa27-4822-986f-67ab6a3ad1cb",
+            "6651f6c5-707e-428f-9bf2-05d3f98637bb",
+            "8be02c7c-6ee6-491d-9721-bc2d3b5d2acc",
+            "81c6d9b2-2997-44b5-8bed-a3d32080c497",
+            "74677c97-bf93-435b-8522-e3942cf46873",
+            "b7a49a1f-1b30-4381-8794-b9b18b00e19e",
+            "4b7744af-366e-444c-a2e8-d4b2726de10c",
+            "45871f70-4682-436f-b4e0-3e26191554db",
+            "0df6f8e6-b6af-4b17-97dc-f1fa41c9033d",
+            "973b1688-6100-49c6-895f-b335156c566b",
+            "4678159c-210d-4eb9-b798-1ca8c90f3ea5",
+            "c646fbe2-b45c-4cd7-80a3-da10984973e1",
+            "48f7af27-3198-4640-9cd8-a48f5a2ed5a8",
+            "077799cc-6e11-4f12-b354-0335b636780a",
+            "421ac248-8b94-4934-9271-8bca4060a3ff",
+            "12d1c251-03f5-4ddb-947c-469c8ebee4ee"
+          ],
+          "format": {
+            "page_icon": "🤸",
+            "page_cover": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/19bd1a17-6c43-420d-b6ae-df4d6952ac59/2.png",
+            "block_locked": false,
+            "block_locked_by": "ee4ce2c8-1db3-4a35-8be5-b99098e1e178",
+            "copied_from_pointer": {
+              "id": "35529981-d89a-4781-b060-e7ee369fcf1f",
+              "table": "block",
+              "spaceId": "9d79b8b1-c78c-4b70-aa4f-b60eb94dad40"
+            },
+            "page_cover_position": 0.4015
+          },
+          "created_by": "7c74a801-7cb5-4914-bbbe-2b18cd1ced76",
+          "created_time": 1622171658555,
+          "last_edited_by": "7c74a801-7cb5-4914-bbbe-2b18cd1ced76",
+          "last_edited_time": 1622171658555,
+          "parent_id": "1f252dda-53a7-4b5c-901e-4150045cd327",
+          "parent_table": "block",
+          "alive": true,
+          "copied_from": "35529981-d89a-4781-b060-e7ee369fcf1f",
+          "file_ids": [
+            "19bd1a17-6c43-420d-b6ae-df4d6952ac59"
+          ],
+          "created_by_table": "notion_user",
+          "created_by_id": "8eeadc92-3ea3-4dc6-872e-600852c43748",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "ee4ce2c8-1db3-4a35-8be5-b99098e1e178",
+          "space_id": "17498a14-6060-4ede-b2e8-fa4ffd537c49"
+        }
+      },
+      "0e9bcbb6-20f4-4499-bf31-dde9deb0dd79": {
+        "role": "reader",
+        "value": {
+          "id": "0e9bcbb6-20f4-4499-bf31-dde9deb0dd79",
+          "version": 1,
+          "type": "page",
+          "properties": {
+            "title": [
+              [
+                "Computer Vision Applied Research Scientist"
+              ]
+            ]
+          },
+          "content": [
+            "49034b15-e0f6-49a2-92c1-8a40a81f96cf",
+            "07b09706-cfd4-4fd2-a440-9f09b788d78b",
+            "4ba1a21a-ba3e-4a02-bc4b-e54e902a55de",
+            "af1d4749-31b7-498f-adf7-e17559130de2",
+            "9925c731-39f1-41bf-9f33-08eba0a3fb98",
+            "fa8b8d64-0aa5-4925-9511-f87fa0ee21f1",
+            "074f052a-0a9e-4604-b8f2-7f44a972f55e",
+            "2e9941da-4ca9-478d-a69e-62635d74f0c6",
+            "eae9e725-ae1e-40b8-9325-1331da79c5f0",
+            "d086c1e2-2982-4b48-9d0f-107c2c2cc19d",
+            "72869586-9a7f-45d8-9af5-82c04d7967ca",
+            "dd8f1e4c-347d-4735-bf6c-72e908ab9983",
+            "c9e65d40-7396-41bd-8a3e-9f5a12880e20",
+            "d16f442a-bc4c-4d2f-b56c-a6b276ed7fad",
+            "89792837-473c-4aef-bd2c-543c2deaf877",
+            "c79458ed-a92e-4e80-8bb8-605420accd79",
+            "c96b6e71-09fd-457a-a206-7fb90bd6bb73",
+            "5b2c75ef-8512-41f8-95dc-70c36558a015",
+            "d3ef3639-6121-4f6a-b373-8596706fb94d",
+            "a3efea28-369a-44a0-a951-dbc83b0d7700",
+            "8effac5f-91f4-4752-b41d-4c079b6dacac",
+            "3c83441c-faeb-4bc1-a3a8-00b1049c42dd",
+            "fc7dbc56-d1e8-41b0-8894-54c1e98bd45b",
+            "0581078d-d674-4251-82dc-f9e4bafd74a3",
+            "6a2d4782-add4-41e2-8d51-5f13f354ad11",
+            "7f379d18-7a8a-4367-9e5c-d257abf2d3f1",
+            "0c5610d2-a406-4695-9b86-5a8de11e1c72"
+          ],
+          "format": {
+            "page_icon": "🤸",
+            "page_cover": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/19bd1a17-6c43-420d-b6ae-df4d6952ac59/2.png",
+            "block_locked": false,
+            "block_locked_by": "ee4ce2c8-1db3-4a35-8be5-b99098e1e178",
+            "copied_from_pointer": {
+              "id": "a7a236d6-6825-40ea-a45b-dc03386ceb67",
+              "table": "block",
+              "spaceId": "9d79b8b1-c78c-4b70-aa4f-b60eb94dad40"
+            },
+            "page_cover_position": 0.4015
+          },
+          "created_by": "7c74a801-7cb5-4914-bbbe-2b18cd1ced76",
+          "created_time": 1622171658558,
+          "last_edited_by": "7c74a801-7cb5-4914-bbbe-2b18cd1ced76",
+          "last_edited_time": 1622171658558,
+          "parent_id": "1f252dda-53a7-4b5c-901e-4150045cd327",
+          "parent_table": "block",
+          "alive": true,
+          "copied_from": "a7a236d6-6825-40ea-a45b-dc03386ceb67",
+          "file_ids": [
+            "19bd1a17-6c43-420d-b6ae-df4d6952ac59"
+          ],
+          "created_by_table": "notion_user",
+          "created_by_id": "8eeadc92-3ea3-4dc6-872e-600852c43748",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "ee4ce2c8-1db3-4a35-8be5-b99098e1e178",
+          "space_id": "17498a14-6060-4ede-b2e8-fa4ffd537c49"
+        }
+      }
+    },
+    "space": {
+    }
+  },
+  "cursor": {
+    "stack": [
+      [
+        {
+          "table": "block",
+          "id": "1f252dda-53a7-4b5c-901e-4150045cd327",
+          "index": 30
+        }
+      ],
+      [
+        {
+          "table": "block",
+          "id": "0e9bcbb6-20f4-4499-bf31-dde9deb0dd79",
+          "index": 0
+        }
+      ]
+    ]
+  }
+}

@@ -1,0 +1,1083 @@
+{
+  "refineSearch": {
+    "status": 200,
+    "hits": 20,
+    "totalHits": 3033,
+    "data": {
+      "jobs": [
+        {
+          "country": "United States",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Principal Software Engineer",
+          "multi_location": [
+            "Atlanta, Georgia, United States"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Atlanta, Georgia, United States"
+            }
+          ],
+          "jobSeqNo": "929186",
+          "postedDate": "2020-11-04T19:51:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "The SharePoint Workplace Experiences (WEX) team is excited to grow a new team in the Atlanta Microsoft Technology Center. We are looking for a talented engineering leader to be a senior architect and",
+          "dateCreated": "2020-11-04T19:53:45.501000",
+          "state": "Georgia",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "929186",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Atlanta, Georgia, United States",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "Canada",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Senior Software Engineer",
+          "multi_location": [
+            "Vancouver, British Columbia, Canada"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Vancouver, British Columbia, Canada"
+            }
+          ],
+          "jobSeqNo": "901908",
+          "postedDate": "2020-10-23T03:43:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "We are seeking an experienced Software Engineer with a passion for enabling other developers, automating processes and driving robust pipelines to join the WebXT Engineering Systems team. This is a",
+          "dateCreated": "2020-11-04T22:27:22.092000",
+          "state": "British Columbia",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "901908",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Vancouver, British Columbia, Canada",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "China",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Software Development Engineer - Data platform",
+          "multi_location": [
+            "Suzhou, Jiangsu, China"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Suzhou, Jiangsu, China"
+            }
+          ],
+          "jobSeqNo": "929677",
+          "postedDate": "2020-11-17T04:19:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "Software Development Engineer II - SharePoint Data Platform OneDrive is Microsoft&rsquo;s solution for cloud file storage - the one place for all your important documents, files and folders, photos",
+          "dateCreated": "2020-11-17T04:20:45.910000",
+          "state": "Jiangsu",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "929677",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Suzhou, Jiangsu, China",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "India",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Software Engineer II",
+          "multi_location": [
+            "Bangalore, Karnataka, India"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Bangalore, Karnataka, India"
+            }
+          ],
+          "jobSeqNo": "935470",
+          "postedDate": "2020-11-17T06:51:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "Office is one of the biggest platforms on the planet, we are looking for engineers who are passionate about ensuring that our users enjoy and rely on Office. This requires great strategic and creative",
+          "dateCreated": "2020-11-17T06:54:23.215000",
+          "state": "Karnataka",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "935470",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Bangalore, Karnataka, India",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "United States",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Software Engineer II",
+          "multi_location": [
+            "Redmond, Washington, United States"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Redmond, Washington, United States"
+            }
+          ],
+          "jobSeqNo": "936574",
+          "postedDate": "2020-12-02T02:27:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "Are you interested in helping deliver a secure product &amp; services that target at a multi-billion unit market? Thousands of businesses are undergoing a digital transformation to connect MCU based",
+          "dateCreated": "2020-12-02T10:30:20.274000",
+          "state": "Washington",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "936574",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Redmond, Washington, United States",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "United States",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Software Engineer II",
+          "multi_location": [
+            "Redmond, Washington, United States"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Redmond, Washington, United States"
+            }
+          ],
+          "jobSeqNo": "945720",
+          "postedDate": "2020-12-11T01:53:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "Want to get in at the very beginning of a new effort? Want to work on something important to Microsoft? Want to empower hundreds of millions of people to do more with Microsoft 365?   Our team is",
+          "dateCreated": "2020-12-11T01:55:15.366000",
+          "state": "Washington",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "945720",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Redmond, Washington, United States",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "United States",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "SENIOR SOFTWARE ENGINEER",
+          "multi_location": [
+            "Redmond, Washington, United States"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Redmond, Washington, United States"
+            }
+          ],
+          "jobSeqNo": "947236",
+          "postedDate": "2020-12-14T18:39:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "We are facing unprecedented growth of Power BI customer base, the complexities of the workloads, continued global expansion, as well as the opportunities and challenges provided by Azure Government",
+          "dateCreated": "2020-12-14T18:48:47.044000",
+          "state": "Washington",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "947236",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Redmond, Washington, United States",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "Canada",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Principal Software Developer",
+          "multi_location": [
+            "Vancouver, British Columbia, Canada"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Vancouver, British Columbia, Canada"
+            }
+          ],
+          "jobSeqNo": "953636",
+          "postedDate": "2020-12-18T23:45:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "Microsoft Teams is core to Microsoft's vision of intelligent communications providing a productivity pane for the modern workplace. We are the hub for teamwork and productivity for 115M daily users,",
+          "dateCreated": "2020-12-18T23:50:48.882000",
+          "state": "British Columbia",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "953636",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Vancouver, British Columbia, Canada",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "China",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Software Development Engineer 2",
+          "multi_location": [
+            "Suzhou, Jiangsu, China"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Suzhou, Jiangsu, China"
+            }
+          ],
+          "jobSeqNo": "952337",
+          "postedDate": "2020-12-21T03:29:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "Do you want to be one who designs, develops and maintains user interfaces that reach millions of Bing users every day across the world? Multimedia Video Experience team is entrusted to provide a",
+          "dateCreated": "2020-12-21T03:31:44.097000",
+          "state": "Jiangsu",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "952337",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Suzhou, Jiangsu, China",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "India",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Principal Software Engineer – Microsoft Edge Browser",
+          "multi_location": [
+            "Hyderabad, Telangana, India"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Hyderabad, Telangana, India"
+            }
+          ],
+          "jobSeqNo": "949667",
+          "postedDate": "2020-12-30T03:22:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "Principal Software Engineer &ndash; Microsoft Edge Browser  Microsoft Edge declared a while back that it will be making the web better through more open source collaboration while Edge promises to",
+          "dateCreated": "2020-12-30T03:24:14.946000",
+          "state": "Telangana",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "949667",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Hyderabad, Telangana, India",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "United States",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": " Software Engineer – Azure Space and Spectrum",
+          "multi_location": [
+            "Redmond, Washington, United States"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Redmond, Washington, United States"
+            }
+          ],
+          "jobSeqNo": "1034533",
+          "postedDate": "2021-04-23T06:20:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "Are you interested in developing cutting-edge technology, being part of a collaborative and diverse team, and advancing critical customer missions in the Space Industry?   Do you have experience as",
+          "dateCreated": "2021-04-23T06:23:48.790000",
+          "state": "Washington",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "1034533",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Redmond, Washington, United States",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "China",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Software Engineer 2",
+          "multi_location": [
+            "Beijing, Beijing, China"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Beijing, Beijing, China"
+            }
+          ],
+          "jobSeqNo": "1033188",
+          "postedDate": "2021-04-23T16:59:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "The Microsoft map and geospatial team is one of the very few teams in the whole world that has the complete world wide geospatial data, and has the expertise on modeling, descripting, calculating and",
+          "dateCreated": "2021-04-23T17:05:02.300000",
+          "state": "Beijing",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "1033188",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Beijing, Beijing, China",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "United States",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Senior Software Development Engineer",
+          "multi_location": [
+            "Redmond, Washington, United States"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Redmond, Washington, United States"
+            }
+          ],
+          "jobSeqNo": "1033673",
+          "postedDate": "2021-04-23T18:35:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "343 Industries, the studio developing games and experiences in the Halo universe, is looking for a Senior Software Engineer to join our team. In this role you will partner with various teams within",
+          "dateCreated": "2021-04-23T18:40:49.063000",
+          "state": "Washington",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "1033673",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Redmond, Washington, United States",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "United States",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Software Engineer II",
+          "multi_location": [
+            "Atlanta, Georgia, United States"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Atlanta, Georgia, United States"
+            }
+          ],
+          "jobSeqNo": "1033650",
+          "postedDate": "2021-04-23T19:36:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "Microsoft Endpoint Manager (Intune and Configuration Manager) touches 200 million endpoints and users around the world every day. Organizations around the world depend on our management system for",
+          "dateCreated": "2021-04-23T19:37:17.730000",
+          "state": "Georgia",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "1033650",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Atlanta, Georgia, United States",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "China",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Software Development Engineer 2",
+          "multi_location": [
+            "Suzhou, Jiangsu, China"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Suzhou, Jiangsu, China"
+            }
+          ],
+          "jobSeqNo": "1033847",
+          "postedDate": "2021-06-01T07:41:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "Are you interested in building the next state-of-the-art AI infrastructure to fuel Microsoft's rapidly growing multi-billion online advertiser business? Are you passionate about using big data and",
+          "dateCreated": "2021-04-25T13:23:36.377000",
+          "state": "Jiangsu",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "1033847",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Suzhou, Jiangsu, China",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "United States",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Software Engineer 2",
+          "multi_location": [
+            "Redmond, Washington, United States"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Redmond, Washington, United States"
+            }
+          ],
+          "jobSeqNo": "986612",
+          "postedDate": "2021-04-25T19:02:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "Windows operating systems are currently running on the most diverse set of hardware in the world, including enterprise and consumer computers, gaming consoles, factory automation and monitoring",
+          "dateCreated": "2021-04-25T19:02:52.215000",
+          "state": "Washington",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "986612",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Redmond, Washington, United States",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "China",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Software Engineer II _  Azure Purview Team",
+          "multi_location": [
+            "Shanghai, Shanghai, China"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Shanghai, Shanghai, China"
+            }
+          ],
+          "jobSeqNo": "1009480",
+          "postedDate": "2021-05-17T13:03:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "Companies collectively own Exabytes of data across hundreds of billions of streams, files, tables, reports, spreadsheets, VMs, Notebooks, etc. Faced with this deluge of information companies cannot",
+          "dateCreated": "2021-04-26T01:33:18.698000",
+          "state": "Shanghai",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "1009480",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Shanghai, Shanghai, China",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "United Kingdom",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Rendering Engineer",
+          "multi_location": [
+            "Atherstone, Warwickshire, United Kingdom"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Atherstone, Warwickshire, United Kingdom"
+            }
+          ],
+          "jobSeqNo": "1036126",
+          "postedDate": "2021-04-26T15:10:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "OVERVIEW Rare is a one-of-a-kind game studio where we create the kind of games the world doesn't have, games that are uniquely Rare! Working here offers opportunities unlike anywhere else. You'll be",
+          "dateCreated": "2021-04-26T15:10:47.870000",
+          "state": "Warwickshire",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "1036126",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Atherstone, Warwickshire, United Kingdom",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "United States",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Senior Software Engineer",
+          "multi_location": [
+            "Redmond, Washington, United States"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Redmond, Washington, United States"
+            }
+          ],
+          "jobSeqNo": "1032938",
+          "postedDate": "2021-04-26T16:34:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "Azure Arc simplifies governance and management of customer hybrid infrastructure and workloads by delivering a consistent multi-cloud and on-premises management platform. Azure Arc enabled Kubernetes",
+          "dateCreated": "2021-04-26T16:35:04.335000",
+          "state": "Washington",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "1032938",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Redmond, Washington, United States",
+          "category": "Engineering",
+          "locationLatlong": null
+        },
+        {
+          "country": "United States",
+          "subCategory": "Software Engineering",
+          "industry": null,
+          "title": "Senior Software Engineer",
+          "multi_location": [
+            "Sunnyvale, California, United States"
+          ],
+          "type": null,
+          "orgFunction": null,
+          "experience": "Experienced professionals",
+          "locale": "en_us",
+          "multi_location_array": [
+            {
+              "location": "Sunnyvale, California, United States"
+            }
+          ],
+          "jobSeqNo": "1031830",
+          "postedDate": "2021-04-26T16:46:00",
+          "searchresults_display": null,
+          "descriptionTeaser": "Any Developer. Any App. Any Platform.   Come join the team responsible for delivering the Playwright family of products -Node.js library to automate Chromium, Firefox and WebKit with a single API- in",
+          "dateCreated": "2021-04-26T16:48:52.456000",
+          "state": "California",
+          "jd_display": null,
+          "reqId": null,
+          "badge": "",
+          "jobId": "1031830",
+          "isMultiLocation": true,
+          "jobVisibility": [
+            "external"
+          ],
+          "mostpopular": 0.0,
+          "location": "Sunnyvale, California, United States",
+          "category": "Engineering",
+          "locationLatlong": null
+        }
+      ],
+      "aggregations": [
+        {
+          "field": "country",
+          "value": {
+            "United States": 1678,
+            "China": 447,
+            "India": 411,
+            "Canada": 155,
+            "Israel": 83,
+            "Mexico": 49,
+            "Costa Rica": 47,
+            "Ireland": 46,
+            "Czech Republic": 34,
+            "Brazil": 31,
+            "Chile": 30,
+            "Colombia": 24,
+            "United Kingdom": 22,
+            "Estonia": 20,
+            "Argentina": 15,
+            "Taiwan": 15,
+            "Puerto Rico": 14,
+            "Australia": 10,
+            "Spain": 10,
+            "Kenya": 8,
+            "Norway": 8,
+            "Serbia": 7,
+            "Egypt": 6,
+            "Germany": 5,
+            "Romania": 5,
+            "France": 3,
+            "Japan": 3,
+            "Denmark": 2,
+            "Greece": 2,
+            "Peru": 2,
+            "Singapore": 2,
+            "Switzerland": 2,
+            "Italy": 1,
+            "Nigeria": 1,
+            "Vietnam": 1
+          }
+        },
+        {
+          "field": "subCategory",
+          "value": {
+            "Software Engineering": 3033,
+            "Program Management": 1190,
+            "Data & Applied Sciences": 215,
+            "Design": 182,
+            "Service Engineering": 157,
+            "Site Reliability Engineering": 66,
+            "Software Development": 62,
+            "Art": 30,
+            "Content Publishing": 28,
+            "Design Research": 26,
+            "Hardware Engineering": 25,
+            "Cloud Network Engineering": 13,
+            "Researcher": 10,
+            "Silicon Engineering": 10,
+            "Game Design": 8,
+            "Unassigned": 6,
+            "Engineering General Management": 5,
+            "Electrical Engineering": 4,
+            "IT Operations Program Management": 4,
+            "IT Service Engineering": 4,
+            "IT Software Development Engineering": 4,
+            "Hardware Engineering Program Management": 3,
+            "Reliability Engineering": 3,
+            "Research SDE": 3,
+            "Support Engineering": 3,
+            "Audio": 2,
+            "Business Operations & Program Management": 2,
+            "Factory Management Engineering": 2,
+            "Mechanical Engineering": 2,
+            "Optical Engineering": 2,
+            "Business Development": 1,
+            "Delivery Data Science": 1,
+            "IT Service Operations": 1,
+            "IT Solution Management": 1,
+            "Merger & Acquisition Integration": 1,
+            "Product Planning": 1,
+            "SDET": 1,
+            "Technical Delivery": 1
+          }
+        },
+        {
+          "field": "educationLevel",
+          "value": {
+            "Bachelors": 260,
+            "None": 185,
+            "Secondary/High School": 6,
+            "Doctorate": 3,
+            "MBA": 1
+          }
+        },
+        {
+          "field": "employmentType",
+          "value": {
+            "Full-Time": 3015,
+            "Internship": 15,
+            "Part-Time": 3
+          }
+        },
+        {
+          "field": "city",
+          "value": {
+            "Redmond": 1133,
+            "Suzhou": 266,
+            "Atlanta": 263,
+            "Hyderabad": 253,
+            "Bellevue": 191,
+            "Other": 161,
+            "Vancouver": 155,
+            "Bangalore": 130,
+            "Shanghai": 102,
+            "Beijing": 87,
+            "Reston": 72,
+            "Herzliya": 62,
+            "Austin": 60,
+            "Charlotte": 52,
+            "Sunnyvale": 49,
+            "Mountain View": 47,
+            "Dublin": 46,
+            "New York": 41,
+            "Noida": 32,
+            "Prague": 32,
+            "Elkridge": 26,
+            "Chicago": 25,
+            "Dallas": 23,
+            "Houston": 23,
+            "Mexico City": 23,
+            "San Francisco": 23,
+            "San Jose": 20,
+            "Tallinn": 20,
+            "Cambridge": 18,
+            "Raleigh": 18,
+            "Taipei": 15,
+            "Haifa": 13,
+            "Washington D.C.": 13,
+            "Minneapolis": 12,
+            "Tel Aviv": 12,
+            "Monterrey": 11,
+            "Seattle": 10,
+            "Barcelona": 9,
+            "Guadalajara": 9,
+            "Los Angeles": 9,
+            "Santiago": 9,
+            "São Paulo": 9,
+            "Bogota": 8,
+            "Boston": 8,
+            "Nairobi": 8,
+            "Portland": 8,
+            "Belgrade": 7,
+            "Sydney": 7,
+            "Atherstone": 6,
+            "Cairo": 6,
+            "London": 6,
+            "Medellín": 6,
+            "Oslo": 6,
+            "Pittsburgh": 6,
+            "Reading": 6,
+            "Santa Monica": 6,
+            "Acton": 5,
+            "Bucharest": 5,
+            "Rio de Janeiro": 5,
+            "Guaynabo": 4,
+            "Issaquah": 4,
+            "Miami": 4,
+            "Munich": 4,
+            "Stuttgart": 4,
+            "Berlin": 3,
+            "Boulder": 3,
+            "Buenos Aires": 3,
+            "Canberra": 3,
+            "Cologne": 3,
+            "Iasi": 3,
+            "Melbourne": 3,
+            "Nazareth": 3,
+            "Phoenix": 3,
+            "Querétaro City": 3,
+            "Tokyo": 3,
+            "Trondheim": 3,
+            "Walldorf": 3,
+            "Athens": 2,
+            "Bad Homburg": 2,
+            "Belo Horizonte": 2,
+            "Brasilia": 2,
+            "Edinburgh": 2,
+            "Hamburg": 2,
+            "Humacao": 2,
+            "Irvine": 2,
+            "Issy Les Moulineaux": 2,
+            "Philadelphia": 2,
+            "Puebla": 2,
+            "Recife": 2,
+            "San Juan": 2,
+            "Tromso": 2,
+            "Zürich": 2,
+            "Aliso Viejo": 1,
+            "Berkeley": 1,
+            "Calgary": 1,
+            "Cali": 1,
+            "Capital Federal": 1,
+            "Detroit": 1,
+            "Frankfurt": 1,
+            "Greater Toronto": 1,
+            "Hanoi": 1,
+            "Huntington Station": 1,
+            "Lagos": 1,
+            "Leon": 1,
+            "Macaé": 1,
+            "Madison": 1,
+            "Microsoft Development Center Copenhagen": 1,
+            "Mississauga": 1,
+            "Mumbai": 1,
+            "Palo Alto": 1,
+            "Paris": 1,
+            "Prague (CEE HQ)": 1,
+            "San Diego": 1,
+            "Singapore": 1,
+            "Tuxtla Gutierrez": 1,
+            "Winnipeg": 1
+          }
+        },
+        {
+          "field": "state",
+          "value": {
+            "Washington": 1327,
+            "Jiangsu": 266,
+            "Georgia": 263,
+            "Telangana": 253,
+            "Other": 172,
+            "British Columbia": 155,
+            "Karnataka": 130,
+            "California": 111,
+            "Shanghai": 102,
+            "Beijing": 87,
+            "Texas": 84,
+            "Tel Aviv": 72,
+            "Virginia": 72,
+            "North Carolina": 70,
+            "Dublin": 46,
+            "New York": 42,
+            "Prague": 33,
+            "Uttar Pradesh": 32,
+            "Massachusetts": 27,
+            "Maryland": 26,
+            "Illinois": 25,
+            "México": 23,
+            "Harjumaa": 20,
+            "San José": 15,
+            "Taipei City": 15,
+            "District of Columbia": 13,
+            "Haifa": 13,
+            "Minnesota": 12,
+            "Nuevo León": 11,
+            "Barcelona": 9,
+            "Jalisco": 9,
+            "Santiago": 9,
+            "São Paulo": 9,
+            "Distrito Capital": 8,
+            "Nairobi City": 8,
+            "Oregon": 8,
+            "Pennsylvania": 8,
+            "Belgrade": 7,
+            "New South Wales": 7,
+            "Antioquia": 6,
+            "Berkshire": 6,
+            "Cairo": 6,
+            "Oslo": 6,
+            "Rio de Janeiro": 6,
+            "Warwickshire": 6,
+            "Bucharest": 5,
+            "Baden-Württemberg": 4,
+            "Bavaria": 4,
+            "Buenos Aires": 4,
+            "Florida": 4,
+            "Arizona": 3,
+            "Australian Capital Territory": 3,
+            "Berlin": 3,
+            "Cambridgeshire": 3,
+            "Colorado": 3,
+            "Hessen": 3,
+            "Iasi": 3,
+            "North Rhine-Westphalia": 3,
+            "Northern": 3,
+            "Querétaro": 3,
+            "Sør-Trøndelag": 3,
+            "Tokyo-to": 3,
+            "Victoria": 3,
+            "Attica": 2,
+            "Distrito Federal": 2,
+            "Hamburg": 2,
+            "Hauts-de-Seine": 2,
+            "Midlothian": 2,
+            "Minas Gerais": 2,
+            "Ontario": 2,
+            "Pernambuco": 2,
+            "Puebla": 2,
+            "Troms": 2,
+            "Zürich": 2,
+            "Alberta": 1,
+            "Capital Region": 1,
+            "Chiapas": 1,
+            "Guanajuato": 1,
+            "Ha Noi - Capital": 1,
+            "Lagos": 1,
+            "Maharashtra": 1,
+            "Manitoba": 1,
+            "Michigan": 1,
+            "Paris": 1,
+            "Valle del Cauca": 1,
+            "Wisconsin": 1,
+            "Not Specified": 38
+          }
+        },
+        {
+          "field": "category",
+          "value": {
+            "Engineering": 3033,
+            "Business Programs & Operations": 1,
+            "Data Center": 1,
+            "Evangelism": 1,
+            "Research": 1
+          }
+        },
+        {
+          "field": "experience",
+          "value": {
+            "Experienced professionals": 2996,
+            "Students and graduates": 37
+          }
+        },
+        {
+          "field": "requisitionRoleType",
+          "value": {
+            "Individual Contributor": 2661,
+            "People Manager": 372
+          }
+        }
+      ],
+      "ui_selections": {
+        "subCategory": [
+          "Software Engineering"
+        ],
+        "category": [
+          "Engineering"
+        ]
+      },
+      "searchConfig": {
+        "mostpopular": true
+      }
+    },
+    "eid": "612adb3d89cdaf7d50191aa0"
+  }
+}

@@ -1,0 +1,13 @@
+
+__pycache__/
+*.py[cod]
+
+kiwizzle-scraper/scraper.log*
+kiwizzle-scraper/scraper-mail-password
+
+### IntelliJ IDEA ###
+.idea/
+.idea
+
+
+

@@ -1,0 +1,705 @@
+{
+  "searchResults": [
+    {
+      "id": "REQ-200271376",
+      "jobSummary": "Apple’s Applied Machine Learning team has built systems for a number of large-scale data science applications. We work on many high-impact projects that serve various Apple lines of business. We use the latest in open source technology and as committers on some of these projects, we are pushing the envelope. Working with multiple lines of business, we manage many streams of Apple-scale data. We bring it all together and extract the value. We do all this with an exceptional group of software engineers, data scientists, SRE/devops engineers and managers.",
+      "locations": [
+        {
+          "city": "",
+          "stateProvince": "",
+          "countryName": "United States",
+          "metro": "",
+          "region": "",
+          "name": "Santa Clara Valley (Cupertino)",
+          "countryID": "country-USA",
+          "level": 5
+        }
+      ],
+      "positionId": "200271376",
+      "postingDate": "Aug 13, 2021",
+      "postingTitle": "Senior DevOps Engineer - Hadoop",
+      "localeInfo": {
+        "languageCode": "en_US",
+        "dateFormat": "MMM D, YYYY",
+        "defaultLocaleCode": "en-us"
+      },
+      "postDateInGMT": "2021-08-13T17:07:52.334Z",
+      "transformedPostingTitle": "senior-devops-engineer-hadoop",
+      "reqId": "REQ-200271376",
+      "managedPipelineRole": false,
+      "standardWeeklyHours": 40,
+      "team": {
+        "teamName": "Software and Services",
+        "teamID": "teamsAndSubTeams-SFTWR",
+        "teamCode": "SFTWR"
+      },
+      "homeOffice": false
+    },
+    {
+      "id": "REQ-200254923",
+      "jobSummary": "Do you think Computer Vision and Machine Learning can change the world? Do you think it can transform the way millions of people capture, discover and share the most special moments of their lives? We truly believe it can, and we are looking for an enthusiastic engineer who can lead the software development necessary to make these exciting technologies available and drive widespread adoption.\n\nThe Vision Framework team within the System Intelligence and Machine Learning (SIML) group, as part of the ISE organization in Apple, is responsible for imaging, computer vision and machine learning for Apple's image and video products. This team provides the building blocks for a diverse array of technologies, including new exciting features such as Live Text and Photos Memories on macOS and iOS. The group combines research and development in a fast-paced environment. We are looking for an experienced software engineer. The position involves integrating advanced computer vision technology into products that improve the daily experience for millions of users.",
+      "locations": [
+        {
+          "city": "",
+          "stateProvince": "",
+          "countryName": "United States",
+          "metro": "",
+          "region": "",
+          "name": "Santa Clara Valley (Cupertino)",
+          "countryID": "country-USA",
+          "level": 5
+        }
+      ],
+      "positionId": "200254923",
+      "postingDate": "Jun 21, 2021",
+      "postingTitle": "ISE, SIML - Vision Framework Lead",
+      "localeInfo": {
+        "languageCode": "en_US",
+        "dateFormat": "MMM D, YYYY",
+        "defaultLocaleCode": "en-us"
+      },
+      "postDateInGMT": "2021-06-21T22:46:23.777Z",
+      "transformedPostingTitle": "ise-siml-vision-framework-lead",
+      "reqId": "REQ-200254923",
+      "managedPipelineRole": false,
+      "standardWeeklyHours": 40,
+      "team": {
+        "teamName": "Software and Services",
+        "teamID": "teamsAndSubTeams-SFTWR",
+        "teamCode": "SFTWR"
+      },
+      "homeOffice": false
+    },
+    {
+      "id": "REQ-200262522",
+      "jobSummary": "At Apple, we work every day to create products that enrich people’s lives. Our Ad Platforms team makes it possible for people around the world to easily access informative and imaginative content on their devices while helping publishers and developers promote and monetize their work. Our technology and services power advertising in Apple News and App Store. Our platforms are highly-performant, deployed at scale, and setting new standards for enabling effective advertising while protecting user privacy.\n\nWe are looking for an experienced Ad Certification and QA engineer to help us ensure the highest standards of advertising across the platform. We're looking for critical thinkers who would like to play a key role in a fast-paced environment. This position requires a self-motivated individual with strong technical and communication skills to handle responsibilities which would include ad content review, design and implementation of policies, test plans and ad review processes.",
+      "locations": [
+        {
+          "city": "",
+          "stateProvince": "",
+          "countryName": "China",
+          "metro": "",
+          "region": "",
+          "name": "Beijing",
+          "countryID": "country-CHN",
+          "level": 7
+        }
+      ],
+      "positionId": "200262522",
+      "postingDate": "Jul 7, 2021",
+      "postingTitle": "Content Risk & Compliance Specialist, Ad Platforms",
+      "localeInfo": {
+        "languageCode": "en_US",
+        "dateFormat": "MMM D, YYYY",
+        "defaultLocaleCode": "en-us"
+      },
+      "postDateInGMT": "2021-07-07T00:28:19.482Z",
+      "transformedPostingTitle": "content-risk-compliance-specialist-ad-platforms",
+      "reqId": "REQ-200262522",
+      "managedPipelineRole": false,
+      "standardWeeklyHours": 40,
+      "team": {
+        "teamName": "Software and Services",
+        "teamID": "teamsAndSubTeams-SFTWR",
+        "teamCode": "SFTWR"
+      },
+      "homeOffice": false
+    },
+    {
+      "id": "REQ-200251330",
+      "jobSummary": "Apple’s GPU Software team provides the graphics software foundation across all of Apple's innovative products, including iPhone, iPad, Apple TV, Mac, and Apple Watch. Our responsibilities encompass the frameworks, developer tools, and device drivers for the GPU and Display on all Apple hardware.\n\nJoin our team and you’ll collaborate with engineers across Apple to develop tools and APIs to enable developers to develop cutting edge applications for graphics, machine learning, and compute.",
+      "locations": [
+        {
+          "city": "",
+          "stateProvince": "",
+          "countryName": "United States",
+          "metro": "",
+          "region": "",
+          "name": "Santa Clara Valley (Cupertino)",
+          "countryID": "country-USA",
+          "level": 5
+        }
+      ],
+      "positionId": "200251330",
+      "postingDate": "Jun 28, 2021",
+      "postingTitle": "macOS GPU Performance Engineer",
+      "localeInfo": {
+        "languageCode": "en_US",
+        "dateFormat": "MMM D, YYYY",
+        "defaultLocaleCode": "en-us"
+      },
+      "postDateInGMT": "2021-06-28T17:36:09.467Z",
+      "transformedPostingTitle": "macos-gpu-performance-engineer",
+      "reqId": "REQ-200251330",
+      "managedPipelineRole": false,
+      "standardWeeklyHours": 40,
+      "team": {
+        "teamName": "Software and Services",
+        "teamID": "teamsAndSubTeams-SFTWR",
+        "teamCode": "SFTWR"
+      },
+      "homeOffice": false
+    },
+    {
+      "id": "REQ-200274610",
+      "jobSummary": "Play a part in the next revolution in human-computer interaction. Contribute to a product that is redefining mobile computing. Create groundbreaking technology for mobile devices, spoken language, big data, and artificial intelligence systems. And work with the people who created the intelligent assistant that helps millions of people get things done — just by asking. Join the Siri AI/ML team at Apple.",
+      "locations": [
+        {
+          "city": "",
+          "stateProvince": "",
+          "countryName": "United States",
+          "metro": "",
+          "region": "",
+          "name": "Seattle",
+          "countryID": "country-USA",
+          "level": 5
+        }
+      ],
+      "positionId": "200274610",
+      "postingDate": "Aug 13, 2021",
+      "postingTitle": "AI/ML - Sr. Software Engineer, Siri Understanding (Private Learning)",
+      "localeInfo": {
+        "languageCode": "en_US",
+        "dateFormat": "MMM D, YYYY",
+        "defaultLocaleCode": "en-us"
+      },
+      "postDateInGMT": "2021-08-13T23:38:44.862Z",
+      "transformedPostingTitle": "ai-ml-sr-software-engineer-siri-understanding-private-learning",
+      "reqId": "REQ-200274610",
+      "managedPipelineRole": false,
+      "standardWeeklyHours": 40,
+      "team": {
+        "teamName": "Machine Learning and AI",
+        "teamID": "teamsAndSubTeams-MLAI",
+        "teamCode": "MLAI"
+      },
+      "homeOffice": false
+    },
+    {
+      "id": "REQ-200266919",
+      "jobSummary": "Imagine what you could do here. At Apple, great ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.\nAt Apple, we deliver great customer experiences and a top-notch customer support and service that delights our customers and builds the legendary customer loyalty Apple is known for. Apple’s reputation and our customers’ trust depend on our commitment to diligently and consistently safeguard personal information. Apple takes privacy very seriously and strongly believes that it’s a fundamental human right. We follow the strictest procedures for protecting customer and employee personal information. As part of this team, you will lead and work with cross functional teams to build Apple-class solutions that enables us to ensure privacy and implement compliance guidelines across our teams and software solutions.",
+      "locations": [
+        {
+          "city": "",
+          "stateProvince": "",
+          "countryName": "United States",
+          "metro": "",
+          "region": "",
+          "name": "Santa Clara Valley (Cupertino)",
+          "countryID": "country-USA",
+          "level": 5
+        }
+      ],
+      "positionId": "200266919",
+      "postingDate": "Jul 20, 2021",
+      "postingTitle": "Engineering Project Manager - Compliance",
+      "localeInfo": {
+        "languageCode": "en_US",
+        "dateFormat": "MMM D, YYYY",
+        "defaultLocaleCode": "en-us"
+      },
+      "postDateInGMT": "2021-07-20T22:33:00.629Z",
+      "transformedPostingTitle": "engineering-project-manager-compliance",
+      "reqId": "REQ-200266919",
+      "managedPipelineRole": false,
+      "standardWeeklyHours": 40,
+      "team": {
+        "teamName": "Software and Services",
+        "teamID": "teamsAndSubTeams-SFTWR",
+        "teamCode": "SFTWR"
+      },
+      "homeOffice": false
+    },
+    {
+      "id": "REQ-200269614",
+      "jobSummary": "Apple is well known for its innovative products and its pure dedication to customer-oriented features that “just work”. Behind its success, Apple amasses top engineering talents to develop world-class hardware and software solutions that work amazingly well together.\n\nAt the heart of Apple’s Software organization, the Core OS team is responsible for the design and development of core technologies that are deployed across all Apple product areas including the iPhone, iPad, Watch, MacBook, iMac, and Apple TV (Yes, that’s pretty much everything!). One such fast growing technology is Sensor, which adds the notion of senses to an array of already highly intelligent devices. We are looking for top embedded software engineers in this area.",
+      "locations": [
+        {
+          "city": "",
+          "stateProvince": "",
+          "countryName": "Czech Republic",
+          "metro": "",
+          "region": "",
+          "name": "Prague",
+          "countryID": "country-CZE",
+          "level": 5
+        }
+      ],
+      "positionId": "200269614",
+      "postingDate": "Jul 27, 2021",
+      "postingTitle": "Embedded Sensor Software Engineer",
+      "localeInfo": {
+        "languageCode": "en_US",
+        "dateFormat": "MMM D, YYYY",
+        "defaultLocaleCode": "en-us"
+      },
+      "postDateInGMT": "2021-07-27T15:01:30.823Z",
+      "transformedPostingTitle": "embedded-sensor-software-engineer",
+      "reqId": "REQ-200269614",
+      "managedPipelineRole": false,
+      "standardWeeklyHours": 40,
+      "team": {
+        "teamName": "Software and Services",
+        "teamID": "teamsAndSubTeams-SFTWR",
+        "teamCode": "SFTWR"
+      },
+      "homeOffice": false
+    },
+    {
+      "id": "PIPE-200207147",
+      "jobSummary": "The Adaptive Devices and Personalization Technologies (ADPT) team within AIML is looking for an exceptional software engineer who is passionate about developing, driving and deploying innovative platforms, technologies and features to millions of Apple users. As part of an elite team, you will work across the full stack in the Apple ecosystem on next generation products and incubations. We are looking for ambitious, strongly technical and creative team players. Candidates should be adept at driving clarity through uncertainty, taking calculated risks, and failing fast.",
+      "locations": [
+        {
+          "city": "",
+          "stateProvince": "",
+          "countryName": "United States",
+          "metro": "",
+          "region": "",
+          "name": "Santa Clara Valley (Cupertino)",
+          "countryID": "country-USA",
+          "level": 5
+        }
+      ],
+      "positionId": "200207147",
+      "postingDate": "Nov 12, 2020",
+      "postingTitle": "AI/ML - Software Engineer, ADPT",
+      "localeInfo": {
+        "languageCode": "en_US",
+        "dateFormat": "MMM D, YYYY",
+        "defaultLocaleCode": "en-us"
+      },
+      "postDateInGMT": "2020-11-12T23:17:48.933Z",
+      "transformedPostingTitle": "ai-ml-software-engineer-adpt",
+      "reqId": "PIPE-200207147",
+      "managedPipelineRole": false,
+      "standardWeeklyHours": 40,
+      "team": {
+        "teamName": "Software and Services",
+        "teamID": "teamsAndSubTeams-SFTWR",
+        "teamCode": "SFTWR"
+      },
+      "homeOffice": false
+    },
+    {
+      "id": "REQ-200264687",
+      "jobSummary": "We help Apple build the next generation of the world’s most advanced mobile operating system! The iOS System Experience team is looking for a highly motivated software engineer to manage software integration across all of Apple’s platforms. You will provide a key function in shaping the success of Apple’s products, helping deliver exciting new features and maintain quality.",
+      "locations": [
+        {
+          "city": "",
+          "stateProvince": "",
+          "countryName": "United States",
+          "metro": "",
+          "region": "",
+          "name": "Santa Clara Valley (Cupertino)",
+          "countryID": "country-USA",
+          "level": 5
+        }
+      ],
+      "positionId": "200264687",
+      "postingDate": "Jul 24, 2021",
+      "postingTitle": "ISE, System Experience - Software Tools and Automation Eng.",
+      "localeInfo": {
+        "languageCode": "en_US",
+        "dateFormat": "MMM D, YYYY",
+        "defaultLocaleCode": "en-us"
+      },
+      "postDateInGMT": "2021-07-24T01:38:13.170Z",
+      "transformedPostingTitle": "ise-system-experience-software-tools-and-automation-eng",
+      "reqId": "REQ-200264687",
+      "managedPipelineRole": false,
+      "standardWeeklyHours": 40,
+      "team": {
+        "teamName": "Software and Services",
+        "teamID": "teamsAndSubTeams-SFTWR",
+        "teamCode": "SFTWR"
+      },
+      "homeOffice": false
+    },
+    {
+      "id": "REQ-200220546",
+      "jobSummary": "Play a part in the next revolution in human-computer interaction. Contribute to a product that is redefining mobile and desktop computing. Create groundbreaking technology for large scale systems, spoken language, big data, and artificial intelligence. And work with the people who created the intelligent assistant that helps millions of people get things done — just by asking. The vision for the Siri Performance team is to empower Siri organization by developing innovative tools infrastructure, automated data analysis and visualization to improve Siri performance and reliability for our customers. Join us, and impact hundreds of millions of customers across a plethora of Apple of devices!",
+      "locations": [
+        {
+          "city": "",
+          "stateProvince": "",
+          "countryName": "United States",
+          "metro": "",
+          "region": "",
+          "name": "Santa Clara Valley (Cupertino)",
+          "countryID": "country-USA",
+          "level": 5
+        }
+      ],
+      "positionId": "200220546",
+      "postingDate": "Aug 6, 2021",
+      "postingTitle": "AI/ML- Tools Engineer-  Performance,  Siri Search,  Knowledge & Platform",
+      "localeInfo": {
+        "languageCode": "en_US",
+        "dateFormat": "MMM D, YYYY",
+        "defaultLocaleCode": "en-us"
+      },
+      "postDateInGMT": "2021-08-06T00:16:48.571Z",
+      "transformedPostingTitle": "ai-ml-tools-engineer-performance-siri-search-knowledge-platform",
+      "reqId": "REQ-200220546",
+      "managedPipelineRole": false,
+      "standardWeeklyHours": 40,
+      "team": {
+        "teamName": "Software and Services",
+        "teamID": "teamsAndSubTeams-SFTWR",
+        "teamCode": "SFTWR"
+      },
+      "homeOffice": false
+    },
+    {
+      "id": "PIPE-200000650",
+      "jobSummary": "The Technology Development Group is working on exciting new technologies. We are looking for a driven and dedicated performance engineer. This team is building the core foundational platform for some of Apple's most advanced technologies including the augmented reality (AR) and virtual reality (VR) support offered in ARKit and Metal. As part of our creative organization, you will have a uniquely rewarding opportunity to craft future products that will delight and inspire millions of people every day.",
+      "locations": [
+        {
+          "city": "",
+          "stateProvince": "",
+          "countryName": "United States",
+          "metro": "",
+          "region": "",
+          "name": "Santa Clara Valley (Cupertino)",
+          "countryID": "country-USA",
+          "level": 5
+        }
+      ],
+      "positionId": "200000650",
+      "postingDate": "Jun 6, 2019",
+      "postingTitle": "Performance Engineer",
+      "localeInfo": {
+        "languageCode": "en_US",
+        "dateFormat": "MMM D, YYYY",
+        "defaultLocaleCode": "en-us"
+      },
+      "postDateInGMT": "2019-06-06T18:22:58.020Z",
+      "transformedPostingTitle": "performance-engineer",
+      "reqId": "PIPE-200000650",
+      "managedPipelineRole": false,
+      "standardWeeklyHours": 40,
+      "team": {
+        "teamName": "Software and Services",
+        "teamID": "teamsAndSubTeams-SFTWR",
+        "teamCode": "SFTWR"
+      },
+      "homeOffice": false
+    },
+    {
+      "id": "PIPE-200084315",
+      "jobSummary": "Apple's Technology Development Group works with advanced technologies, including the augmented reality (AR) platform ARKit and Metal 2, to create ground-breaking new products. Do you want to push the limits of the best Augmented Reality platform in the world? Would you like to help craft Augmented Reality experiences for millions of people? In this position, you will have the opportunity to partner with our extraordinary team of technologists, artists and designers to build new software products that will change the way people experience their own reality!",
+      "locations": [
+        {
+          "city": "",
+          "stateProvince": "",
+          "countryName": "United States",
+          "metro": "",
+          "region": "",
+          "name": "Santa Clara Valley (Cupertino)",
+          "countryID": "country-USA",
+          "level": 5
+        }
+      ],
+      "positionId": "200084315",
+      "postingDate": "Oct 14, 2020",
+      "postingTitle": "Tools Applications Engineer",
+      "localeInfo": {
+        "languageCode": "en_US",
+        "dateFormat": "MMM D, YYYY",
+        "defaultLocaleCode": "en-us"
+      },
+      "postDateInGMT": "2020-10-14T17:09:24.011Z",
+      "transformedPostingTitle": "tools-applications-engineer",
+      "reqId": "PIPE-200084315",
+      "managedPipelineRole": false,
+      "standardWeeklyHours": 40,
+      "team": {
+        "teamName": "Software and Services",
+        "teamID": "teamsAndSubTeams-SFTWR",
+        "teamCode": "SFTWR"
+      },
+      "homeOffice": false
+    },
+    {
+      "id": "PIPE-200189538",
+      "jobSummary": "One of the beautiful things about working at Apple is the connection that every engineer has to the end customer. You will be working through close partnership with multiple teams in the AIML and Siri org. You’ll be helping teams get deeper understanding of how the experiences we’re building—in the home, on the go—are being used, looking at the key areas of performance, reliability and quality. \nYou will be a part of a small, collaborative team of engineers in Siri Experience Infra team responsible for building and standardizing tools, process, code, and best practices across product teams with the aim of improving the quality of all of them holistically. You will be collaborating with engineers in several technical areas who have crafted the entire range of Siri's capabilities. Our team interfaces with all Domains, acts as a liaison between Domains/product teams and platform with the end goal of making it easier for the Siri engineers to release features.\n\nTo succeed in this role, we are looking for a strong programmer and a creative problem solver who thrives in a rapidly changing environment, working across teams and organizations. We value team members who can quickly prototype, iterating all the way to high-quality implementations. We’re having conversations about how to approach projects that would introduce step-change improvements in velocity, experience, performance, and engagement and it’s an incredibly exciting time to be on the team!",
+      "locations": [
+        {
+          "city": "",
+          "stateProvince": "",
+          "countryName": "United States",
+          "metro": "",
+          "region": "",
+          "name": "Seattle",
+          "countryID": "country-USA",
+          "level": 5
+        }
+      ],
+      "positionId": "200189538",
+      "postingDate": "Oct 13, 2020",
+      "postingTitle": "AI/ML - Software Engineer, Siri Experience Infrastructure",
+      "localeInfo": {
+        "languageCode": "en_US",
+        "dateFormat": "MMM D, YYYY",
+        "defaultLocaleCode": "en-us"
+      },
+      "postDateInGMT": "2020-10-13T22:06:47.037Z",
+      "transformedPostingTitle": "ai-ml-software-engineer-siri-experience-infrastructure",
+      "reqId": "PIPE-200189538",
+      "managedPipelineRole": false,
+      "standardWeeklyHours": 40,
+      "team": {
+        "teamName": "Software and Services",
+        "teamID": "teamsAndSubTeams-SFTWR",
+        "teamCode": "SFTWR"
+      },
+      "homeOffice": false
+    },
+    {
+      "id": "PIPE-200209211",
+      "jobSummary": "The people here at Apple don’t just create products — they create the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that inspires the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. Join Apple, and help us leave the world better than we found it.\n\nApple’s Sales organization generates the revenue needed to fuel our ongoing development of products and services. This in turn, enriches the lives of hundreds of millions of people around the world. Our sales team, is in many ways, the face of Apple to our largest customers.\n\nWe are looking for experienced data scientists/machine learning engineers with a passion for using machine learning to transform people's life by innovating on intelligent user experiences to join our Analytics & Optimizations on the Sales Analytics Team in China. As a member of this team, you will use your deep understanding of forecasting, machine learning, and deep learning to take on substantial technical problems.",
+      "locations": [
+        {
+          "city": "",
+          "stateProvince": "",
+          "countryName": "China",
+          "metro": "",
+          "region": "",
+          "name": "Beijing",
+          "countryID": "country-CHN",
+          "level": 5
+        }
+      ],
+      "positionId": "200209211",
+      "postingDate": "Jun 15, 2021",
+      "postingTitle": "Software Engineer - Data Platform",
+      "localeInfo": {
+        "languageCode": "en_US",
+        "dateFormat": "MMM D, YYYY",
+        "defaultLocaleCode": "en-us"
+      },
+      "postDateInGMT": "2021-06-15T08:48:15.693Z",
+      "transformedPostingTitle": "software-engineer-data-platform",
+      "reqId": "PIPE-200209211",
+      "managedPipelineRole": false,
+      "standardWeeklyHours": 40,
+      "team": {
+        "teamName": "Software and Services",
+        "teamID": "teamsAndSubTeams-SFTWR",
+        "teamCode": "SFTWR"
+      },
+      "homeOffice": false
+    },
+    {
+      "id": "PIPE-200266045",
+      "jobSummary": "At Apple, we work every day to create products that enrich people’s lives. Our Advertising Platforms group makes it possible for people around the world to easily access informative and imaginative content on their devices while helping publishers and developers promote and monetize their work. Today, our technology and services power advertising in Search Ads in the App Store and Apple News. Our platforms are highly-performant, deployed at scale, and setting new standards for enabling effective advertising while protecting user privacy.   We are looking for an aspiring and ambitious individual who can thrive in a fast paced agile environment and work at the leading of ML and privacy frameworks. Our group is developing next generation of Ad Tech technology with a strong focus on user privacy and in the process it is redefining the industry. For end-users, we aim to provide high privacy guarantees and for advertisers we want to enable new mechanisms to build effective campaigns. This position involves working on large volumes of data, identifying meaningful data patterns, assuring the integrity and breadth of the data, measuring user, campaign and app performance, and finally analyzing the results of extremely large-scale experiments. The role involves using state of the art language models, collaborative filters and dense representations. In addition, the successful candidate will also apply advanced ML techniques for federated learning where privacy mechanisms are safeguarded at the very onset and delightful relevance experiences are built by applying encryption techniques, on-device segmentation, advanced language models, ranking algorithms by utilizing the best of aggregated server and on-device data.",
+      "locations": [
+        {
+          "city": "",
+          "stateProvince": "",
+          "countryName": "United States",
+          "metro": "",
+          "region": "",
+          "name": "Santa Clara Valley (Cupertino)",
+          "countryID": "country-USA",
+          "level": 5
+        }
+      ],
+      "positionId": "200266045",
+      "postingDate": "Jul 13, 2021",
+      "postingTitle": "Machine Learning Scientist - Ad Platforms",
+      "localeInfo": {
+        "languageCode": "en_US",
+        "dateFormat": "MMM D, YYYY",
+        "defaultLocaleCode": "en-us"
+      },
+      "postDateInGMT": "2021-07-13T01:49:04.514Z",
+      "transformedPostingTitle": "machine-learning-scientist-ad-platforms",
+      "reqId": "PIPE-200266045",
+      "managedPipelineRole": false,
+      "standardWeeklyHours": 40,
+      "team": {
+        "teamName": "Software and Services",
+        "teamID": "teamsAndSubTeams-SFTWR",
+        "teamCode": "SFTWR"
+      },
+      "homeOffice": false
+    },
+    {
+      "id": "PIPE-200244864",
+      "jobSummary": "Help shape the future of how consumers interact with an expanding set of home and personal devices that harness the intelligence of Siri. Our team is focused on creating seamless experiences by demonstrating the full breadth of capabilities and context of our user’s devices to accomplish a wide range of tasks. We are a core team developing the next-generation Siri platform. We develop frameworks and work closely with other Siri engineers and designers to facilitate their adoption to expand cross-device functionality, on-device storage and synchronization strategies, and ambiguous resolution of references with the Apple device ecosystem. Our team cares deeply about our customers and is committed to crafting amazing product experiences for them to enjoy!",
+      "locations": [
+        {
+          "city": "",
+          "stateProvince": "",
+          "countryName": "United States",
+          "metro": "",
+          "region": "",
+          "name": "Seattle",
+          "countryID": "country-USA",
+          "level": 5
+        }
+      ],
+      "positionId": "200244864",
+      "postingDate": "Aug 16, 2021",
+      "postingTitle": "AI/ML - Technical Lead, Siri Memory & Cross-Device",
+      "localeInfo": {
+        "languageCode": "en_US",
+        "dateFormat": "MMM D, YYYY",
+        "defaultLocaleCode": "en-us"
+      },
+      "postDateInGMT": "2021-08-16T20:05:17.455Z",
+      "transformedPostingTitle": "ai-ml-technical-lead-siri-memory-cross-device",
+      "reqId": "PIPE-200244864",
+      "managedPipelineRole": false,
+      "standardWeeklyHours": 40,
+      "team": {
+        "teamName": "Software and Services",
+        "teamID": "teamsAndSubTeams-SFTWR",
+        "teamCode": "SFTWR"
+      },
+      "homeOffice": false
+    },
+    {
+      "id": "PIPE-200275614",
+      "jobSummary": "As a member of the Special Projects Group, you will be part of a team building software for exciting new hardware that will shape the future. We are building applications that will power new functionality in upcoming products both for internal product development workflows and the customer experience. The applications that are internal audience facing will be held to the same standards as the applications we ship to customers.\n\nYou will work in a startup-like environment where products are still being defined and developed, giving you the chance to influence some of the core tools and design choices. You will be part of every stage of development from concept to deployment.\n\nIf you're passionate about the user experience, want to be part of a group that works on very early stage products, have the opportunity to shape them, and relish the opportunity to deliver the next amazing Apple product, we may be the team for you!",
+      "locations": [
+        {
+          "city": "",
+          "stateProvince": "",
+          "countryName": "United States",
+          "metro": "",
+          "region": "",
+          "name": "Santa Clara Valley (Cupertino)",
+          "countryID": "country-USA",
+          "level": 5
+        }
+      ],
+      "positionId": "200275614",
+      "postingDate": "Aug 12, 2021",
+      "postingTitle": "Sr. iOS UI Engineer - SPG",
+      "localeInfo": {
+        "languageCode": "en_US",
+        "dateFormat": "MMM D, YYYY",
+        "defaultLocaleCode": "en-us"
+      },
+      "postDateInGMT": "2021-08-12T18:34:40.203Z",
+      "transformedPostingTitle": "sr-ios-ui-engineer-spg",
+      "reqId": "PIPE-200275614",
+      "managedPipelineRole": false,
+      "standardWeeklyHours": 40,
+      "team": {
+        "teamName": "Software and Services",
+        "teamID": "teamsAndSubTeams-SFTWR",
+        "teamCode": "SFTWR"
+      },
+      "homeOffice": false
+    },
+    {
+      "id": "REQ-200239348",
+      "jobSummary": "The Apple Media Products Engineering team is one of the most exciting examples of Apple’s long-held passion for combining art and technology. These are the people who power the App Store, Apple TV, Apple Music, Apple Podcasts, and Apple Books. And they do it on a massive scale, meeting Apple’s high expectations with high performance to deliver a huge variety of entertainment in over 35 languages to more than 150 countries.\n\nThese engineers build secure, end-to-end solutions. They develop the custom software used to process all the creative work, the tools that providers use to deliver that media, all the server-side systems, and the APIs for many Apple services.\n\nThanks to Apple’s unique integration of hardware, software, and services, engineers here partner to get behind a single unified vision. That vision always includes a deep commitment to strengthening Apple’s privacy policy, one of Apple’s core values. Although services are a bigger part of Apple’s business than ever before, these teams remain small, nimble, and cross-functional, offering greater exposure to the array of opportunities here.",
+      "locations": [
+        {
+          "city": "",
+          "stateProvince": "",
+          "countryName": "United States",
+          "metro": "",
+          "region": "",
+          "name": "New York City",
+          "countryID": "country-USA",
+          "level": 5
+        }
+      ],
+      "positionId": "200239348",
+      "postingDate": "Aug 26, 2021",
+      "postingTitle": "Apple Media Products Engineering - Senior Software Engineer (Agreements)",
+      "localeInfo": {
+        "languageCode": "en_US",
+        "dateFormat": "MMM D, YYYY",
+        "defaultLocaleCode": "en-us"
+      },
+      "postDateInGMT": "2021-08-26T22:35:27.076Z",
+      "transformedPostingTitle": "apple-media-products-engineering-senior-software-engineer-agreements",
+      "reqId": "REQ-200239348",
+      "managedPipelineRole": false,
+      "standardWeeklyHours": 40,
+      "team": {
+        "teamName": "Software and Services",
+        "teamID": "teamsAndSubTeams-SFTWR",
+        "teamCode": "SFTWR"
+      },
+      "homeOffice": false
+    },
+    {
+      "id": "REQ-200228374",
+      "jobSummary": "Apple’s GPU Software team provides the graphics software foundation for all of Apple's innovative products, including iPhone, iPad, Apple TV, Mac, and Watch. Our responsibilities encompass the frameworks, developer tools, and hardware drivers for the GPU and Display devices for all of Apple’s hardware.\n\nMetal provides near-direct access to the graphics processing unit (GPU), enabling you to improve the graphics and compute potential of apps on macOS, iOS, and tvOS. Metal provides a low-overhead architecture with pre-compiled shaders, fine-grained resource control, and multithreading support. The announced versions of Metal 2, 3 and upcoming versions of Metal will bring many new innovations to push the graphics industry forward.",
+      "locations": [
+        {
+          "city": "",
+          "stateProvince": "",
+          "countryName": "United States",
+          "metro": "",
+          "region": "",
+          "name": "Santa Clara Valley (Cupertino)",
+          "countryID": "country-USA",
+          "level": 5
+        }
+      ],
+      "positionId": "200228374",
+      "postingDate": "Apr 6, 2021",
+      "postingTitle": "GPU Driver Engineer – Manager",
+      "localeInfo": {
+        "languageCode": "en_US",
+        "dateFormat": "MMM D, YYYY",
+        "defaultLocaleCode": "en-us"
+      },
+      "postDateInGMT": "2021-04-06T18:59:20.370Z",
+      "transformedPostingTitle": "gpu-driver-engineer-manager",
+      "reqId": "REQ-200228374",
+      "managedPipelineRole": false,
+      "standardWeeklyHours": 40,
+      "team": {
+        "teamName": "Software and Services",
+        "teamID": "teamsAndSubTeams-SFTWR",
+        "teamCode": "SFTWR"
+      },
+      "homeOffice": false
+    },
+    {
+      "id": "REQ-200251547",
+      "jobSummary": "iPhone is the most popular camera in the world, with billions of photos taken every year and video quality suitable for feature film production. The seamless integration of software and hardware has led to features like Live Photos, Multi-Cam, Cinematic Video Stabilization, Apple ProRAW, QuickTake, Triple Camera auto-switching, and Portrait Mode, which deliver magical experiences that surprise and delight our customers!\n\nThe CoreMedia Capture team, in Camera & Photos, is at the heart of the camera capture stack, and provides the camera foundation APIs and underlying real-time multithreaded media pipeline powering clients like iOS’s built-in Camera application, thousands of third-party applications, and even AR-based experiences. We likewise develop the cross-platform API set that powers native macOS, Catalyst, and iPhone camera apps on the Mac. As an engineer working on the CoreMedia Capture team, you'll work developing and extending our concurrent real-time pipeline, working side-by-side with the world-class engineers that built iPhone’s camera to what it is today, and build new great camera capabilities spanning the universe of Apple devices. Whenever you see a “Shot on iPhone” billboard, you see our work; it could be your work too!\n\nCome help make the most popular camera in the world even better. Come make your dent in the universe.",
+      "locations": [
+        {
+          "city": "",
+          "stateProvince": "",
+          "countryName": "United States",
+          "metro": "",
+          "region": "",
+          "name": "Santa Clara Valley (Cupertino)",
+          "countryID": "country-USA",
+          "level": 5
+        }
+      ],
+      "positionId": "200251547",
+      "postingDate": "May 31, 2021",
+      "postingTitle": "Camera Framework Engineer",
+      "localeInfo": {
+        "languageCode": "en_US",
+        "dateFormat": "MMM D, YYYY",
+        "defaultLocaleCode": "en-us"
+      },
+      "postDateInGMT": "2021-05-31T21:59:07.702Z",
+      "transformedPostingTitle": "camera-framework-engineer",
+      "reqId": "REQ-200251547",
+      "managedPipelineRole": false,
+      "standardWeeklyHours": 40,
+      "team": {
+        "teamName": "Software and Services",
+        "teamID": "teamsAndSubTeams-SFTWR",
+        "teamCode": "SFTWR"
+      },
+      "homeOffice": false
+    }
+  ],
+  "totalRecords": 2230
+}

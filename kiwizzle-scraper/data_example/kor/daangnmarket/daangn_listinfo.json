@@ -1,0 +1,921 @@
+{
+  "componentChunkName": "component---packages-karrotmarket-gatsby-theme-team-website-src-templates-jobs-page-tsx",
+  "path": "/jobs/",
+  "result": {
+    "data": {
+      "prismicTeamContents": {
+        "_previewable": "YK0CWBAAACYAp0fC",
+        "data": {
+          "fb_app_id": "158858972904712",
+          "twitter_site_handle": "daangnteam",
+          "jobs_page_meta_title": "당근마켓 채용",
+          "jobs_page_meta_description": "당근마켓과 함께 할 멋진 동료를 찾고 있어요!",
+          "jobs_page_meta_image": {
+            "localFile": {
+              "childImageSharp": {
+                "fixed": {
+                  "src": "/static/af97db526c8772c6a0e0d7bbbf6116d0/35c24/06562f2e-8962-48b4-bbbf-378b5fc70c1e_team-kv1.png",
+                  "width": 1200,
+                  "height": 630
+                }
+              }
+            }
+          },
+          "jobs_page_title": {
+            "text": "당근마켓과 함께 할\n멋진 동료를 찾고 있어요!"
+          }
+        }
+      },
+      "prismicSiteNavigation": {
+        "_previewable": "YKYjexAAACQA6_Vn",
+        "data": {
+          "header_entries": [
+            {
+              "link": {
+                "url": "https://team.daangn.com/"
+              },
+              "display_text": "회사 소개"
+            },
+            {
+              "link": {
+                "url": "https://team.daangn.com/culture/"
+              },
+              "display_text": "팀 문화"
+            },
+            {
+              "link": {
+                "url": "https://team.daangn.com/jobs/"
+              },
+              "display_text": "채용공고"
+            },
+            {
+              "link": {
+                "url": "https://team.daangn.com/faq/"
+              },
+              "display_text": "자주 묻는 질문"
+            }
+          ],
+          "sns_profiles": [
+            {
+              "service": "github",
+              "link": {
+                "url": "https://github.com/daangn"
+              }
+            },
+            {
+              "service": "medium",
+              "link": {
+                "url": "https://medium.com/daangn"
+              }
+            },
+            {
+              "service": "facebook",
+              "link": {
+                "url": "https://www.facebook.com/daangn/"
+              }
+            },
+            {
+              "service": "instagram",
+              "link": {
+                "url": "https://www.instagram.com/daangnmarket/"
+              }
+            }
+          ],
+          "copyright": {
+            "html": "<p><strong>© 당근마켓</strong></p>"
+          },
+          "address": {
+            "html": "<p>서울특별시 서초구 강남대로 465, 교보강남타워 11층</p>"
+          },
+          "tel": {
+            "html": "<p></p>"
+          },
+          "email": {
+            "html": "<p></p>"
+          },
+          "footer_entries": [
+            {
+              "display_text": "개인정보처리방침",
+              "link": {
+                "url": "https://www.daangn.com/policy/privacy"
+              }
+            },
+            {
+              "display_text": "브랜드 리소스",
+              "link": {
+                "url": "https://www.notion.so/daangn/e10010519eb9465aa703a6551c05eb63"
+              }
+            },
+            {
+              "display_text": "자주 묻는 질문",
+              "link": {
+                "url": "https://team.daangn.com/faq/"
+              }
+            }
+          ]
+        }
+      },
+      "currentJobPosts": {
+        "nodes": [
+          {
+            "id": "a0e50047-adf5-555d-9f00-bf4b4fa52bdf",
+            "ghId": "4800315003",
+            "externalUrl": null,
+            "chapter": "디자인",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "BX 디자이너",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "YES",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4800315003/"
+          },
+          {
+            "id": "bc417027-7db3-5cb0-9441-50354e2b4d23",
+            "ghId": "4745109003",
+            "externalUrl": null,
+            "chapter": "디자인",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "BX 디자이너 (영상/광고)",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "YES",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4745109003/"
+          },
+          {
+            "id": "f762e02e-4df1-5c0f-a839-5883c90bda3c",
+            "ghId": "4297958003",
+            "externalUrl": null,
+            "chapter": "디자인",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "BX 디자이너 (웹 디자인, UI)",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "YES",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4297958003/"
+          },
+          {
+            "id": "b2242887-b228-57e3-8aad-7919e2881753",
+            "ghId": "4351200003",
+            "externalUrl": null,
+            "chapter": "개발(DBA)",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "DBA (Database Administration)",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "YES",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4351200003/"
+          },
+          {
+            "id": "5d44d6b7-6c2a-5d76-af8d-b36f1b5d7582",
+            "ghId": "4445237003",
+            "externalUrl": null,
+            "chapter": "개발(검색)",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "NLP 엔지니어",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "YES",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4445237003/"
+          },
+          {
+            "id": "cf30bda9-7660-5a41-aaf0-1291326afa6b",
+            "ghId": "4473170003",
+            "externalUrl": null,
+            "chapter": "개발(플랫폼)",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "SRE (사이트 신뢰성 엔지니어)",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "YES",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4473170003/"
+          },
+          {
+            "id": "73471684-cc7e-5eed-9952-c2cf57cd041b",
+            "ghId": "4717630003",
+            "externalUrl": null,
+            "chapter": "개발(iOS/안드로이드)",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "iOS 개발자 - 라이브 스트리밍",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "YES",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4717630003/"
+          },
+          {
+            "id": "f07b5c87-7e52-55ec-8248-d89a6e793bbc",
+            "ghId": "4300798003",
+            "externalUrl": null,
+            "chapter": "개발(iOS/안드로이드)",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "iOS 개발자 - 프로덕트 부문",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "YES",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4300798003/"
+          },
+          {
+            "id": "d5e5ef68-9bb3-54a3-b982-d1a56836a39e",
+            "ghId": "4792169003",
+            "externalUrl": null,
+            "chapter": "PM/기획",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "검색 PM",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "YES",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4792169003/"
+          },
+          {
+            "id": "5db37747-4f0b-5f73-8ff8-a25a0387d1cd",
+            "ghId": "4708638003",
+            "externalUrl": null,
+            "chapter": "개발(검색)",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "검색 인프라 엔지니어",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "YES",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4708638003/"
+          },
+          {
+            "id": "261c8252-c008-58a8-899e-8d2681da3160",
+            "ghId": "4634663003",
+            "externalUrl": null,
+            "chapter": "개발(서버/백엔드)",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "광고 Data Management Platform 개발자 (Kotlin)",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "YES",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4634663003/"
+          },
+          {
+            "id": "86624b5e-6742-572b-ba67-3aae66fe2fd8",
+            "ghId": "4672452003",
+            "externalUrl": null,
+            "chapter": "개발(서버/백엔드)",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "광고 서버 개발자 (Kotlin)",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "YES",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4672452003/"
+          },
+          {
+            "id": "48544501-8fce-5d98-b4cb-4b51b12ffafa",
+            "ghId": "4634658003",
+            "externalUrl": null,
+            "chapter": "개발(서버/백엔드)",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "광고 파이낸스 서버 개발자 (Kotlin)",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "YES",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4634658003/"
+          },
+          {
+            "id": "898eb29b-d5c6-5f55-9b98-c1486c6079f3",
+            "ghId": "4668514003",
+            "externalUrl": null,
+            "chapter": "디자인",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "글로벌 프로덕트 디자이너 (UI/UX)",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "YES",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4668514003/"
+          },
+          {
+            "id": "f8331939-bdef-5804-951c-7ca7c799b3f0",
+            "ghId": "4754626003",
+            "externalUrl": null,
+            "chapter": "PM/기획",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "당근배송 PM",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "YES",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4754626003/"
+          },
+          {
+            "id": "666b25fe-29f9-5345-b0a7-20e97325e3e5",
+            "ghId": "4740944003",
+            "externalUrl": null,
+            "chapter": "개발(플랫폼)",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "당근페이 보안 컴플라이언스 담당자",
+            "corporate": "KARROT_PAY",
+            "priorExperience": "YES",
+            "tags": [
+              "초기멤버"
+            ],
+            "absoluteUrl": "https://team.daangn.com/jobs/4740944003/"
+          },
+          {
+            "id": "989d9b38-9d6f-55f9-a108-5073a2b49809",
+            "ghId": "4511184003",
+            "externalUrl": null,
+            "chapter": "개발(서버/백엔드)",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "당근페이 서버 개발자 (Java, Kotlin)",
+            "corporate": "KARROT_PAY",
+            "priorExperience": "YES",
+            "tags": [
+              "초기멤버"
+            ],
+            "absoluteUrl": "https://team.daangn.com/jobs/4511184003/"
+          },
+          {
+            "id": "e45e2499-821e-53e6-97c0-2a83750e8d50",
+            "ghId": "4428002003",
+            "externalUrl": null,
+            "chapter": "개발(프론트)",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "당근페이 프론트엔드 개발자",
+            "corporate": "KARROT_PAY",
+            "priorExperience": "WHATEVER",
+            "tags": [
+              "초기멤버"
+            ],
+            "absoluteUrl": "https://team.daangn.com/jobs/4428002003/"
+          },
+          {
+            "id": "0ecb498f-ddb3-58f8-a8b4-4e55c160e82f",
+            "ghId": "4300801003",
+            "externalUrl": null,
+            "chapter": "개발(데이터)",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "데이터 엔지니어",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "WHATEVER",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4300801003/"
+          },
+          {
+            "id": "e3426f57-669f-5d42-bafe-3f84f181c66c",
+            "ghId": "4728335003",
+            "externalUrl": null,
+            "chapter": "PM/기획",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "로컬 커머스 PM",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "YES",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4728335003/"
+          },
+          {
+            "id": "70f6d37a-7a54-5f61-9cc8-8f6e5189f60e",
+            "ghId": "4796261003",
+            "externalUrl": null,
+            "chapter": "경영지원",
+            "order": 0,
+            "employmentType": "CONTRACTOR",
+            "title": "리크루팅 오퍼레이션 스페셜리스트",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "YES",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4796261003/"
+          },
+          {
+            "id": "d62c0368-f2a8-53d0-97d2-4c92e3dc9985",
+            "ghId": "4288761003",
+            "externalUrl": null,
+            "chapter": "경영지원",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "리크루팅 파트 리드",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "YES",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4288761003/"
+          },
+          {
+            "id": "c48834c0-cbf1-58a6-b669-436104c88934",
+            "ghId": "4515787003",
+            "externalUrl": null,
+            "chapter": "개발(머신러닝)",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "머신러닝 개발자 - 개인화 추천 시스템",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "WHATEVER",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4515787003/"
+          },
+          {
+            "id": "8135f49c-ff6e-5331-be9e-14de55dc152a",
+            "ghId": "4531409003",
+            "externalUrl": null,
+            "chapter": "개발(머신러닝)",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "머신러닝 개발자 - 사용자 이해",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "WHATEVER",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4531409003/"
+          },
+          {
+            "id": "49cb361a-ad05-58a2-8db8-2d12f7a013aa",
+            "ghId": "4531418003",
+            "externalUrl": null,
+            "chapter": "개발(머신러닝)",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "머신러닝 개발자 - 콘텐츠 이해",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "WHATEVER",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4531418003/"
+          },
+          {
+            "id": "5022cc7e-2913-5e8d-8e3d-24926e798464",
+            "ghId": "4300803003",
+            "externalUrl": null,
+            "chapter": "개발(머신러닝)",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "머신러닝 모델 개발자",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "WHATEVER",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4300803003/"
+          },
+          {
+            "id": "a5671aa3-6744-52f0-a06d-3e2a0e18462d",
+            "ghId": "4300804003",
+            "externalUrl": null,
+            "chapter": "개발(머신러닝)",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "머신러닝 서비스 개발자",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "YES",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4300804003/"
+          },
+          {
+            "id": "bf2cb4bc-6f86-5dd8-9b56-8bc872ff47a1",
+            "ghId": "4300802003",
+            "externalUrl": null,
+            "chapter": "개발(머신러닝)",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "머신러닝 시스템 개발자",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "YES",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4300802003/"
+          },
+          {
+            "id": "44440ed8-3b81-5e7f-8b16-9ba2fd0be58e",
+            "ghId": "4802708003",
+            "externalUrl": null,
+            "chapter": "PM/기획",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "버티컬 신사업 PM",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "YES",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4802708003/"
+          },
+          {
+            "id": "70573fbc-615c-583c-8e72-0229cf7f57b7",
+            "ghId": "4740946003",
+            "externalUrl": null,
+            "chapter": "개발(플랫폼)",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "보안기술 담당자",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "YES",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4740946003/"
+          },
+          {
+            "id": "a9e9211a-37bb-5dbe-b1fc-aeab50ad2155",
+            "ghId": "4513815003",
+            "externalUrl": null,
+            "chapter": "개발(서버/백엔드)",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "사업 부문 서버 개발자 (Java/Kotlin)",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "YES",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4513815003/"
+          },
+          {
+            "id": "b378c269-ff23-5293-b14b-95b846b0a83d",
+            "ghId": "4708639003",
+            "externalUrl": null,
+            "chapter": "개발(서버/백엔드)",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "서버 개발자 - 라이브 스트리밍 (Go)",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "YES",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4708639003/"
+          },
+          {
+            "id": "530c72ba-4a1d-5a37-a85d-89944b3df738",
+            "ghId": "4300797003",
+            "externalUrl": null,
+            "chapter": "개발(서버/백엔드)",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "서비스 서버 개발자 (Rails)",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "WHATEVER",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4300797003/"
+          },
+          {
+            "id": "9a03a639-9e4b-5699-a7bd-69156ebc4023",
+            "ghId": "4807389003",
+            "externalUrl": null,
+            "chapter": "PM/기획",
+            "order": 0,
+            "employmentType": "INTERN",
+            "title": "서비스 운영 인턴",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "NO",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4807389003/"
+          },
+          {
+            "id": "fb3f8565-5b97-5b46-b7c7-f2af523e33e2",
+            "ghId": "4557423003",
+            "externalUrl": null,
+            "chapter": "개발(서버/백엔드)",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "신사업 서버 개발자 (Node.js)",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "WHATEVER",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4557423003/"
+          },
+          {
+            "id": "969391d2-0243-5373-a83c-0519fe4e4719",
+            "ghId": "4496730003",
+            "externalUrl": null,
+            "chapter": "개발(iOS/안드로이드)",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "안드로이드 개발자 - 프로덕트 부문",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "YES",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4496730003/"
+          },
+          {
+            "id": "41dcc62c-228f-59c7-b39d-fe1d20891b8d",
+            "ghId": "4752287003",
+            "externalUrl": null,
+            "chapter": "경영지원",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "인사전략 파트 리드",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "YES",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4752287003/"
+          },
+          {
+            "id": "b57aea97-37f4-510f-bcd0-4692232bd23e",
+            "ghId": "4772916003",
+            "externalUrl": null,
+            "chapter": "PM/기획",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "중고거래 PM",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "YES",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4772916003/"
+          },
+          {
+            "id": "77bd81ae-9ee4-5a3d-80d6-4201b0ed3650",
+            "ghId": "4551662003",
+            "externalUrl": null,
+            "chapter": "개발(플랫폼)",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "지리정보 플랫폼 개발자",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "WHATEVER",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4551662003/"
+          },
+          {
+            "id": "55013696-3edc-59ba-9a0d-5a3e171fef07",
+            "ghId": "4705714003",
+            "externalUrl": null,
+            "chapter": "PM/기획",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "지역 커뮤니티 PM",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "YES",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4705714003/"
+          },
+          {
+            "id": "c723fbc8-f4ce-5246-8434-62e6f12c9b31",
+            "ghId": "4734896003",
+            "externalUrl": null,
+            "chapter": "개발(서버/백엔드)",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "지역 커뮤니티팀 서버 개발자 (Kotlin)",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "YES",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4734896003/"
+          },
+          {
+            "id": "7c206624-394e-5136-807c-621f4128bd52",
+            "ghId": "4800311003",
+            "externalUrl": null,
+            "chapter": "콘텐츠",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "콘텐츠 매니저",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "YES",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4800311003/"
+          },
+          {
+            "id": "de2d09a2-7d78-5fc7-a627-7f47edcfd3b2",
+            "ghId": "4736563003",
+            "externalUrl": null,
+            "chapter": "경영지원",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "테크 리크루터",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "WHATEVER",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4736563003/"
+          },
+          {
+            "id": "ee95c78e-c68d-5d6b-ba35-05c4cbe7cff6",
+            "ghId": "4331213003",
+            "externalUrl": null,
+            "chapter": "마케팅",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "퍼포먼스 마케터",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "YES",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4331213003/"
+          },
+          {
+            "id": "f1a0735a-2e7e-5524-8054-5d535cddc8b5",
+            "ghId": "4557367003",
+            "externalUrl": null,
+            "chapter": "데이터 분석",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "프로덕트 데이터 분석가",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "YES",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4557367003/"
+          },
+          {
+            "id": "d22146ff-fd65-5b0c-8e88-635fc9e1e65a",
+            "ghId": "4298081003",
+            "externalUrl": null,
+            "chapter": "디자인",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "프로덕트 디자이너 (UI/UX)",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "YES",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4298081003/"
+          },
+          {
+            "id": "0c5f02ca-dbc4-5f13-9a70-5ef6f033da3a",
+            "ghId": "4298115003",
+            "externalUrl": null,
+            "chapter": "개발(프론트)",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "프론트엔드 개발자",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "WHATEVER",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4298115003/"
+          },
+          {
+            "id": "8ea05922-ca9e-510d-b3e9-85e4489fd208",
+            "ghId": "4300800003",
+            "externalUrl": null,
+            "chapter": "개발(플랫폼)",
+            "order": 0,
+            "employmentType": "FULL_TIME",
+            "title": "플랫폼 서버 개발자",
+            "corporate": "KARROT_MARKET",
+            "priorExperience": "WHATEVER",
+            "tags": [],
+            "absoluteUrl": "https://team.daangn.com/jobs/4300800003/"
+          }
+        ]
+      },
+      "allJobPost": {
+        "totalCount": 48,
+        "allChapter": [
+          {
+            "fieldValue": "PM/기획",
+            "totalCount": 7,
+            "nodes": [
+              {
+                "chapter": "PM/기획",
+                "slug": "PM-기획"
+              }
+            ]
+          },
+          {
+            "fieldValue": "개발(DBA)",
+            "totalCount": 1,
+            "nodes": [
+              {
+                "chapter": "개발(DBA)",
+                "slug": "개발-DBA"
+              }
+            ]
+          },
+          {
+            "fieldValue": "개발(iOS/안드로이드)",
+            "totalCount": 3,
+            "nodes": [
+              {
+                "chapter": "개발(iOS/안드로이드)",
+                "slug": "개발-iOS-안드로이드"
+              }
+            ]
+          },
+          {
+            "fieldValue": "개발(검색)",
+            "totalCount": 2,
+            "nodes": [
+              {
+                "chapter": "개발(검색)",
+                "slug": "개발-검색"
+              }
+            ]
+          },
+          {
+            "fieldValue": "개발(데이터)",
+            "totalCount": 1,
+            "nodes": [
+              {
+                "chapter": "개발(데이터)",
+                "slug": "개발-데이터"
+              }
+            ]
+          },
+          {
+            "fieldValue": "개발(머신러닝)",
+            "totalCount": 6,
+            "nodes": [
+              {
+                "chapter": "개발(머신러닝)",
+                "slug": "개발-머신러닝"
+              }
+            ]
+          },
+          {
+            "fieldValue": "개발(서버/백엔드)",
+            "totalCount": 9,
+            "nodes": [
+              {
+                "chapter": "개발(서버/백엔드)",
+                "slug": "개발-서버-백엔드"
+              }
+            ]
+          },
+          {
+            "fieldValue": "개발(프론트)",
+            "totalCount": 2,
+            "nodes": [
+              {
+                "chapter": "개발(프론트)",
+                "slug": "개발-프론트"
+              }
+            ]
+          },
+          {
+            "fieldValue": "개발(플랫폼)",
+            "totalCount": 5,
+            "nodes": [
+              {
+                "chapter": "개발(플랫폼)",
+                "slug": "개발-플랫폼"
+              }
+            ]
+          },
+          {
+            "fieldValue": "경영지원",
+            "totalCount": 4,
+            "nodes": [
+              {
+                "chapter": "경영지원",
+                "slug": "경영지원"
+              }
+            ]
+          },
+          {
+            "fieldValue": "데이터 분석",
+            "totalCount": 1,
+            "nodes": [
+              {
+                "chapter": "데이터 분석",
+                "slug": "데이터-분석"
+              }
+            ]
+          },
+          {
+            "fieldValue": "디자인",
+            "totalCount": 5,
+            "nodes": [
+              {
+                "chapter": "디자인",
+                "slug": "디자인"
+              }
+            ]
+          },
+          {
+            "fieldValue": "마케팅",
+            "totalCount": 1,
+            "nodes": [
+              {
+                "chapter": "마케팅",
+                "slug": "마케팅"
+              }
+            ]
+          },
+          {
+            "fieldValue": "콘텐츠",
+            "totalCount": 1,
+            "nodes": [
+              {
+                "chapter": "콘텐츠",
+                "slug": "콘텐츠"
+              }
+            ]
+          }
+        ],
+        "allEmploymentType": [
+          {
+            "fieldValue": "CONTRACTOR"
+          },
+          {
+            "fieldValue": "FULL_TIME"
+          },
+          {
+            "fieldValue": "INTERN"
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "locale": "ko-kr",
+      "navigationId": "team.daangn.com",
+      "pattern": "/.*/",
+      "chapter": null,
+      "slug": null
+    }
+  },
+  "staticQueryHashes": [
+    "1520583107",
+    "211119292"
+  ]
+}
